@@ -9,9 +9,12 @@ import os
 import io
 from pathlib import Path
 
-SOURCE_FILE = "input/2026 Golden Inventory.xlsx"
+SOURCE_FILE = "input/2026 Golden Inventory Internal Sales.xlsx"
 IMAGES_DIR = "images"
 SHEET_NAME = "Item Listing and Pricing"
+
+if not os.path.exists(SOURCE_FILE):
+    SOURCE_FILE = "input/2026 Golden Inventory.xlsx"
 
 
 def extract_images():

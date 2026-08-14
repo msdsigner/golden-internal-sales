@@ -40,7 +40,9 @@ import time
 import datetime
 import re
 import sys
+import zipfile
 from datetime import date
+from zipfile import BadZipFile
 
 # Ensure local 'scripts' package is discoverable
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -68,6 +70,7 @@ OUTPUT_DIR      = "output"
 IMAGES_DIR      = "images"
 INVENTORY_TOOL_PATTERN = os.path.join(INPUT_DIR, "Inventory Tool*.xlsx")
 BANNER_PATH     = os.path.join(IMAGES_DIR, "banner.png")
+MASTER_WORKBOOK_SUFFIX = "Golden Inventory Internal Sales.xlsx"
 
 # Row/column constants for Item Listing and Pricing
 ILP_HEADER_ROW  = 3
@@ -118,12 +121,12 @@ def find_inventory_tool_files():
 
 def get_golden_inventory_path(year: int) -> str:
     """Returns the path to the working Golden Inventory file in output/."""
-    return os.path.join(OUTPUT_DIR, f"{year} Golden Inventory.xlsx")
+    return os.path.join(OUTPUT_DIR, f"{year} {MASTER_WORKBOOK_SUFFIX}")
 
 
 def get_input_golden_inventory_path(year: int) -> str:
     """Returns the path to the reference Golden Inventory file in input/."""
-    return os.path.join(INPUT_DIR, f"{year} Golden Inventory.xlsx")
+    return os.path.join(INPUT_DIR, f"{year} {MASTER_WORKBOOK_SUFFIX}")
 
 
 # load_raw_data moved to scripts.excel_utils
@@ -397,9 +400,21 @@ def run(interactive=True):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     if os.path.exists(gi_path):
         print(f"[4] Opening existing output file: {gi_path}")
-        wb = load_workbook(gi_path)
+        try:
+            wb = load_workbook(gi_path)
+        except (BadZipFile, zipfile.LargeZipFile, ValueError, OSError):
+            print(f"[4] Existing workbook is corrupted or incomplete. Rebuilding: {gi_path}")
+            backup_path = gi_path + ".corrupt-backup"
+            if os.path.exists(backup_path):
+                try: os.remove(backup_path)
+                except OSError: pass
+            shutil.move(gi_path, backup_path)
+            print(f"    Saved backup to: {backup_path}")
+            wb = None
     else:
-        # Try to seed from input/ reference copy first
+        wb = None
+
+    if wb is None:
         input_gi_path = get_input_golden_inventory_path(year)
         if os.path.exists(input_gi_path):
             print(f"[4] Seeding from input reference: {input_gi_path}")
@@ -537,7 +552,7 @@ def run(interactive=True):
         print(f"\n[Drive] Uploading most recent reports to Google Drive...")
         try:
             from scripts.google_drive_upload import get_service, replace_file_on_gdrive
-            FOLDER_ID = "1RbYL5fmeL0MhCC-E8CdpXMTEzyBiJH8x"
+            FOLDER_ID = "1dPx0jVk9UuTwnhe942uCmKM0PXOuKzFi"
             service = get_service()
             if service:
                 xlsx_id = replace_file_on_gdrive(service, recent_xlsx, FOLDER_ID, custom_name="Golden_Inventory_Latest.xlsx")

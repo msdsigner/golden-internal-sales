@@ -1,6 +1,11 @@
+import os
 import openpyxl
 
-wb = openpyxl.load_workbook('input/2026 Golden Inventory.xlsx')
+source = 'input/2026 Golden Inventory Internal Sales.xlsx'
+if not os.path.exists(source):
+    source = 'input/2026 Golden Inventory.xlsx'
+
+wb = openpyxl.load_workbook(source)
 ws = wb['Item Listing and Pricing']
 
 # Build row -> item code map from column B (item codes start at row 4)

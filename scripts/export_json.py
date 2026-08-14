@@ -33,9 +33,11 @@ def export_to_json(out_path="webapp/data/inventory.json", xlsx_id=None, pdf_id=N
 
     # ── LOAD DATA ────────────────────────────────────────────────────
     year = datetime.datetime.now().year
-    latest_out = os.path.join("output", f"{year} Golden Inventory.xlsx")
+    preferred = os.path.join("output", f"{year} Golden Inventory Internal Sales.xlsx")
+    legacy = os.path.join("output", f"{year} Golden Inventory.xlsx")
+    latest_out = preferred if os.path.exists(preferred) else legacy
     if not os.path.exists(latest_out):
-        print(f"Master workbook {latest_out} not found.")
+        print(f"Master workbook {preferred} or {legacy} not found.")
         return
     
     wb = load_workbook(latest_out, data_only=True)

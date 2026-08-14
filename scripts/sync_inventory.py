@@ -10,11 +10,13 @@ from scripts.excel_utils import get_latest_inventory_sheet, normalize_sku
 
 def sync_inventory():
     year = datetime.now().year
-    excel_path = os.path.join("output", f"{year} Golden Inventory.xlsx")
+    preferred = os.path.join("output", f"{year} Golden Inventory Internal Sales.xlsx")
+    legacy = os.path.join("output", f"{year} Golden Inventory.xlsx")
+    excel_path = preferred if os.path.exists(preferred) else legacy
     json_path = os.path.join("webapp", "data", "inventory.json")
 
     if not os.path.exists(excel_path):
-        print(f"Error: Excel file not found at {excel_path}")
+        print(f"Error: Excel file not found at {preferred} or {legacy}")
         return
 
     wb = openpyxl.load_workbook(excel_path, data_only=True)

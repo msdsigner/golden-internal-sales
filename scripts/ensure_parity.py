@@ -16,7 +16,9 @@ def ensure_parity():
     and logs all actions to parity_audit.txt.
     """
     year = datetime.now().year
-    excel_path = os.path.join("output", f"{year} Golden Inventory.xlsx")
+    preferred = os.path.join("output", f"{year} Golden Inventory Internal Sales.xlsx")
+    legacy = os.path.join("output", f"{year} Golden Inventory.xlsx")
+    excel_path = preferred if os.path.exists(preferred) else legacy
     json_path = os.path.join("webapp", "data", "inventory.json")
     error_log_path = 'parity_errors.txt'
     

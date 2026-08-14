@@ -46,15 +46,26 @@ MASTER_TAXONOMY_RULES = {
         "Portable Air Conditioners": ["portable air conditioner", "portable ac"],
         "Window Air Conditioners": ["window air conditioner", "window ac"],
         "Tower Fans": ["tower fan"],
-        "Box Fans": ["box fan"]
+        "Box Fans": ["box fan"],
+        "Fans": ["fan", "ceiling fan", "drum fan", "window fan", "portable fan"],
+        "Air Purifiers": ["air purifier", "purifier"],
+        "Humidifiers": ["humidifier", "ultrasonic humidifier"]
     },
     "Audio": {
-        "Bluetooth Speakers": ["bluetooth speaker"],
-        "Party Speakers": ["party speaker"]
+        "Bluetooth Speakers": ["bluetooth speaker", "portable speaker", "speaker", "boombox"],
+        "Party Speakers": ["party speaker", "karaoke system", "speaker system"],
+        "Headphones": ["headphone", "headset", "earphone", "earbuds", "ear buds"],
+        "Earphones": ["earphones", "earbuds", "ear buds", "in-ear"],
+        "Radios": ["radio", "am/fm", "fm radio", "clock radio"]
     },
     "Electronics": {
         "TV Mounts": ["tv wall mount", "full motion mount", "tilt mount", "fixed mount"],
-        "LED Lighting": ["led strip light", "led light strip"]
+        "LED Lighting": ["led strip light", "led light strip", "led light", "lighting strip", "ring light"],
+        "Remotes": ["remote", "remote control", "universal remote"],
+        "CD Players": ["cd player", "portable cd", "compact disc player", "cd boombox"],
+        "Timers": ["timer", "countdown timer"],
+        "Computing": ["mouse", "keyboard", "media box"],
+        "Antennas": ["antenna", "passive antenna", "hd antenna", "hdtv antenna"]
     },
     "Home & Laundry": {
         "Steam Irons": ["steam iron", "steam/dry iron", "dry steam iron"],
