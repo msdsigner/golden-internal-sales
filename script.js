@@ -1,5 +1,33 @@
 document.addEventListener('DOMContentLoaded', () => {
     
+    // Login Screen Logic
+    const loginOverlay = document.getElementById('loginOverlay');
+    const loginForm = document.getElementById('loginForm');
+    const passwordInput = document.getElementById('passwordInput');
+    const loginError = document.getElementById('loginError');
+
+    const ACCESS_CODE = 'Golden2026';
+
+    if (sessionStorage.getItem('golden_authenticated') === 'true') {
+        loginOverlay.classList.add('hidden');
+        document.body.style.overflow = '';
+    } else {
+        document.body.style.overflow = 'hidden'; // Lock scrolling until unlocked
+    }
+
+    loginForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        if (passwordInput.value === ACCESS_CODE) {
+            sessionStorage.setItem('golden_authenticated', 'true');
+            loginOverlay.classList.add('hidden');
+            document.body.style.overflow = '';
+        } else {
+            loginError.classList.remove('hidden');
+            passwordInput.value = '';
+            passwordInput.focus();
+        }
+    });
+
     // Core Elements
     const grid = document.getElementById('inventoryGrid');
     const searchInput = document.getElementById('searchInput');

@@ -17,6 +17,20 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
 </head>
 <body>
+    <!-- Login Overlay -->
+    <div id="loginOverlay" class="login-overlay">
+        <div class="login-box">
+            <img src="images/logo.png" alt="Golden Opportunity Logo" class="login-logo">
+            <h2>Internal Sales Portal</h2>
+            <p>Please enter the access code to view the inventory catalog.</p>
+            <form id="loginForm">
+                <input type="password" id="passwordInput" placeholder="Enter Access Code" required autofocus>
+                <button type="submit" class="login-submit-btn">Unlock Catalog</button>
+                <p id="loginError" class="login-error hidden">Invalid access code. Please try again.</p>
+            </form>
+        </div>
+    </div>
+
     <!-- Top Navigation -->
     <header>
         <div class="nav-container">
