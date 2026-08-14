@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Credentials / authentication
+credentials.json
+token.pickle
+config_odoo.json
+github_config.json
+
+# Generated / temporary files
+output/
+scratch/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+.env.*
+!.env.example
