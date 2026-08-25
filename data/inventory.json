@@ -8365,9 +8365,9 @@
         {
             "id": "CE-CG839",
             "name": "Continental Contact Grill, Non-Stick, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
+            "category": "Grills",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Grills",
             "price": "17.00",
             "available": 120,
             "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
@@ -8375,9 +8375,9 @@
         {
             "id": "CE-CO109",
             "name": "Continental Can Opener Stainless Blade - Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
+            "category": "Can Openers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Can Openers",
             "price": "16.50",
             "available": 100,
             "image": "images/CE-CO109.png"
