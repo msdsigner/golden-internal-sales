@@ -2433,6 +2433,16 @@
             "image": "images/SC-5000VD.png"
         },
         {
+            "id": "CE-CO109",
+            "name": "Continental Can Opener Stainless Blade - Black",
+            "category": "Can Openers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Can Openers",
+            "price": "16.50",
+            "available": 100,
+            "image": "images/CE-CO109.png"
+        },
+        {
             "id": "J-30B",
             "name": "BRENTWOOD Elec. Tall Can Opener - BLK",
             "category": "Can Openers",
@@ -4103,6 +4113,16 @@
             "image": "images/MG-400W.png"
         },
         {
+            "id": "CE-CG839",
+            "name": "Continental Contact Grill, Non-Stick, Black",
+            "category": "Grills",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Grills",
+            "price": "17.00",
+            "available": 120,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "DMO01001",
             "name": "Marc's On The Grill - Folding Charcoal Grill, Black",
             "category": "Grills",
@@ -5609,8 +5629,38 @@
             "parent_category": "Refurbished",
             "sub_category": "Humidifiers",
             "price": "278.00",
-            "available": 221,
+            "available": 228,
             "image": "images/MAD20S1QWT-ROA.png"
+        },
+        {
+            "id": "MAD35S1QWT/ROA",
+            "name": "Midea Cube 35 Pint Dehumidifier for Rooms at home, up to 3,500 Sq.Ft. dehumidifier with drain hose, RB",
+            "category": "Humidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Humidifiers",
+            "price": "278.00",
+            "available": 36,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MAD50PS1AQGR/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., Black, RB",
+            "category": "Humidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Humidifiers",
+            "price": "230.00",
+            "available": 57,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MAD50PS1QWT/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
+            "category": "Humidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Humidifiers",
+            "price": "230.00",
+            "available": 24,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "14210R",
@@ -7003,6 +7053,16 @@
             "image": "images/PX0812CWRU-ROA.png"
         },
         {
+            "id": "RAC-PD1213CWRU/ROA",
+            "name": "Toshiba 12K BTU (8,000 BTU DOE) Portable AC - Refurbished",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "179.00",
+            "available": 1,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "S-15051",
             "name": "Portable AC Box - 15x15x36",
             "category": "Portable AC",
@@ -7049,8 +7109,18 @@
             "parent_category": "Refurbished",
             "sub_category": "Portable AC",
             "price": "160.00",
-            "available": 1,
+            "available": 2,
             "image": "images/VAP09R1AWT-ROA.png"
+        },
+        {
+            "id": "VPFD05YCLW/ROA",
+            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms - White, RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "160.00",
+            "available": 2,
+            "image": "images/VPFD05YCLW-ROA.png"
         },
         {
             "id": "VPMS05BWT",
@@ -7059,7 +7129,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Portable AC",
             "price": "289.00",
-            "available": 21,
+            "available": 35,
             "image": "images/VPMS05BWT.png"
         },
         {
@@ -8361,26 +8431,6 @@
             "price": "14.00",
             "available": 42,
             "image": "images/WTO1-1022-WHT.png"
-        },
-        {
-            "id": "CE-CG839",
-            "name": "Continental Contact Grill, Non-Stick, Black",
-            "category": "Grills",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Grills",
-            "price": "17.00",
-            "available": 120,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
-            "id": "CE-CO109",
-            "name": "Continental Can Opener Stainless Blade - Black",
-            "category": "Can Openers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Can Openers",
-            "price": "16.50",
-            "available": 100,
-            "image": "images/CE-CO109.png"
         },
         {
             "id": "CCUK12W/ROA",
