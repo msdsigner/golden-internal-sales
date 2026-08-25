@@ -112,6 +112,26 @@ document.addEventListener('DOMContentLoaded', () => {
             dlPdfBtn.removeAttribute('rel');
             dlPdfBtn.setAttribute('download', 'golden-inventory.pdf');
             dlPdfBtn.style.display = 'inline-block';
+
+            const dlExcelPrivateBtn = document.getElementById('dlExcelPrivate');
+            const dlPdfPrivateBtn = document.getElementById('dlPdfPrivate');
+
+            const internalSalesExcel = 'https://docs.google.com/spreadsheets/d/1bwJRXx4gG0_0T-xIvHRsVHvUFo1bUFvS/edit?usp=sharing&ouid=118147644510227044995&rtpof=true&sd=true';
+            const internalSalesPdf = 'https://drive.google.com/file/d/18iYN8gDahWe5suqxJs9vSJRCL2O8jtls/view?usp=drive_link';
+
+            if (dlExcelPrivateBtn) {
+                dlExcelPrivateBtn.href = internalSalesExcel;
+                dlExcelPrivateBtn.target = '_blank';
+                dlExcelPrivateBtn.rel = 'noopener';
+                dlExcelPrivateBtn.style.display = 'inline-block';
+            }
+
+            if (dlPdfPrivateBtn) {
+                dlPdfPrivateBtn.href = internalSalesPdf;
+                dlPdfPrivateBtn.target = '_blank';
+                dlPdfPrivateBtn.rel = 'noopener';
+                dlPdfPrivateBtn.style.display = 'inline-block';
+            }
             
             if (!window.publishPricing) {
                 // Hide sort options related to price and qty
