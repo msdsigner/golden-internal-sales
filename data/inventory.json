@@ -1290,7 +1290,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "30.00",
             "available": 50,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPNPRMN1.png"
         },
         {
             "id": "HPXSPBT6",
@@ -1940,7 +1940,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "115.00",
             "available": 24,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WPB2-GRY.png"
         },
         {
             "id": "WPB220M-BLK",
@@ -2630,7 +2630,7 @@
             "sub_category": "Coffee & Tea",
             "price": "14.00",
             "available": 400,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CE-IR941.png"
         },
         {
             "id": "CG-158B",
@@ -4120,7 +4120,7 @@
             "sub_category": "Grills",
             "price": "17.00",
             "available": 120,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CE-CG839.png"
         },
         {
             "id": "DMO01001",
@@ -4770,7 +4770,7 @@
             "sub_category": "Headphones",
             "price": "20.00",
             "available": 108,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBTA335.png"
         },
         {
             "id": "HPXBTAND",
@@ -4830,7 +4830,7 @@
             "sub_category": "Headphones",
             "price": "15.00",
             "available": 144,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBTO350.png"
         },
         {
             "id": "HPXBTSP3",
@@ -4970,7 +4970,7 @@
             "sub_category": "Headphones",
             "price": "5.00",
             "available": 200,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXHS261.png"
         },
         {
             "id": "HPXHS861",
@@ -5640,7 +5640,7 @@
             "sub_category": "Humidifiers",
             "price": "278.00",
             "available": 36,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAD35S1QWT-ROA.png"
         },
         {
             "id": "MAD50PS1AQGR/ROA",
@@ -5650,7 +5650,7 @@
             "sub_category": "Humidifiers",
             "price": "230.00",
             "available": 57,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAD50PS1AQGR-ROA.png"
         },
         {
             "id": "MAD50PS1QWT/ROA",
@@ -5660,6 +5660,16 @@
             "sub_category": "Humidifiers",
             "price": "230.00",
             "available": 24,
+            "image": "images/MAD50PS1QWT-ROA.png"
+        },
+        {
+            "id": "MAD50S1QWT/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
+            "category": "Humidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Humidifiers",
+            "price": "230.00",
+            "available": 6,
             "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
@@ -7060,7 +7070,7 @@
             "sub_category": "Portable AC",
             "price": "179.00",
             "available": 1,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/RAC-PD1213CWRU-ROA.png"
         },
         {
             "id": "S-15051",
