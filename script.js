@@ -116,8 +116,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const dlExcelPrivateBtn = document.getElementById('dlExcelPrivate');
             const dlPdfPrivateBtn = document.getElementById('dlPdfPrivate');
 
-            const internalSalesExcel = 'https://docs.google.com/spreadsheets/d/1bwJRXx4gG0_0T-xIvHRsVHvUFo1bUFvS/edit?usp=sharing&ouid=118147644510227044995&rtpof=true&sd=true';
-            const internalSalesPdf = 'https://drive.google.com/file/d/18iYN8gDahWe5suqxJs9vSJRCL2O8jtls/view?usp=drive_link';
+            const internalSalesExcel = 'https://drive.google.com/uc?export=download&id=1bwJRXx4gG0_0T-xIvHRsVHvUFo1bUFvS';
+            const internalSalesPdf = 'https://drive.google.com/uc?export=download&id=18iYN8gDahWe5suqxJs9vSJRCL2O8jtls';
 
             if (dlExcelPrivateBtn) {
                 dlExcelPrivateBtn.href = internalSalesExcel;
