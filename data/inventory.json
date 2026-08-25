@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 19, 2026",
+    "last_updated": "August 26, 2026",
     "publish_pricing": true,
     "items": [
         {
@@ -2613,6 +2613,16 @@
             "image": "images/CG-162S.png"
         },
         {
+            "id": "CH99671",
+            "name": "Homestyle Essentials 12 Cups coffee maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "22.00",
+            "available": 2,
+            "image": "images/CH99671.png"
+        },
+        {
             "id": "CHCM12B",
             "name": "Commecial Chef 12-cup Coffee Maker",
             "category": "Coffee & Tea",
@@ -2631,6 +2641,16 @@
             "price": "14.00",
             "available": 28,
             "image": "images/CTS-1000.png"
+        },
+        {
+            "id": "CTSA-3500",
+            "name": "BRENTWOOD3.5L S/S Vacuum drink dispenser",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "32.00",
+            "available": 6,
+            "image": "images/CTSA-3500.png"
         },
         {
             "id": "HE-760",
@@ -2843,6 +2863,16 @@
             "image": "images/TS-212BK.png"
         },
         {
+            "id": "TS-213W",
+            "name": "BRENTWOOD 4 Cup Coffee Maker, White",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "21.00",
+            "available": 1,
+            "image": "images/TS-213W.png"
+        },
+        {
             "id": "TS-215W",
             "name": "BRENTWOOD 10 Cup Coffee Maker - Wht",
             "category": "Coffee & Tea",
@@ -2891,36 +2921,6 @@
             "price": "18.00",
             "available": 27,
             "image": "images/WCF1-1007-BLK.png"
-        },
-        {
-            "id": "CH99671",
-            "name": "Homestyle Essentials 12 Cups coffee maker",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "22.00",
-            "available": 2,
-            "image": "images/CH99671.png"
-        },
-        {
-            "id": "CTSA-3500",
-            "name": "BRENTWOOD3.5L S/S Vacuum drink dispenser",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "32.00",
-            "available": 6,
-            "image": "images/CTSA-3500.png"
-        },
-        {
-            "id": "TS-213W",
-            "name": "BRENTWOOD 4 Cup Coffee Maker, White",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "21.00",
-            "available": 1,
-            "image": "images/TS-213W.png"
         },
         {
             "id": "WCF1-1009-BLK",
@@ -7793,16 +7793,6 @@
             "image": "images/37210.png"
         },
         {
-            "id": "GF-P1124-1222",
-            "name": "GForce Universal Media Box Mount",
-            "category": "TV Wall Mounts",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Wall Mounts",
-            "price": "7.50",
-            "available": 3,
-            "image": "images/GF-P1124-1222.png"
-        },
-        {
             "id": "SM-720-6030",
             "name": "Emerald Wall Mount TV Stand, Black",
             "category": "TV Stands",
@@ -7881,6 +7871,16 @@
             "price": "40.00",
             "available": 125,
             "image": "images/BKS-720-891.png"
+        },
+        {
+            "id": "GF-P1124-1222",
+            "name": "GForce Universal Media Box Mount",
+            "category": "TV Wall Mounts",
+            "parent_category": "Home & Office",
+            "sub_category": "TV Wall Mounts",
+            "price": "7.50",
+            "available": 3,
+            "image": "images/GF-P1124-1222.png"
         },
         {
             "id": "RM-720-9128",
