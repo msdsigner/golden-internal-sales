@@ -6420,7 +6420,7 @@
             "sub_category": "Microwaves",
             "price": "95.00",
             "available": 16,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SC678C-RBO.png"
         },
         {
             "id": "NN-SC678CC/RBO",
@@ -6440,7 +6440,7 @@
             "sub_category": "Microwaves",
             "price": "87.96",
             "available": 8,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SC678S-RB.png"
         },
         {
             "id": "NN-SC67NS/RBO",
@@ -6500,7 +6500,7 @@
             "sub_category": "Microwaves",
             "price": "100.00",
             "available": 2,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SU65QB-RBO.png"
         },
         {
             "id": "NNSC64MW/RB",
@@ -6560,7 +6560,7 @@
             "sub_category": "Microwaves",
             "price": "100.00",
             "available": 17,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NNSU65NWC-RBO.png"
         },
         {
             "id": "WSI-EM22AST/ROA",
