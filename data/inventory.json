@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 28, 2026",
+    "last_updated": "September 01, 2026",
     "publish_pricing": true,
     "items": [
         {
@@ -139,7 +139,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Alarm Clocks",
             "price": "11.00",
-            "available": 65,
+            "available": 59,
             "image": "images/CR640D.png"
         },
         {
@@ -199,7 +199,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "12.00",
-            "available": 232,
+            "available": 228,
             "image": "images/ANT-101.png"
         },
         {
@@ -209,7 +209,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "5.00",
-            "available": 121,
+            "available": 117,
             "image": "images/ANT-22.png"
         },
         {
@@ -229,7 +229,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "6.00",
-            "available": 73,
+            "available": 61,
             "image": "images/ANT-7-BLK.png"
         },
         {
@@ -239,7 +239,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "15.00",
-            "available": 316,
+            "available": 306,
             "image": "images/ANT1080E.png"
         },
         {
@@ -269,7 +269,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "25.00",
-            "available": 113,
+            "available": 107,
             "image": "images/ANT1560E.png"
         },
         {
@@ -439,7 +439,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "7.00",
-            "available": 123,
+            "available": 117,
             "image": "images/GA-103S.png"
         },
         {
@@ -539,7 +539,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "30.00",
-            "available": 86,
+            "available": 84,
             "image": "images/JB-220B.png"
         },
         {
@@ -559,7 +559,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "30.00",
-            "available": 99,
+            "available": 97,
             "image": "images/JB-220W.png"
         },
         {
@@ -599,7 +599,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "70.00",
-            "available": 39,
+            "available": 37,
             "image": "images/JBS-1000BK.png"
         },
         {
@@ -649,7 +649,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "28.00",
-            "available": 15,
+            "available": 12,
             "image": "images/RJB-100BK.png"
         },
         {
@@ -659,7 +659,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "28.00",
-            "available": 5,
+            "available": 2,
             "image": "images/RJB-100W.png"
         },
         {
@@ -709,7 +709,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "16.00",
-            "available": 51,
+            "available": 45,
             "image": "images/WBL1-1010-BLK.png"
         },
         {
@@ -719,7 +719,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "16.00",
-            "available": 70,
+            "available": 64,
             "image": "images/WBL1-1010-WHT.png"
         },
         {
@@ -819,7 +819,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "13.00",
-            "available": 16,
+            "available": 12,
             "image": "images/BT-1010-BLK.png"
         },
         {
@@ -829,7 +829,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "13.00",
-            "available": 17,
+            "available": 10,
             "image": "images/BT-1010-BLU.png"
         },
         {
@@ -839,7 +839,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "13.00",
-            "available": 21,
+            "available": 17,
             "image": "images/BT-1010-RED.png"
         },
         {
@@ -879,7 +879,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
-            "available": 43,
+            "available": 38,
             "image": "images/BT-112-BLK.png"
         },
         {
@@ -889,7 +889,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
-            "available": 15,
+            "available": 10,
             "image": "images/BT-112-BLU.png"
         },
         {
@@ -989,7 +989,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "18.00",
-            "available": 17,
+            "available": 15,
             "image": "images/BT-2024-BLK.png"
         },
         {
@@ -1089,7 +1089,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "13.00",
-            "available": 36,
+            "available": 30,
             "image": "images/BT-64-BLK.png"
         },
         {
@@ -1109,7 +1109,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "37.00",
-            "available": 24,
+            "available": 11,
             "image": "images/BT-8.png"
         },
         {
@@ -1139,7 +1139,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "13.00",
-            "available": 93,
+            "available": 87,
             "image": "images/BTSPK154.png"
         },
         {
@@ -1149,7 +1149,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "37.00",
-            "available": 5,
+            "available": 1,
             "image": "images/BTSPK30B.png"
         },
         {
@@ -1233,23 +1233,13 @@
             "image": "images/FBX232K.png"
         },
         {
-            "id": "FBX492K",
-            "name": "Fisher Dual 4\" Flame Party Speaker - Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "20.00",
-            "available": 2,
-            "image": "images/FBX492K.png"
-        },
-        {
             "id": "FBX643K",
             "name": "Fisher Dual 6.5 LED Fusion Speaker",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "26.00",
-            "available": 20,
+            "available": 19,
             "image": "images/FBX643K.png"
         },
         {
@@ -1259,7 +1249,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "26.00",
-            "available": 27,
+            "available": 20,
             "image": "images/FBX647K.png"
         },
         {
@@ -1309,7 +1299,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "7.00",
-            "available": 105,
+            "available": 102,
             "image": "images/HPXSPBTRGB.png"
         },
         {
@@ -1399,7 +1389,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "15.00",
-            "available": 85,
+            "available": 81,
             "image": "images/MPX-8.png"
         },
         {
@@ -1409,7 +1399,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "20.00",
-            "available": 22,
+            "available": 14,
             "image": "images/MPX-802.png"
         },
         {
@@ -1419,7 +1409,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "16.00",
-            "available": 64,
+            "available": 61,
             "image": "images/MPX-803.png"
         },
         {
@@ -1529,7 +1519,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "75.00",
-            "available": 17,
+            "available": 16,
             "image": "images/PBX-151.png"
         },
         {
@@ -1539,7 +1529,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "80.00",
-            "available": 83,
+            "available": 80,
             "image": "images/PBX-151SM.png"
         },
         {
@@ -1819,7 +1809,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "25.00",
-            "available": 17,
+            "available": 15,
             "image": "images/TMS-801-BLU.png"
         },
         {
@@ -2043,16 +2033,6 @@
             "image": "images/FBX396K.png"
         },
         {
-            "id": "FBX396R",
-            "name": "Fisher  MAX Sound Wireless Boombox - Red",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "20.00",
-            "available": 2,
-            "image": "images/FBX396R.png"
-        },
-        {
             "id": "J-200BT",
             "name": "QFX Portable BT CD Player & Cassette Rec.",
             "category": "Boombox",
@@ -2249,7 +2229,7 @@
             "parent_category": "Electronics",
             "sub_category": "CD Players",
             "price": "70.00",
-            "available": 30,
+            "available": 27,
             "image": "images/NPB-431.png"
         },
         {
@@ -2599,7 +2579,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "22.00",
-            "available": 119,
+            "available": 114,
             "image": "images/CE-CM249.png"
         },
         {
@@ -2609,7 +2589,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "32.00",
-            "available": 80,
+            "available": 78,
             "image": "images/CE-CM389.png"
         },
         {
@@ -2619,7 +2599,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "14.00",
-            "available": 400,
+            "available": 394,
             "image": "images/CE-IR941.png"
         },
         {
@@ -2649,18 +2629,8 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "17.00",
-            "available": 37,
+            "available": 25,
             "image": "images/CG-158W.png"
-        },
-        {
-            "id": "CG-162S",
-            "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "33.00",
-            "available": 1,
-            "image": "images/CG-162S.png"
         },
         {
             "id": "CH99671",
@@ -2799,7 +2769,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "20.00",
-            "available": 214,
+            "available": 211,
             "image": "images/SM-KET-1368.png"
         },
         {
@@ -2809,7 +2779,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "20.00",
-            "available": 72,
+            "available": 70,
             "image": "images/SM-KET-1377-B.png"
         },
         {
@@ -2859,7 +2829,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "40.00",
-            "available": 23,
+            "available": 19,
             "image": "images/TS-1101BK.png"
         },
         {
@@ -2969,7 +2939,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "18.00",
-            "available": 25,
+            "available": 13,
             "image": "images/WCF1-1007-BLK.png"
         },
         {
@@ -2979,7 +2949,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "32.00",
-            "available": 60,
+            "available": 56,
             "image": "images/WCF1-1009-BLK.png"
         },
         {
@@ -3429,7 +3399,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "15.00",
-            "available": 243,
+            "available": 93,
             "image": "images/HPXBT999BK.png"
         },
         {
@@ -4179,7 +4149,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "20.00",
-            "available": 15,
+            "available": 12,
             "image": "images/CBH1-4007-VTN.png"
         },
         {
@@ -4189,7 +4159,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "19.00",
-            "available": 9,
+            "available": 6,
             "image": "images/CBH1-4008-SIG.png"
         },
         {
@@ -4259,7 +4229,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "22.00",
-            "available": 25,
+            "available": 22,
             "image": "images/CBT1-9000-SIG.png"
         },
         {
@@ -4279,7 +4249,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "20.00",
-            "available": 53,
+            "available": 50,
             "image": "images/CXT1-4007-CMB.png"
         },
         {
@@ -4289,7 +4259,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "12.00",
-            "available": 79,
+            "available": 70,
             "image": "images/CXT1-6002-HYP.png"
         },
         {
@@ -4319,7 +4289,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Hair Styling",
             "price": "12.00",
-            "available": 180,
+            "available": 175,
             "image": "images/CPH1-9010-BOX.png"
         },
         {
@@ -4329,7 +4299,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Hair Styling",
             "price": "12.00",
-            "available": 27,
+            "available": 21,
             "image": "images/CPH1-9011-BOX.png"
         },
         {
@@ -4339,7 +4309,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Hair Styling",
             "price": "12.00",
-            "available": 628,
+            "available": 622,
             "image": "images/CXH1-5000-BOX.png"
         },
         {
@@ -4451,16 +4421,6 @@
             "price": "11.00",
             "available": 8,
             "image": "images/FBHP546W.png"
-        },
-        {
-            "id": "FBHP660K",
-            "name": "Fisher Groovy PRO Wireless Headphone",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "14.00",
-            "available": 49,
-            "image": "images/FBHP660K.png"
         },
         {
             "id": "FGHP245B",
@@ -4809,7 +4769,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "15.00",
-            "available": 144,
+            "available": 120,
             "image": "images/HPXBTO350.png"
         },
         {
@@ -4989,7 +4949,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "5.00",
-            "available": 248,
+            "available": 200,
             "image": "images/SBGHO425.png"
         },
         {
@@ -5059,7 +5019,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "30.00",
-            "available": 9,
+            "available": 8,
             "image": "images/MSH20Q3ABB-RBO.png"
         },
         {
@@ -5079,7 +5039,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "18.00",
-            "available": 1613,
+            "available": 757,
             "image": "images/NT15-20A-G.png"
         },
         {
@@ -5259,7 +5219,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "50.00",
-            "available": 18,
+            "available": 16,
             "image": "images/DF-730S.png"
         },
         {
@@ -5549,7 +5509,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "29.00",
-            "available": 28,
+            "available": 26,
             "image": "images/TS-611SS.png"
         },
         {
@@ -5609,7 +5569,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Humidifiers",
             "price": "278.00",
-            "available": 228,
+            "available": 227,
             "image": "images/MAD20S1QWT-ROA.png"
         },
         {
@@ -5659,7 +5619,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "35.00",
-            "available": 57,
+            "available": 51,
             "image": "images/14210R.png"
         },
         {
@@ -5779,7 +5739,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Juicers",
             "price": "50.00",
-            "available": 30,
+            "available": 29,
             "image": "images/JC-452B.png"
         },
         {
@@ -5789,7 +5749,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Juicers",
             "price": "50.00",
-            "available": 52,
+            "available": 51,
             "image": "images/JC-452W.png"
         },
         {
@@ -5969,7 +5929,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "300.00",
-            "available": 183,
+            "available": 181,
             "image": "images/FW50-518A.png"
         },
         {
@@ -5979,7 +5939,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "330.00",
-            "available": 54,
+            "available": 53,
             "image": "images/FW70-1558L.png"
         },
         {
@@ -5989,7 +5949,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "350.00",
-            "available": 86,
+            "available": 84,
             "image": "images/GYJ60-88F1.png"
         },
         {
@@ -6089,7 +6049,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Massage Chairs",
             "price": "1299.00",
-            "available": 14,
+            "available": 12,
             "image": "images/JL10003WL-WU.png"
         },
         {
@@ -6349,7 +6309,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "55.00",
-            "available": 3,
+            "available": 1,
             "image": "images/B20PXP78-A70W.png"
         },
         {
@@ -6409,7 +6369,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Microwaves",
             "price": "100.00",
-            "available": 41,
+            "available": 39,
             "image": "images/NN-SC64MBC-RBO.png"
         },
         {
@@ -6491,26 +6451,6 @@
             "price": "100.00",
             "available": 16,
             "image": "images/NN-SU64LW-RB.png"
-        },
-        {
-            "id": "NN-SU65QB/RBO",
-            "name": "Panasonic Microwave 1.3 cuft 1200W Inverter, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 2,
-            "image": "images/NN-SU65QB-RBO.png"
-        },
-        {
-            "id": "NNSC64MW/RB",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "85.00",
-            "available": 15,
-            "image": "images/NNSC64MW-RB.png"
         },
         {
             "id": "NNSC64MWC/RBO",
@@ -6649,7 +6589,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "13.00",
-            "available": 13,
+            "available": 6,
             "image": "images/BT-10BK.png"
         },
         {
@@ -6659,7 +6599,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "13.00",
-            "available": 6,
+            "available": 4,
             "image": "images/BT-10BL.png"
         },
         {
@@ -6669,7 +6609,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "12.00",
-            "available": 101,
+            "available": 85,
             "image": "images/BT-30.png"
         },
         {
@@ -6739,7 +6679,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "10.00",
-            "available": 93,
+            "available": 91,
             "image": "images/MPX-24.png"
         },
         {
@@ -6759,7 +6699,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "80.00",
-            "available": 27,
+            "available": 26,
             "image": "images/PBX-1203.png"
         },
         {
@@ -6769,7 +6709,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "48.00",
-            "available": 15,
+            "available": 7,
             "image": "images/PBX-1206.png"
         },
         {
@@ -6779,7 +6719,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "52.00",
-            "available": 63,
+            "available": 55,
             "image": "images/PBX-1206SM.png"
         },
         {
@@ -6799,7 +6739,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "150.00",
-            "available": 26,
+            "available": 23,
             "image": "images/PBX-1213.png"
         },
         {
@@ -6839,7 +6779,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "60.00",
-            "available": 22,
+            "available": 13,
             "image": "images/PBX-831.png"
         },
         {
@@ -6919,7 +6859,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "65.00",
-            "available": 59,
+            "available": 43,
             "image": "images/SP-885RBT.png"
         },
         {
@@ -6989,7 +6929,7 @@
             "parent_category": "Electronics",
             "sub_category": "Phones",
             "price": "25.00",
-            "available": 31,
+            "available": 27,
             "image": "images/CS5119.png"
         },
         {
@@ -6999,7 +6939,7 @@
             "parent_category": "Electronics",
             "sub_category": "Phones",
             "price": "40.00",
-            "available": 151,
+            "available": 147,
             "image": "images/CS5129.png"
         },
         {
@@ -7149,7 +7089,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Portable AC",
             "price": "160.00",
-            "available": 2,
+            "available": 1,
             "image": "images/VAP09R1AWT-ROA.png"
         },
         {
@@ -7339,7 +7279,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "13.00",
-            "available": 139,
+            "available": 133,
             "image": "images/R-24.png"
         },
         {
@@ -7359,7 +7299,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "23.00",
-            "available": 31,
+            "available": 28,
             "image": "images/R-333BT-BLU.png"
         },
         {
@@ -7369,7 +7309,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "23.00",
-            "available": 28,
+            "available": 20,
             "image": "images/R-333BT-RED.png"
         },
         {
@@ -7389,7 +7329,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "7.50",
-            "available": 57,
+            "available": 45,
             "image": "images/R-34.png"
         },
         {
@@ -7399,7 +7339,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "15.00",
-            "available": 34,
+            "available": 31,
             "image": "images/R-42BT.png"
         },
         {
@@ -7439,7 +7379,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "12.00",
-            "available": 78,
+            "available": 72,
             "image": "images/RETRO-10.png"
         },
         {
@@ -7523,6 +7463,16 @@
             "image": "images/CCRRD45HW-ROA.png"
         },
         {
+            "id": "ERT74MES",
+            "name": "Element 21.3 in. 7.4 cu. ft. Compact Top Freezer Refrigerator, Stainless Steel",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "656.00",
+            "available": 7,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "FGFR334/NB",
             "name": "FRIGIDAIRE 3.2 CU FT REFRIGERATOR - Silver, RB",
             "category": "Major Appliances",
@@ -7569,7 +7519,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "8.50",
-            "available": 170,
+            "available": 116,
             "image": "images/RCR414BHE1.png"
         },
         {
@@ -7579,18 +7529,8 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "4.00",
-            "available": 469,
+            "available": 325,
             "image": "images/RCR504BE.png"
-        },
-        {
-            "id": "RCRN06GBE",
-            "name": "RCA 6-Device Universal Remote Control",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "10.00",
-            "available": 2,
-            "image": "images/RCRN06GBE.png"
         },
         {
             "id": "RCU300TZ",
@@ -7619,7 +7559,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "6.00",
-            "available": 54,
+            "available": 48,
             "image": "images/REM-11.png"
         },
         {
@@ -7629,7 +7569,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "5.00",
-            "available": 152,
+            "available": 140,
             "image": "images/REM-13-BLK.png"
         },
         {
@@ -7659,7 +7599,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "3.50",
-            "available": 102,
+            "available": 96,
             "image": "images/REM-6.png"
         },
         {
@@ -7669,7 +7609,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "7.00",
-            "available": 568,
+            "available": 562,
             "image": "images/SRP2024R-27.png"
         },
         {
@@ -7689,7 +7629,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "9.00",
-            "available": 369,
+            "available": 243,
             "image": "images/TKTC6GB.png"
         },
         {
@@ -7699,7 +7639,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "22.00",
-            "available": 74,
+            "available": 72,
             "image": "images/CE23201.png"
         },
         {
@@ -7709,7 +7649,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "26.00",
-            "available": 80,
+            "available": 78,
             "image": "images/CE23219.png"
         },
         {
@@ -7929,7 +7869,7 @@
             "parent_category": "Audio",
             "sub_category": "Soundbars",
             "price": "28.00",
-            "available": 86,
+            "available": 84,
             "image": "images/FSB250K.png"
         },
         {
@@ -7979,7 +7919,7 @@
             "parent_category": "Audio",
             "sub_category": "Stands",
             "price": "12.00",
-            "available": 71,
+            "available": 65,
             "image": "images/ST-200.png"
         },
         {
@@ -8099,7 +8039,7 @@
             "parent_category": "Home & Office",
             "sub_category": "TV Wall Mounts",
             "price": "15.00",
-            "available": 118,
+            "available": 102,
             "image": "images/RM-720-9128.png"
         },
         {
@@ -8109,7 +8049,7 @@
             "parent_category": "Home & Office",
             "sub_category": "TV Wall Mounts",
             "price": "16.00",
-            "available": 156,
+            "available": 150,
             "image": "images/RM-918-8108.png"
         },
         {
@@ -8129,7 +8069,7 @@
             "parent_category": "Home & Office",
             "sub_category": "TV Wall Mounts",
             "price": "15.00",
-            "available": 273,
+            "available": 259,
             "image": "images/SM-513-972.png"
         },
         {
@@ -8359,7 +8299,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toaster Ovens",
             "price": "65.00",
-            "available": 44,
+            "available": 42,
             "image": "images/WTO1-1001-BLK.png"
         },
         {
@@ -8629,7 +8569,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
             "price": "150.00",
-            "available": 106,
+            "available": 105,
             "image": "images/AWAS05BWF.png"
         },
         {
@@ -8639,7 +8579,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
             "price": "146.00",
-            "available": 162,
+            "available": 161,
             "image": "images/EWR05E.png"
         },
         {
@@ -8669,7 +8609,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
             "price": "160.00",
-            "available": 59,
+            "available": 58,
             "image": "images/FFRA051WAE.png"
         },
         {
@@ -8709,7 +8649,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
             "price": "210.00",
-            "available": 21,
+            "available": 20,
             "image": "images/LW5024.png"
         },
         {
