@@ -30,7 +30,7 @@
             "sub_category": "Air Fryers",
             "price": "50.00",
             "available": 46,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/AF-202BKC.png"
         },
         {
             "id": "AF-2400SI",
@@ -80,7 +80,7 @@
             "sub_category": "Air Fryers",
             "price": "25.00",
             "available": 36,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/DF-715BK.png"
         },
         {
             "id": "FT50931AMZ",
@@ -1300,7 +1300,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "65.00",
             "available": 46,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/E-B9.png"
         },
         {
             "id": "FBX2202K",
@@ -1530,7 +1530,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "35.00",
             "available": 92,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MPX-8080.png"
         },
         {
             "id": "NAS-3082",
@@ -1830,7 +1830,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "465.00",
             "available": 10,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SBX-213W.png"
         },
         {
             "id": "SBX1036K",
@@ -3820,7 +3820,7 @@
             "sub_category": "Fans",
             "price": "35.00",
             "available": 78,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BHF136193153ERB-RBO.png"
         },
         {
             "id": "CZ319WTWM",
@@ -8690,7 +8690,7 @@
             "sub_category": "Uncategorized",
             "price": "45.00",
             "available": 50,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/889.png"
         },
         {
             "id": "MC-102BK",
@@ -8700,7 +8700,7 @@
             "sub_category": "Uncategorized",
             "price": "15.00",
             "available": 68,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MC-102BK.png"
         },
         {
             "id": "MC-102W",
@@ -8710,7 +8710,7 @@
             "sub_category": "Uncategorized",
             "price": "15.00",
             "available": 64,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MC-102W.png"
         },
         {
             "id": "TS-127",
