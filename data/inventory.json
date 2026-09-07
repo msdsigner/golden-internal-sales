@@ -643,6 +643,26 @@
             "image": "images/JBS-500BK.png"
         },
         {
+            "id": "MC-102BK",
+            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "15.00",
+            "available": 56,
+            "image": "images/MC-102BK.png"
+        },
+        {
+            "id": "MC-102W",
+            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "15.00",
+            "available": 61,
+            "image": "images/MC-102W.png"
+        },
+        {
             "id": "R50190-RBO",
             "name": "Hamilton Beach 10spd Plastic Blender - RB",
             "category": "Blenders & Mixers",
@@ -3193,6 +3213,16 @@
             "image": "images/KF-9400.png"
         },
         {
+            "id": "889",
+            "name": "Kitchen Sense 7Pcs S.S. Cookware Set",
+            "category": "Cookware",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Cookware",
+            "price": "45.00",
+            "available": 44,
+            "image": "images/889.png"
+        },
+        {
             "id": "BDK400B",
             "name": "Black & Decker Large Turkey Roasting Pan with Rack",
             "category": "Cookware",
@@ -3201,6 +3231,76 @@
             "price": "30.00",
             "available": 1,
             "image": "images/BDK400B.png"
+        },
+        {
+            "id": "NN-SC678CC/RBO",
+            "name": "Panasonic MW Oven 1.3CF SS w/ Child Lock RBO",
+            "category": "Cookware",
+            "parent_category": "Refurbished",
+            "sub_category": "Cookware",
+            "price": "100.00",
+            "available": 29,
+            "image": "images/NN-SC678CC-RBO.png"
+        },
+        {
+            "id": "NN-SC67NS/RBO",
+            "name": "Panasonic Microwave Oven 1.3Cu. Ft. Blk/Silver - RB",
+            "category": "Cookware",
+            "parent_category": "Refurbished",
+            "sub_category": "Cookware",
+            "price": "90.00",
+            "available": 37,
+            "image": "images/NN-SC67NS-RBO.png"
+        },
+        {
+            "id": "NN-SN68QB/RB",
+            "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
+            "category": "Cookware",
+            "parent_category": "Refurbished",
+            "sub_category": "Cookware",
+            "price": "100.00",
+            "available": 19,
+            "image": "images/NN-SN68QB-RB.png"
+        },
+        {
+            "id": "NN-SN68QB/RBO",
+            "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
+            "category": "Cookware",
+            "parent_category": "Refurbished",
+            "sub_category": "Cookware",
+            "price": "110.00",
+            "available": 6,
+            "image": "images/NN-SN68QB-RBO.png"
+        },
+        {
+            "id": "NNSC64MWC/RBO",
+            "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
+            "category": "Cookware",
+            "parent_category": "Refurbished",
+            "sub_category": "Cookware",
+            "price": "100.00",
+            "available": 43,
+            "image": "images/NNSC64MWC-RBO.png"
+        },
+        {
+            "id": "NNSU64LBC/RBO",
+            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
+            "category": "Cookware",
+            "parent_category": "Refurbished",
+            "sub_category": "Cookware",
+            "price": "100.00",
+            "available": 46,
+            "image": "images/NNSU64LBC-RBO.png"
+        },
+        {
+            "id": "NNSU65NWC/RBO",
+            "name": "Panasonic Countertop Microwave, 20-inch Exterior Width, 1.3 cu. ft. Capacity, 1100W, RB, White",
+            "category": "Cookware",
+            "parent_category": "Refurbished",
+            "sub_category": "Cookware",
+            "price": "100.00",
+            "available": 17,
+            "image": "images/NNSU65NWC-RBO.png"
         },
         {
             "id": "SK-72BK",
@@ -6583,46 +6683,6 @@
             "image": "images/NN-SC64MBC-RBO.png"
         },
         {
-            "id": "NN-SC678CC/RBO",
-            "name": "Panasonic MW Oven 1.3CF SS w/ Child Lock RBO",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 29,
-            "image": "images/NN-SC678CC-RBO.png"
-        },
-        {
-            "id": "NN-SC67NS/RBO",
-            "name": "Panasonic Microwave Oven 1.3Cu. Ft. Blk/Silver - RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "90.00",
-            "available": 37,
-            "image": "images/NN-SC67NS-RBO.png"
-        },
-        {
-            "id": "NN-SN68QB/RB",
-            "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 19,
-            "image": "images/NN-SN68QB-RB.png"
-        },
-        {
-            "id": "NN-SN68QB/RBO",
-            "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "110.00",
-            "available": 6,
-            "image": "images/NN-SN68QB-RBO.png"
-        },
-        {
             "id": "NN-SN95HS/ROA",
             "name": "Panasonic 2.2 cu. ft. 1250-Watt Microwave with Cyclonic Wave Inverter - RB",
             "category": "Microwaves",
@@ -6643,26 +6703,6 @@
             "image": "images/NN-SU64LW-RB.png"
         },
         {
-            "id": "NNSC64MWC/RBO",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 43,
-            "image": "images/NNSC64MWC-RBO.png"
-        },
-        {
-            "id": "NNSU64LBC/RBO",
-            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 46,
-            "image": "images/NNSU64LBC-RBO.png"
-        },
-        {
             "id": "NNSU64LWC/RBO",
             "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, White",
             "category": "Microwaves",
@@ -6681,16 +6721,6 @@
             "price": "100.00",
             "available": 2,
             "image": "images/NNSU65NBC-RBO.png"
-        },
-        {
-            "id": "NNSU65NWC/RBO",
-            "name": "Panasonic Countertop Microwave, 20-inch Exterior Width, 1.3 cu. ft. Capacity, 1100W, RB, White",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 17,
-            "image": "images/NNSU65NWC-RBO.png"
         },
         {
             "id": "WSI-EM22AST/ROA",
@@ -8103,6 +8133,16 @@
             "image": "images/SNB-1100S.png"
         },
         {
+            "id": "TS-127",
+            "name": "BRENTWOOD SS Electric Tortilla Maker",
+            "category": "Specialty Cookers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Specialty Cookers",
+            "price": "42.00",
+            "available": 20,
+            "image": "images/TS-127.png"
+        },
+        {
             "id": "SR-100",
             "name": "Cookinex 16PC SS Glass Spice Rack",
             "category": "Spice Racks",
@@ -8621,46 +8661,6 @@
             "price": "14.00",
             "available": 42,
             "image": "images/WTO1-1022-WHT.png"
-        },
-        {
-            "id": "889",
-            "name": "Kitchen Sense 7Pcs S.S. Cookware Set",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "45.00",
-            "available": 44,
-            "image": "images/889.png"
-        },
-        {
-            "id": "MC-102BK",
-            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "15.00",
-            "available": 56,
-            "image": "images/MC-102BK.png"
-        },
-        {
-            "id": "MC-102W",
-            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "15.00",
-            "available": 61,
-            "image": "images/MC-102W.png"
-        },
-        {
-            "id": "TS-127",
-            "name": "BRENTWOOD SS Electric Tortilla Maker",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "42.00",
-            "available": 20,
-            "image": "images/TS-127.png"
         },
         {
             "id": "CCUK12W/ROA",
