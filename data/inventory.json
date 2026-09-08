@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 8, 2026 - 1:47 PM EST",
+    "last_updated": "September 8, 2026 - 2:20 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -1270,7 +1270,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "8.00",
             "available": 204,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT248B.png"
         },
         {
             "id": "BT248R",
@@ -1280,7 +1280,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "8.00",
             "available": 204,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT248R.png"
         },
         {
             "id": "BTSPK154",
@@ -1340,7 +1340,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 244,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BX496R.png"
         },
         {
             "id": "BX550KM",
@@ -1350,7 +1350,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "12.00",
             "available": 193,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BX550KM.png"
         },
         {
             "id": "BX604R",
@@ -1500,7 +1500,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "30.00",
             "available": 100,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FBX833KM.png"
         },
         {
             "id": "FBX879KM",
@@ -1990,7 +1990,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "18.00",
             "available": 120,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SBT354K.png"
         },
         {
             "id": "SBX-213W",
@@ -2800,7 +2800,7 @@
             "sub_category": "Climate Control",
             "price": "13.00",
             "available": 100,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FPB1225K.png"
         },
         {
             "id": "FPB2225K",
@@ -2810,7 +2810,7 @@
             "sub_category": "Climate Control",
             "price": "17.00",
             "available": 100,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FPB2225K.png"
         },
         {
             "id": "176",
