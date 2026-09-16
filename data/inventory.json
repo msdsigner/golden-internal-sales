@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 16, 2026 - 4:33 PM EST",
+    "last_updated": "September 16, 2026 - 5:59 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -935,9 +935,9 @@
         {
             "id": "BT-17-BLK",
             "name": "QFX SS 16.oz Insulated Mug + BT Speaker With Multi-Color LED Lights, Black",
-            "category": "Bluetooth Speakers",
+            "category": "Radios",
             "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
+            "sub_category": "Radios",
             "price": "13.00",
             "available": 40,
             "image": "images/BT-17-BLK.png"
@@ -945,9 +945,9 @@
         {
             "id": "BT-17-BLU",
             "name": "QFX SS 16.oz Insulated Mug + BT Speaker With Multi-Color LED Lights, Aqua Blue",
-            "category": "Bluetooth Speakers",
+            "category": "Radios",
             "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
+            "sub_category": "Radios",
             "price": "13.00",
             "available": 50,
             "image": "images/BT-17-BLU.png"
@@ -965,9 +965,9 @@
         {
             "id": "BT-17-RED",
             "name": "QFX SS 16.oz Insulated Mug + BT Speaker With Multi-Color LED Lights, Red",
-            "category": "Bluetooth Speakers",
+            "category": "Radios",
             "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
+            "sub_category": "Radios",
             "price": "13.00",
             "available": 50,
             "image": "images/BT-17-RED.png"
@@ -1475,9 +1475,9 @@
         {
             "id": "HPNPRMN1",
             "name": "Sentry Mini Projector with Speaker and Remote",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
+            "category": "Projectors",
+            "parent_category": "Electronics",
+            "sub_category": "Projectors",
             "price": "30.00",
             "available": 40,
             "image": "images/HPNPRMN1.png"
@@ -1645,9 +1645,9 @@
         {
             "id": "MPX-8080",
             "name": "QFX Dual 8\u201d Rechargeable BT Speaker with LED Party Lights",
-            "category": "Bluetooth Speakers",
+            "category": "Radios",
             "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
+            "sub_category": "Radios",
             "price": "35.00",
             "available": 84,
             "image": "images/MPX-8080.png"
@@ -2155,9 +2155,9 @@
         {
             "id": "WPB2-GRY",
             "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Gray w/(TR1/HS-02)",
-            "category": "Bluetooth Speakers",
+            "category": "Microphones",
             "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
+            "sub_category": "Microphones",
             "price": "115.00",
             "available": 20,
             "image": "images/WPB2-GRY.png"
@@ -2715,9 +2715,9 @@
         {
             "id": "CBH1-4002-SLV",
             "name": "Barbasol PRO Hair Clipper Kit",
-            "category": "Climate Control",
-            "parent_category": "Climate Control",
-            "sub_category": "Climate Control",
+            "category": "Trimmers",
+            "parent_category": "Personal Care",
+            "sub_category": "Trimmers",
             "price": "12.00",
             "available": 140,
             "image": "images/CBH1-4002-SLV.png"
@@ -2725,9 +2725,9 @@
         {
             "id": "FPB1225K",
             "name": "Fisher 10,000 MAH Power Bank with Built-in Cables, Black",
-            "category": "Climate Control",
-            "parent_category": "Climate Control",
-            "sub_category": "Climate Control",
+            "category": "Power Banks",
+            "parent_category": "Electronics",
+            "sub_category": "Power Banks",
             "price": "13.00",
             "available": 100,
             "image": "images/FPB1225K.png"
@@ -2735,9 +2735,9 @@
         {
             "id": "FPB2225K",
             "name": "Fisher 20,000 MAH Power Bank with Built-in Cables, Black",
-            "category": "Climate Control",
-            "parent_category": "Climate Control",
-            "sub_category": "Climate Control",
+            "category": "Power Banks",
+            "parent_category": "Electronics",
+            "sub_category": "Power Banks",
             "price": "17.00",
             "available": 100,
             "image": "images/FPB2225K.png"
@@ -2825,9 +2825,9 @@
         {
             "id": "CE-IR941",
             "name": "Continental Non-Stick Steam/Dry Spray Iron - Blue",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
             "price": "14.00",
             "available": 390,
             "image": "images/CE-IR941.png"
@@ -3285,9 +3285,9 @@
         {
             "id": "KF-9400",
             "name": "Cookinex Portable Induction Cooktop Countertop Burner",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Cooktops",
+            "category": "Cookware",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Cookware",
             "price": "22.50",
             "available": 9,
             "image": "images/KF-9400.png"
@@ -3315,9 +3315,9 @@
         {
             "id": "NN-SC678CC/RBO",
             "name": "Panasonic MW Oven 1.3CF SS w/ Child Lock RBO",
-            "category": "Cookware",
+            "category": "Microwaves",
             "parent_category": "Refurbished",
-            "sub_category": "Cookware",
+            "sub_category": "Microwaves",
             "price": "100.00",
             "available": 29,
             "image": "images/NN-SC678CC-RBO.png"
@@ -3325,9 +3325,9 @@
         {
             "id": "NN-SC67NS/RBO",
             "name": "Panasonic Microwave Oven 1.3Cu. Ft. Blk/Silver - RB",
-            "category": "Cookware",
+            "category": "Microwaves",
             "parent_category": "Refurbished",
-            "sub_category": "Cookware",
+            "sub_category": "Microwaves",
             "price": "90.00",
             "available": 35,
             "image": "images/NN-SC67NS-RBO.png"
@@ -3335,9 +3335,9 @@
         {
             "id": "NN-SN68QB/RB",
             "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
-            "category": "Cookware",
+            "category": "Microwaves",
             "parent_category": "Refurbished",
-            "sub_category": "Cookware",
+            "sub_category": "Microwaves",
             "price": "100.00",
             "available": 19,
             "image": "images/NN-SN68QB-RB.png"
@@ -3345,9 +3345,9 @@
         {
             "id": "NN-SN68QB/RBO",
             "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
-            "category": "Cookware",
+            "category": "Microwaves",
             "parent_category": "Refurbished",
-            "sub_category": "Cookware",
+            "sub_category": "Microwaves",
             "price": "110.00",
             "available": 6,
             "image": "images/NN-SN68QB-RBO.png"
@@ -3355,9 +3355,9 @@
         {
             "id": "NNSC64MWC/RBO",
             "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
-            "category": "Cookware",
+            "category": "Microwaves",
             "parent_category": "Refurbished",
-            "sub_category": "Cookware",
+            "sub_category": "Microwaves",
             "price": "100.00",
             "available": 43,
             "image": "images/NNSC64MWC-RBO.png"
@@ -3365,9 +3365,9 @@
         {
             "id": "NNSU64LBC/RBO",
             "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
-            "category": "Cookware",
+            "category": "Microwaves",
             "parent_category": "Refurbished",
-            "sub_category": "Cookware",
+            "sub_category": "Microwaves",
             "price": "100.00",
             "available": 46,
             "image": "images/NNSU64LBC-RBO.png"
@@ -3375,9 +3375,9 @@
         {
             "id": "NNSU65NWC/RBO",
             "name": "Panasonic Countertop Microwave, 20-inch Exterior Width, 1.3 cu. ft. Capacity, 1100W, RB, White",
-            "category": "Cookware",
+            "category": "Microwaves",
             "parent_category": "Refurbished",
-            "sub_category": "Cookware",
+            "sub_category": "Microwaves",
             "price": "100.00",
             "available": 17,
             "image": "images/NNSU65NWC-RBO.png"
@@ -3965,9 +3965,9 @@
         {
             "id": "BHF136193153ERB/RBO",
             "name": "Pelonis 23\" Tower Heater RB",
-            "category": "Fans",
+            "category": "Heaters",
             "parent_category": "Refurbished",
-            "sub_category": "Fans",
+            "sub_category": "Heaters",
             "price": "35.00",
             "available": 6,
             "image": "images/BHF136193153ERB-RBO.png"
@@ -4735,9 +4735,9 @@
         {
             "id": "FBHP382K",
             "name": "Fisher Peak Wireless Headphones",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
+            "category": "Phones",
+            "parent_category": "Electronics",
+            "sub_category": "Phones",
             "price": "12.00",
             "available": 100,
             "image": "images/FBHP382K.png"
@@ -4785,9 +4785,9 @@
         {
             "id": "FEP910K",
             "name": "Fisher 8-PIN Wired Silicone Earbuds & Case, Blk",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
+            "category": "Phones",
+            "parent_category": "Electronics",
+            "sub_category": "Phones",
             "price": "4.50",
             "available": 200,
             "image": "images/FEP910K.png"
@@ -5075,9 +5075,9 @@
         {
             "id": "HPXBTA335",
             "name": "Sentry Smart Buds ANC Earbuds + Case with OLED Touch Screen",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
+            "category": "Phones",
+            "parent_category": "Electronics",
+            "sub_category": "Phones",
             "price": "20.00",
             "available": 108,
             "image": "images/HPXBTA335.png"
@@ -5125,9 +5125,9 @@
         {
             "id": "HPXBTO350",
             "name": "Sentry Open Over-the- Ear Headphone",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
+            "category": "Phones",
+            "parent_category": "Electronics",
+            "sub_category": "Phones",
             "price": "15.00",
             "available": 96,
             "image": "images/HPXBTO350.png"
@@ -5265,9 +5265,9 @@
         {
             "id": "HPXHS261",
             "name": "Sentry Rugged Headphone with Volume Control & Mic",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
+            "category": "Phones",
+            "parent_category": "Electronics",
+            "sub_category": "Phones",
             "price": "5.00",
             "available": 108,
             "image": "images/HPXHS261.png"
@@ -5915,9 +5915,9 @@
         {
             "id": "MAD20S1QWT/ROA",
             "name": "Midea Cube 20 Pint Dehumidifier for Basement, up to 1,500 Sq. Ft. dehumidifier with drain hose, RB",
-            "category": "Humidifiers",
+            "category": "Dehumidifiers",
             "parent_category": "Refurbished",
-            "sub_category": "Humidifiers",
+            "sub_category": "Dehumidifiers",
             "price": "278.00",
             "available": 227,
             "image": "images/MAD20S1QWT-ROA.png"
@@ -5925,9 +5925,9 @@
         {
             "id": "MAD35S1QWT/ROA",
             "name": "Midea Cube 35 Pint Dehumidifier for Rooms at home, up to 3,500 Sq.Ft. dehumidifier with drain hose, RB",
-            "category": "Humidifiers",
+            "category": "Dehumidifiers",
             "parent_category": "Refurbished",
-            "sub_category": "Humidifiers",
+            "sub_category": "Dehumidifiers",
             "price": "278.00",
             "available": 36,
             "image": "images/MAD35S1QWT-ROA.png"
@@ -5935,9 +5935,9 @@
         {
             "id": "MAD50PS1AQGR/ROA",
             "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., Black, RB",
-            "category": "Humidifiers",
+            "category": "Dehumidifiers",
             "parent_category": "Refurbished",
-            "sub_category": "Humidifiers",
+            "sub_category": "Dehumidifiers",
             "price": "230.00",
             "available": 57,
             "image": "images/MAD50PS1AQGR-ROA.png"
@@ -5945,9 +5945,9 @@
         {
             "id": "MAD50PS1QWT/ROA",
             "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
-            "category": "Humidifiers",
+            "category": "Dehumidifiers",
             "parent_category": "Refurbished",
-            "sub_category": "Humidifiers",
+            "sub_category": "Dehumidifiers",
             "price": "230.00",
             "available": 24,
             "image": "images/MAD50PS1QWT-ROA.png"
@@ -5955,9 +5955,9 @@
         {
             "id": "MAD50S1QWT/ROA",
             "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
-            "category": "Humidifiers",
+            "category": "Dehumidifiers",
             "parent_category": "Refurbished",
-            "sub_category": "Humidifiers",
+            "sub_category": "Dehumidifiers",
             "price": "230.00",
             "available": 3,
             "image": "images/MAD50S1QWT-ROA.png"
@@ -6325,9 +6325,9 @@
         {
             "id": "CSX1-4000-KYO",
             "name": "SAVAGE Kyoto Hair Dryer, Cherry Blossom",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
+            "category": "Hair Dryers",
+            "parent_category": "Personal Care",
+            "sub_category": "Hair Dryers",
             "price": "30.00",
             "available": 261,
             "image": "images/CSX1-4000-KYO.png"
@@ -6955,9 +6955,9 @@
         {
             "id": "BTSPK184",
             "name": "Borne BT Portable Party Speaker System, 15\" Speaker + Mic",
-            "category": "Party Speakers",
+            "category": "Bluetooth Speakers",
             "parent_category": "Audio",
-            "sub_category": "Party Speakers",
+            "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 98,
             "image": "images/BTSPK184.png"
@@ -6975,9 +6975,9 @@
         {
             "id": "KAR-990",
             "name": "QFX 14.1\" High Definition WIFI Touch Screen Party Speaker System with Wireless Mic",
-            "category": "Party Speakers",
+            "category": "Bluetooth Speakers",
             "parent_category": "Audio",
-            "sub_category": "Party Speakers",
+            "sub_category": "Bluetooth Speakers",
             "price": "390.00",
             "available": 2,
             "image": "images/KAR-990.png"
@@ -7855,9 +7855,9 @@
         {
             "id": "MSHC23R6/RBO",
             "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
-            "category": "Remotes",
+            "category": "Heaters",
             "parent_category": "Refurbished",
-            "sub_category": "Remotes",
+            "sub_category": "Heaters",
             "price": "35.00",
             "available": 364,
             "image": "images/MSHC23R6-RBO.png"
@@ -8735,9 +8735,9 @@
         {
             "id": "WTO1-1002-RED",
             "name": "AIWA 4-Slice Toaster Oven/Broiler 750W - Red",
-            "category": "Toasters",
+            "category": "Toaster Ovens",
             "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toasters",
+            "sub_category": "Toaster Ovens",
             "price": "39.00",
             "available": 1,
             "image": "images/WTO1-1002-RED.png"
@@ -8795,9 +8795,9 @@
         {
             "id": "CBK1-6001-TIN",
             "name": "Barbasol Rechargeable Pro Clipper, Electroplated Body",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
+            "category": "Trimmers",
+            "parent_category": "Personal Care",
+            "sub_category": "Trimmers",
             "price": "20.00",
             "available": 190,
             "image": "images/CBK1-6001-TIN.png"
@@ -8805,9 +8805,9 @@
         {
             "id": "FWPB502W",
             "name": "Fisher 5,000 mAh Megaplus PRO Charge, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
+            "category": "Power Banks",
+            "parent_category": "Electronics",
+            "sub_category": "Power Banks",
             "price": "12.00",
             "available": 80,
             "image": "images/FWPB502W.png"
