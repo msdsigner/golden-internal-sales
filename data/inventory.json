@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 28, 2026 - 11:52 AM EST",
+    "last_updated": "September 28, 2026 - 2:12 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -859,7 +859,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "80.00",
-            "available": 40,
+            "available": 41,
             "image": "images/ABX-1550S.png"
         },
         {
@@ -7619,7 +7619,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "40.00",
-            "available": 98,
+            "available": 99,
             "image": "images/1947.png"
         },
         {
@@ -7629,7 +7629,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "47.00",
-            "available": 57,
+            "available": 59,
             "image": "images/1949.png"
         },
         {
