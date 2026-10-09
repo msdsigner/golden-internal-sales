@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 8, 2026 - 2:13 PM EST",
+    "last_updated": "October 9, 2026 - 2:13 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -2331,6 +2331,16 @@
             "price": "22.00",
             "available": 33,
             "image": "images/WP63-BLK.png"
+        },
+        {
+            "id": "WP64-GRY",
+            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Gray",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "35.00",
+            "available": 1,
+            "image": "images/WP64-GRY.png"
         },
         {
             "id": "WPB2-BLK",
@@ -5429,7 +5439,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "28.00",
-            "available": 270,
+            "available": 134,
             "image": "images/H-3013.png"
         },
         {
@@ -5459,7 +5469,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "38.00",
-            "available": 145,
+            "available": 105,
             "image": "images/HP-1000.png"
         },
         {
@@ -7599,7 +7609,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Portable AC",
             "price": "160.00",
-            "available": 2,
+            "available": 1,
             "image": "images/VPFD05YCLW-ROA.png"
         },
         {
@@ -7619,7 +7629,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Portable AC",
             "price": "289.00",
-            "available": 26,
+            "available": 28,
             "image": "images/VPMS05BWT-ROA.png"
         },
         {
@@ -9279,7 +9289,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "15.00",
-            "available": 865,
+            "available": 817,
             "image": "images/HC244NGB.png"
         },
         {
@@ -9289,7 +9299,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "6.50",
-            "available": 342,
+            "available": 294,
             "image": "images/LPG1R.png"
         },
         {
