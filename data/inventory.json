@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 12, 2026 - 2:13 PM EST",
+    "last_updated": "October 12, 2026 - 4:22 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -1200,7 +1200,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "21.00",
             "available": 36,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-47-BLU.png"
         },
         {
             "id": "BT-6-BLK",
@@ -1210,7 +1210,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 150,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-6-BLK.png"
         },
         {
             "id": "BT-620",
@@ -1850,7 +1850,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "100.00",
             "available": 71,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PBX-1503SM.png"
         },
         {
             "id": "PBX-151",
@@ -1950,7 +1950,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "125.00",
             "available": 77,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PBX-616SM.png"
         },
         {
             "id": "PBX-68",
@@ -3710,7 +3710,7 @@
             "sub_category": "Earphones",
             "price": "8.00",
             "available": 150,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HP-E180-BLK.png"
         },
         {
             "id": "HP-E180-WHT",
@@ -3720,7 +3720,7 @@
             "sub_category": "Earphones",
             "price": "8.00",
             "available": 150,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HP-E180-WHT.png"
         },
         {
             "id": "HPA205BLT",
@@ -6279,7 +6279,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "360.00",
-            "available": 96,
+            "available": 92,
             "image": "images/FW100-1388AS.png"
         },
         {
@@ -6309,7 +6309,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "350.00",
-            "available": 71,
+            "available": 68,
             "image": "images/GYJ60-88F1.png"
         },
         {
@@ -6769,7 +6769,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Microwaves",
             "price": "100.00",
-            "available": 15,
+            "available": 5,
             "image": "images/NN-SN68QB-RB.png"
         },
         {
@@ -7250,7 +7250,7 @@
             "sub_category": "Personal Care",
             "price": "8.00",
             "available": 300,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NV-06797.png"
         },
         {
             "id": "NV-09677",
@@ -7410,7 +7410,7 @@
             "sub_category": "Phones",
             "price": "4.50",
             "available": 34,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/M-106-BLK.png"
         },
         {
             "id": "M-106-SIL",
@@ -7420,7 +7420,7 @@
             "sub_category": "Phones",
             "price": "4.50",
             "available": 116,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/M-106-SIL.png"
         },
         {
             "id": "ARC-101CW",
@@ -7800,7 +7800,7 @@
             "sub_category": "Radios",
             "price": "17.00",
             "available": 120,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MPX-420.png"
         },
         {
             "id": "MPX-8080",
@@ -7840,7 +7840,7 @@
             "sub_category": "Radios",
             "price": "9.00",
             "available": 100,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/R-16.png"
         },
         {
             "id": "R-24",
@@ -7910,7 +7910,7 @@
             "sub_category": "Radios",
             "price": "28.00",
             "available": 46,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/R-334BT-BLU.png"
         },
         {
             "id": "R-334BT-RED",
@@ -7920,7 +7920,7 @@
             "sub_category": "Radios",
             "price": "28.00",
             "available": 46,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/R-334BT-RED.png"
         },
         {
             "id": "R-34",
@@ -9140,7 +9140,7 @@
             "sub_category": "Trimmers",
             "price": "28.00",
             "available": 38,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/79424-200.png"
         },
         {
             "id": "79449",
@@ -9150,7 +9150,7 @@
             "sub_category": "Trimmers",
             "price": "23.00",
             "available": 38,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/79449.png"
         },
         {
             "id": "9243-4501",
@@ -9160,7 +9160,7 @@
             "sub_category": "Trimmers",
             "price": "35.00",
             "available": 54,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9243-4501.png"
         },
         {
             "id": "9243-6901",
@@ -9170,7 +9170,7 @@
             "sub_category": "Trimmers",
             "price": "30.00",
             "available": 36,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9243-6901.png"
         },
         {
             "id": "9314-300",
@@ -9190,7 +9190,7 @@
             "sub_category": "Trimmers",
             "price": "40.00",
             "available": 58,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9670-1301.png"
         },
         {
             "id": "9916-817",
@@ -9200,7 +9200,7 @@
             "sub_category": "Trimmers",
             "price": "27.00",
             "available": 32,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9916-817.png"
         },
         {
             "id": "CBH1-4002-SLV",
@@ -9239,7 +9239,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "15.00",
-            "available": 793,
+            "available": 781,
             "image": "images/HC244NGB.png"
         },
         {
@@ -9520,7 +9520,7 @@
             "sub_category": "Window AC",
             "price": "300.00",
             "available": 24,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/RMW12SQW-B-X.png"
         },
         {
             "id": "WAW0525CM1W",
