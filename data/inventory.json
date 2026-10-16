@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 15, 2026 - 2:13 PM EST",
+    "last_updated": "October 16, 2026 - 2:13 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -53,6 +53,16 @@
             "image": "images/AF-2400SI.png"
         },
         {
+            "id": "AFWB7QWG13",
+            "name": "West Bend 7 Qt Electric Air Fryer Oven",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "80.00",
+            "available": 1,
+            "image": "images/AFWB7QWG13.png"
+        },
+        {
             "id": "DF-701",
             "name": "BRENTWOOD 1.0 Liter Deep Fryer; Stainless Steel",
             "category": "Air Fryers",
@@ -81,6 +91,16 @@
             "price": "60.00",
             "available": 1,
             "image": "images/FT50931AMZ.png"
+        },
+        {
+            "id": "IM-436S",
+            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "60.00",
+            "available": 1,
+            "image": "images/IM-436S.png"
         },
         {
             "id": "SM-AIR-1899/RBO",
@@ -881,6 +901,16 @@
             "price": "13.00",
             "available": 34,
             "image": "images/BT-1010-RED.png"
+        },
+        {
+            "id": "BT-111-BLK",
+            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "11.00",
+            "available": 1,
+            "image": "images/BT-111-BLK.png"
         },
         {
             "id": "BT-111-RED",
@@ -3013,16 +3043,6 @@
             "image": "images/KT-1610W.png"
         },
         {
-            "id": "KT-1617-W",
-            "name": "BRENTWOOD 1.7-liter Electric Tea Kettle White",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "18.00",
-            "available": 58,
-            "image": "images/KT-1617-W.png"
-        },
-        {
             "id": "KT-1618-B",
             "name": "BRENTWOOD 1.7-liter Electric Tea Kettle Blk",
             "category": "Coffee & Tea",
@@ -3639,7 +3659,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "18.00",
-            "available": 6,
+            "available": 10,
             "image": "images/HP-E120-WHT.png"
         },
         {
@@ -3649,7 +3669,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "8.00",
-            "available": 146,
+            "available": 145,
             "image": "images/HP-E180-BLK.png"
         },
         {
@@ -3659,7 +3679,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "8.00",
-            "available": 145,
+            "available": 144,
             "image": "images/HP-E180-WHT.png"
         },
         {
@@ -3799,7 +3819,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "18.00",
-            "available": 1,
+            "available": 7,
             "image": "images/HPXBTA105.png"
         },
         {
@@ -4499,7 +4519,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Grills",
             "price": "45.00",
-            "available": 18,
+            "available": 17,
             "image": "images/DMO01003.png"
         },
         {
@@ -4851,6 +4871,16 @@
             "price": "25.00",
             "available": 1,
             "image": "images/GHP400R.png"
+        },
+        {
+            "id": "H-256BT-RED",
+            "name": "QFX BT Stereo Headphones - Red",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "5.00",
+            "available": 1,
+            "image": "images/H-256BT-RED.png"
         },
         {
             "id": "HP-10-BLU",
@@ -5369,7 +5399,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 1250,
+            "available": 1100,
             "image": "images/5165.png"
         },
         {
@@ -5459,7 +5489,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "30.00",
-            "available": 97,
+            "available": 176,
             "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
@@ -5879,7 +5909,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "25.00",
-            "available": 53,
+            "available": 1,
             "image": "images/TS-361W.png"
         },
         {
@@ -7789,7 +7819,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "9.00",
-            "available": 96,
+            "available": 93,
             "image": "images/R-16.png"
         },
         {
