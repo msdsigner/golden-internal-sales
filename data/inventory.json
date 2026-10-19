@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 19, 2026 - 11:02 AM EST",
+    "last_updated": "October 19, 2026 - 2:13 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -329,7 +329,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "50.00",
-            "available": 71,
+            "available": 67,
             "image": "images/6706-000.png"
         },
         {
@@ -349,7 +349,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "65.00",
-            "available": 147,
+            "available": 143,
             "image": "images/BLSTBCG-G8B.png"
         },
         {
@@ -369,7 +369,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "70.00",
-            "available": 150,
+            "available": 146,
             "image": "images/BLSTJJ-GPB-000.png"
         },
         {
@@ -529,7 +529,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "15.00",
-            "available": 31,
+            "available": 27,
             "image": "images/HM-48B.png"
         },
         {
@@ -569,7 +569,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "22.00",
-            "available": 8,
+            "available": 6,
             "image": "images/JB-191W.png"
         },
         {
@@ -2809,7 +2809,7 @@
             "parent_category": "Electronics",
             "sub_category": "Chargers",
             "price": "6.00",
-            "available": 405,
+            "available": 399,
             "image": "images/ADP-101.png"
         },
         {
@@ -3189,7 +3189,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "24.00",
-            "available": 27,
+            "available": 24,
             "image": "images/TS-215BK.png"
         },
         {
@@ -5359,7 +5359,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 969,
+            "available": 967,
             "image": "images/5165.png"
         },
         {
@@ -5409,7 +5409,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "28.00",
-            "available": 22,
+            "available": 14,
             "image": "images/H-3013.png"
         },
         {
@@ -5439,7 +5439,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "38.00",
-            "available": 4,
+            "available": 2,
             "image": "images/HP-1000.png"
         },
         {
@@ -5449,7 +5449,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "30.00",
-            "available": 7,
+            "available": 10,
             "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
@@ -5519,7 +5519,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "28.00",
-            "available": 233,
+            "available": 231,
             "image": "images/25440PSC.png"
         },
         {
@@ -5599,7 +5599,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "50.00",
-            "available": 33,
+            "available": 30,
             "image": "images/DF-730S.png"
         },
         {
@@ -5909,7 +5909,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "29.00",
-            "available": 26,
+            "available": 22,
             "image": "images/TS-611SS.png"
         },
         {
@@ -5989,7 +5989,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "30.00",
-            "available": 197,
+            "available": 193,
             "image": "images/14289F.png"
         },
         {
@@ -6049,7 +6049,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "25.00",
-            "available": 8,
+            "available": 4,
             "image": "images/MPI-69BKRG.png"
         },
         {
@@ -8039,7 +8039,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "8.50",
-            "available": 68,
+            "available": 62,
             "image": "images/RCR414BHE1.png"
         },
         {
@@ -8049,7 +8049,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "4.00",
-            "available": 127,
+            "available": 121,
             "image": "images/RCR504BE.png"
         },
         {
@@ -8649,7 +8649,7 @@
             "parent_category": "Home & Office",
             "sub_category": "TV Wall Mounts",
             "price": "15.00",
-            "available": 530,
+            "available": 520,
             "image": "images/SM-513-972.png"
         },
         {
@@ -8659,7 +8659,7 @@
             "parent_category": "Home & Office",
             "sub_category": "TV Wall Mounts",
             "price": "12.00",
-            "available": 117,
+            "available": 107,
             "image": "images/SM-720-3026.png"
         },
         {
@@ -8769,7 +8769,7 @@
             "parent_category": "Home & Office",
             "sub_category": "TV Wall Mounts",
             "price": "8.00",
-            "available": 206,
+            "available": 198,
             "image": "images/SM-918-3016.png"
         },
         {
@@ -8929,7 +8929,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toasters",
             "price": "15.00",
-            "available": 43,
+            "available": 39,
             "image": "images/TS-260B.png"
         },
         {
@@ -8939,7 +8939,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toasters",
             "price": "15.00",
-            "available": 50,
+            "available": 46,
             "image": "images/TS-260W.png"
         },
         {
@@ -9149,7 +9149,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Vacuums",
             "price": "45.00",
-            "available": 44,
+            "available": 40,
             "image": "images/BDSV53-BLK.png"
         },
         {
@@ -9199,7 +9199,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Vacuums",
             "price": "10.00",
-            "available": 389,
+            "available": 385,
             "image": "images/NV-09163.png"
         },
         {
