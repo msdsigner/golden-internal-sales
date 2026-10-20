@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 20, 2026 - 2:13 PM EST",
+    "last_updated": "October 20, 2026 - 5:11 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -329,7 +329,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "50.00",
-            "available": 65,
+            "available": 59,
             "image": "images/6706-000.png"
         },
         {
@@ -399,7 +399,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "28.00",
-            "available": 41,
+            "available": 37,
             "image": "images/CE-BL229.png"
         },
         {
@@ -549,7 +549,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "22.00",
-            "available": 8,
+            "available": 5,
             "image": "images/JB-191BK.png"
         },
         {
@@ -579,7 +579,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "30.00",
-            "available": 39,
+            "available": 35,
             "image": "images/JB-220R.png"
         },
         {
@@ -679,7 +679,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "28.00",
-            "available": 17,
+            "available": 11,
             "image": "images/RJB-100W.png"
         },
         {
@@ -1439,7 +1439,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "403.00",
-            "available": 25,
+            "available": 23,
             "image": "images/E-1500.png"
         },
         {
@@ -1589,7 +1589,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "32.00",
-            "available": 79,
+            "available": 76,
             "image": "images/LX-30-BLK.png"
         },
         {
@@ -1599,7 +1599,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "32.00",
-            "available": 35,
+            "available": 32,
             "image": "images/LX-30-CAMO.png"
         },
         {
@@ -2503,6 +2503,16 @@
             "image": "images/PRCD650A-SLV.png"
         },
         {
+            "id": "PRCD685B",
+            "name": "Borne Portable CD Boombox w/ AM/FM Radio",
+            "category": "Boombox",
+            "parent_category": "Audio",
+            "sub_category": "Boombox",
+            "price": "38.00",
+            "available": 2,
+            "image": "images/PRCD685B.png"
+        },
+        {
             "id": "PRCDT588",
             "name": "Kodak BT CD Cass. Boombox Radio & Aux-in",
             "category": "Boombox",
@@ -2749,7 +2759,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Can Openers",
             "price": "18.00",
-            "available": 70,
+            "available": 67,
             "image": "images/J-30B.png"
         },
         {
@@ -2759,7 +2769,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Can Openers",
             "price": "18.00",
-            "available": 250,
+            "available": 247,
             "image": "images/J-30W.png"
         },
         {
@@ -2879,7 +2889,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "12.00",
-            "available": 145,
+            "available": 139,
             "image": "images/885.png"
         },
         {
@@ -3069,7 +3079,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "20.00",
-            "available": 81,
+            "available": 75,
             "image": "images/SM-KET-1377-B.png"
         },
         {
@@ -3169,7 +3179,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "21.00",
-            "available": 17,
+            "available": 13,
             "image": "images/TS-213BK.png"
         },
         {
@@ -3189,7 +3199,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "24.00",
-            "available": 22,
+            "available": 19,
             "image": "images/TS-215BK.png"
         },
         {
@@ -3229,7 +3239,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "38.00",
-            "available": 22,
+            "available": 20,
             "image": "images/TS-222BK.png"
         },
         {
@@ -3249,7 +3259,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "18.00",
-            "available": 569,
+            "available": 563,
             "image": "images/WCF1-1007-BLK.png"
         },
         {
@@ -4369,7 +4379,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Food Processors",
             "price": "30.00",
-            "available": 30,
+            "available": 27,
             "image": "images/FP-549BK.png"
         },
         {
@@ -5379,7 +5389,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 949,
+            "available": 936,
             "image": "images/5165.png"
         },
         {
@@ -5493,16 +5503,6 @@
             "image": "images/WHT3001.png"
         },
         {
-            "id": "WSH0702AWW/RBO",
-            "name": "Mainstay 1500W Oil Filled Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "35.00",
-            "available": 1,
-            "image": "images/WSH0702AWW-RBO.png"
-        },
-        {
             "id": "WSH3-1002-WHT",
             "name": "AIWA Oscillating Small Heater",
             "category": "Heaters",
@@ -5519,7 +5519,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "28.00",
-            "available": 231,
+            "available": 228,
             "image": "images/25440PSC.png"
         },
         {
@@ -5609,7 +5609,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "20.00",
-            "available": 50,
+            "available": 46,
             "image": "images/ED-302.png"
         },
         {
@@ -5989,7 +5989,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "30.00",
-            "available": 193,
+            "available": 190,
             "image": "images/14289F.png"
         },
         {
@@ -6029,7 +6029,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "25.00",
-            "available": 7,
+            "available": 4,
             "image": "images/MPI-59BK.png"
         },
         {
@@ -6051,16 +6051,6 @@
             "price": "25.00",
             "available": 4,
             "image": "images/MPI-69BKRG.png"
-        },
-        {
-            "id": "MPI-70",
-            "name": "BRENTWOOD Classic Non-Stick Steam/Dry Iron -Black",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "28.00",
-            "available": 1,
-            "image": "images/MPI-70.png"
         },
         {
             "id": "ED-675G",
@@ -6339,7 +6329,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "300.00",
-            "available": 147,
+            "available": 146,
             "image": "images/FW50-518A.png"
         },
         {
@@ -6349,7 +6339,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "330.00",
-            "available": 14,
+            "available": 13,
             "image": "images/FW70-1558L.png"
         },
         {
@@ -6359,7 +6349,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "350.00",
-            "available": 66,
+            "available": 63,
             "image": "images/GYJ60-88F1.png"
         },
         {
@@ -6859,7 +6849,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Microwaves",
             "price": "100.00",
-            "available": 23,
+            "available": 17,
             "image": "images/NNSC64MWC-RBO.png"
         },
         {
@@ -6869,7 +6859,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Microwaves",
             "price": "100.00",
-            "available": 6,
+            "available": 5,
             "image": "images/NNSU64LBC-RBO.png"
         },
         {
@@ -7629,7 +7619,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "40.00",
-            "available": 58,
+            "available": 52,
             "image": "images/1947.png"
         },
         {
@@ -7639,7 +7629,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "47.00",
-            "available": 20,
+            "available": 17,
             "image": "images/1949.png"
         },
         {
@@ -8229,7 +8219,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "38.00",
-            "available": 14,
+            "available": 11,
             "image": "images/TS-380S.png"
         },
         {
@@ -8239,7 +8229,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "43.00",
-            "available": 18,
+            "available": 15,
             "image": "images/TS-480S.png"
         },
         {
@@ -8879,7 +8869,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toaster Ovens",
             "price": "65.00",
-            "available": 77,
+            "available": 71,
             "image": "images/WTO1-1001-BLK.png"
         },
         {
@@ -8919,7 +8909,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toasters",
             "price": "15.00",
-            "available": 39,
+            "available": 36,
             "image": "images/TS-260B.png"
         },
         {
