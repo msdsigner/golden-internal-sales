@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 21, 2026 - 2:13 PM EST",
+    "last_updated": "October 22, 2026 - 2:13 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -781,6 +781,16 @@
             "price": "125.00",
             "available": 4,
             "image": "images/A6CLUB-BLU.png"
+        },
+        {
+            "id": "ABX-1220R",
+            "name": "Audiobox Groovestar Portable Party Speaker with Wireless Mic",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "36.00",
+            "available": 28,
+            "image": "images/ABX-1220R.png"
         },
         {
             "id": "ABX-1550S",
@@ -2749,7 +2759,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Can Openers",
             "price": "18.00",
-            "available": 247,
+            "available": 246,
             "image": "images/J-30W.png"
         },
         {
@@ -5423,6 +5433,16 @@
             "image": "images/HO-0250H.png"
         },
         {
+            "id": "NT15-20A/G",
+            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
+            "category": "Heaters",
+            "parent_category": "Climate Control",
+            "sub_category": "Heaters",
+            "price": "23.00",
+            "available": 691,
+            "image": "images/NT15-20A-G.png"
+        },
+        {
             "id": "PSH08F1ABB/RBO",
             "name": "Pelonis 1500W 3-Spd Fan Forced Heater, RB, Black",
             "category": "Heaters",
@@ -5993,6 +6013,16 @@
             "image": "images/IM-36CR.png"
         },
         {
+            "id": "MPI-42BK",
+            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "29.00",
+            "available": 2,
+            "image": "images/MPI-42BK.png"
+        },
+        {
             "id": "MPI-59BK",
             "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
             "category": "Irons",
@@ -6461,16 +6491,6 @@
             "price": "14.00",
             "available": 19,
             "image": "images/MG-1-RED.png"
-        },
-        {
-            "id": "ABX-1220R",
-            "name": "Audiobox Groovestar Portable Party Speaker with Wireless Mic",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "36.00",
-            "available": 28,
-            "image": "images/ABX-1220R.png"
         },
         {
             "id": "M-106-BLK",
