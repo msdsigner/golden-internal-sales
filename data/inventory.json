@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 22, 2026 - 2:13 PM EST",
+    "last_updated": "October 23, 2026 - 2:13 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -329,7 +329,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "50.00",
-            "available": 59,
+            "available": 58,
             "image": "images/6706-000.png"
         },
         {
@@ -399,7 +399,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "28.00",
-            "available": 37,
+            "available": 117,
             "image": "images/CE-BL229.png"
         },
         {
@@ -2883,6 +2883,16 @@
             "image": "images/885.png"
         },
         {
+            "id": "CE-CM249",
+            "name": "Continental Coffee Maker, 12-Cup Capacity, Pause & Serve",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "22.00",
+            "available": 150,
+            "image": "images/CE-CM249.png"
+        },
+        {
             "id": "CE-CM389",
             "name": "Continental Programmable Coffee Maker 12-Cup Capacity",
             "category": "Coffee & Tea",
@@ -4283,6 +4293,16 @@
             "image": "images/V-2500.png"
         },
         {
+            "id": "V/2742",
+            "name": "UniqueWare 0.9\" Industrial Floor Fan",
+            "category": "Fans",
+            "parent_category": "Climate Control",
+            "sub_category": "Fans",
+            "price": "17.00",
+            "available": 8,
+            "image": "images/V-2742.png"
+        },
+        {
             "id": "V/3488",
             "name": "UniqueWare 18\" Stand Fan 3 Speed",
             "category": "Fans",
@@ -4469,7 +4489,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Grills",
             "price": "17.00",
-            "available": 36,
+            "available": 96,
             "image": "images/CE-CG839.png"
         },
         {
@@ -4659,7 +4679,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Hair Styling",
             "price": "12.50",
-            "available": 24,
+            "available": 22,
             "image": "images/303DGNX.png"
         },
         {
@@ -5369,7 +5389,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 886,
+            "available": 882,
             "image": "images/5165.png"
         },
         {
@@ -5439,7 +5459,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "23.00",
-            "available": 691,
+            "available": 1267,
             "image": "images/NT15-20A-G.png"
         },
         {
@@ -5993,6 +6013,16 @@
             "image": "images/76134.png"
         },
         {
+            "id": "CE-IR941",
+            "name": "Continental Non-Stick Steam/Dry Spray Iron - Blue",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "14.00",
+            "available": 500,
+            "image": "images/CE-IR941.png"
+        },
+        {
             "id": "IM-22B",
             "name": "Impress Mid-Size Iron w/ Spray/Burst/Non-Stick",
             "category": "Irons",
@@ -6449,7 +6479,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Massage Chairs",
             "price": "1299.00",
-            "available": 5,
+            "available": 4,
             "image": "images/JL10003WL-WU.png"
         },
         {
@@ -6729,7 +6759,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "85.00",
-            "available": 35,
+            "available": 33,
             "image": "images/CC-MW7000-BK.png"
         },
         {
@@ -6841,16 +6871,6 @@
             "price": "100.00",
             "available": 15,
             "image": "images/NNSC64MWC-RBO.png"
-        },
-        {
-            "id": "NNSU64LBC/RBO",
-            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 2,
-            "image": "images/NNSU64LBC-RBO.png"
         },
         {
             "id": "NNSU64LWC/RBO",
@@ -7859,7 +7879,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "10.00",
-            "available": 1,
+            "available": 13,
             "image": "images/RCD5.png"
         },
         {
@@ -8129,7 +8149,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "22.00",
-            "available": 17,
+            "available": 97,
             "image": "images/CE23201.png"
         },
         {
@@ -8139,7 +8159,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "26.00",
-            "available": 28,
+            "available": 78,
             "image": "images/CE23219.png"
         },
         {
@@ -8809,7 +8829,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toaster Ovens",
             "price": "27.00",
-            "available": 102,
+            "available": 100,
             "image": "images/KE-OV-B101BK.png"
         },
         {
@@ -8979,7 +8999,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "28.00",
-            "available": 24,
+            "available": 23,
             "image": "images/79424-200.png"
         },
         {
@@ -8989,7 +9009,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "23.00",
-            "available": 30,
+            "available": 29,
             "image": "images/79449.png"
         },
         {
@@ -8999,7 +9019,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "35.00",
-            "available": 52,
+            "available": 51,
             "image": "images/9243-4501.png"
         },
         {
@@ -9009,7 +9029,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "30.00",
-            "available": 34,
+            "available": 33,
             "image": "images/9243-6901.png"
         },
         {
@@ -9019,7 +9039,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "18.00",
-            "available": 129,
+            "available": 128,
             "image": "images/9314-300.png"
         },
         {
@@ -9029,7 +9049,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "40.00",
-            "available": 41,
+            "available": 40,
             "image": "images/9670-1301.png"
         },
         {
@@ -9039,7 +9059,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "27.00",
-            "available": 15,
+            "available": 14,
             "image": "images/9916-817.png"
         },
         {
