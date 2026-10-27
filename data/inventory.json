@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 27, 2026 - 2:13 PM EST",
+    "last_updated": "October 27, 2026 - 5:20 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -143,6 +143,16 @@
             "image": "images/CR-35.png"
         },
         {
+            "id": "CR1860D",
+            "name": "Borne Digital AM/FM Clock Radio w/ AUX-in",
+            "category": "Alarm Clocks",
+            "parent_category": "Home & Office",
+            "sub_category": "Alarm Clocks",
+            "price": "18.00",
+            "available": 90,
+            "image": "images/CR1860D.png"
+        },
+        {
             "id": "HPXSPBT14",
             "name": "Sentry Speaker w/ Clock",
             "category": "Alarm Clocks",
@@ -169,7 +179,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Alarm Clocks",
             "price": "10.00",
-            "available": 76,
+            "available": 70,
             "image": "images/WAC5-1002-BLK.png"
         },
         {
@@ -329,7 +339,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "50.00",
-            "available": 46,
+            "available": 45,
             "image": "images/6706-000.png"
         },
         {
@@ -359,7 +369,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "70.00",
-            "available": 136,
+            "available": 135,
             "image": "images/BLSTJJ-GPB-000.png"
         },
         {
@@ -639,7 +649,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Blenders & Mixers",
             "price": "24.00",
-            "available": 58,
+            "available": 54,
             "image": "images/R50190-RBO.png"
         },
         {
@@ -649,7 +659,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Blenders & Mixers",
             "price": "1.00",
-            "available": 87,
+            "available": 83,
             "image": "images/R56202-RBO.png"
         },
         {
@@ -1510,7 +1520,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 117,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPNKARLU.png"
         },
         {
             "id": "HPXBT701",
@@ -1520,7 +1530,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 70,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBT701.png"
         },
         {
             "id": "HPXBT702",
@@ -1530,7 +1540,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 70,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBT702.png"
         },
         {
             "id": "HPXBT705",
@@ -1540,7 +1550,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 70,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBT705.png"
         },
         {
             "id": "HPXSPBT6",
@@ -1609,7 +1619,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "32.00",
-            "available": 64,
+            "available": 60,
             "image": "images/LX-30-BLK.png"
         },
         {
@@ -1619,7 +1629,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "32.00",
-            "available": 23,
+            "available": 21,
             "image": "images/LX-30-CAMO.png"
         },
         {
@@ -2019,7 +2029,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "80.00",
-            "available": 10,
+            "available": 8,
             "image": "images/S100.png"
         },
         {
@@ -2493,6 +2503,16 @@
             "image": "images/PRCD650A-SLV.png"
         },
         {
+            "id": "PRCD667",
+            "name": "Borne Portable CD Boombox w/ AM/FM Radio",
+            "category": "Boombox",
+            "parent_category": "Audio",
+            "sub_category": "Boombox",
+            "price": "32.00",
+            "available": 152,
+            "image": "images/PRCD667.png"
+        },
+        {
             "id": "PRCD685B",
             "name": "Borne Portable CD Boombox w/ AM/FM Radio",
             "category": "Boombox",
@@ -2909,7 +2929,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "17.00",
-            "available": 7,
+            "available": 3,
             "image": "images/CG-158B.png"
         },
         {
@@ -2923,13 +2943,23 @@
             "image": "images/CG-158BL.png"
         },
         {
+            "id": "CG-158W",
+            "name": "BRENTWOOD Kitchen Essential Coffee Grinder - White",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "17.00",
+            "available": 6,
+            "image": "images/CG-158W.png"
+        },
+        {
             "id": "CG-162S",
             "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
             "category": "Coffee & Tea",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "33.00",
-            "available": 15,
+            "available": 11,
             "image": "images/CG-162S.png"
         },
         {
@@ -3059,7 +3089,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "20.00",
-            "available": 175,
+            "available": 169,
             "image": "images/SM-KET-1368.png"
         },
         {
@@ -3069,7 +3099,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "20.00",
-            "available": 61,
+            "available": 52,
             "image": "images/SM-KET-1377-B.png"
         },
         {
@@ -3269,7 +3299,7 @@
             "parent_category": "Electronics",
             "sub_category": "Computing",
             "price": "6.00",
-            "available": 266,
+            "available": 277,
             "image": "images/D-09-CA57BN.png"
         },
         {
@@ -3293,6 +3323,16 @@
             "image": "images/HPXKX550.png"
         },
         {
+            "id": "HPXKX700",
+            "name": "Sentry Wireless Keyboard and Mouse",
+            "category": "Computing",
+            "parent_category": "Electronics",
+            "sub_category": "Computing",
+            "price": "15.00",
+            "available": 6,
+            "image": "images/HPXKX700.png"
+        },
+        {
             "id": "QUB9003",
             "name": "QUB Wireless Mouse",
             "category": "Computing",
@@ -3309,7 +3349,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Cookware",
             "price": "45.00",
-            "available": 13,
+            "available": 11,
             "image": "images/889.png"
         },
         {
@@ -3530,7 +3570,7 @@
             "sub_category": "Earphones",
             "price": "9.00",
             "available": 115,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT751.png"
         },
         {
             "id": "BT752",
@@ -3540,7 +3580,7 @@
             "sub_category": "Earphones",
             "price": "9.00",
             "available": 120,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT752.png"
         },
         {
             "id": "BTH655-W",
@@ -4129,7 +4169,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Fans",
             "price": "7.00",
-            "available": 42,
+            "available": 50,
             "image": "images/FAN-106-BLK.png"
         },
         {
@@ -4139,7 +4179,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Fans",
             "price": "7.00",
-            "available": 41,
+            "available": 49,
             "image": "images/FAN-106-PNK.png"
         },
         {
@@ -4149,7 +4189,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Fans",
             "price": "7.00",
-            "available": 41,
+            "available": 49,
             "image": "images/FAN-106-WHT.png"
         },
         {
@@ -4539,7 +4579,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "12.00",
-            "available": 149,
+            "available": 148,
             "image": "images/CBF1-2001-BLK.png"
         },
         {
@@ -4559,7 +4599,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "22.00",
-            "available": 214,
+            "available": 212,
             "image": "images/CBH1-4006-SIG.png"
         },
         {
@@ -4569,7 +4609,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "20.00",
-            "available": 46,
+            "available": 43,
             "image": "images/CBH1-4007-VTN.png"
         },
         {
@@ -4579,7 +4619,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "19.00",
-            "available": 53,
+            "available": 50,
             "image": "images/CBH1-4008-SIG.png"
         },
         {
@@ -4599,7 +4639,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "10.00",
-            "available": 157,
+            "available": 154,
             "image": "images/CBR1-1002-BLY.png"
         },
         {
@@ -4619,7 +4659,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "5.00",
-            "available": 166,
+            "available": 162,
             "image": "images/CBT1-3007-BLY.png"
         },
         {
@@ -4629,7 +4669,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "12.00",
-            "available": 20,
+            "available": 16,
             "image": "images/CBT1-6002-SLV.png"
         },
         {
@@ -4649,7 +4689,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "22.00",
-            "available": 85,
+            "available": 82,
             "image": "images/CBT1-9000-SIG.png"
         },
         {
@@ -4663,23 +4703,13 @@
             "image": "images/CXT1-3500-HYP.png"
         },
         {
-            "id": "CXT1-4007-CMB",
-            "name": "Xtreme Cutting Edge Cordless Rechargeable Hair Clippers for Men & Women",
-            "category": "Grooming",
-            "parent_category": "Personal Care",
-            "sub_category": "Grooming",
-            "price": "20.00",
-            "available": 3,
-            "image": "images/CXT1-4007-CMB.png"
-        },
-        {
             "id": "NV-09586",
             "name": "PRESCOTT & TAYLOR Professional Rechargeable Hair Trimmer",
             "category": "Grooming",
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "9.00",
-            "available": 883,
+            "available": 895,
             "image": "images/NV-09586.png"
         },
         {
@@ -5130,7 +5160,7 @@
             "sub_category": "Headphones",
             "price": "19.00",
             "available": 60,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBTA1000CBK.png"
         },
         {
             "id": "HPXBTA1000WH",
@@ -5409,7 +5439,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 818,
+            "available": 805,
             "image": "images/5165.png"
         },
         {
@@ -5439,7 +5469,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "23.00",
-            "available": 765,
+            "available": 735,
             "image": "images/NT15-20A-G.png"
         },
         {
@@ -5450,7 +5480,7 @@
             "sub_category": "Heaters",
             "price": "35.00",
             "available": 18,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PHT23D7ABB-RBO.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -5499,7 +5529,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "28.00",
-            "available": 221,
+            "available": 219,
             "image": "images/25440PSC.png"
         },
         {
@@ -5579,7 +5609,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "50.00",
-            "available": 23,
+            "available": 27,
             "image": "images/DF-730S.png"
         },
         {
@@ -5819,7 +5849,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "17.00",
-            "available": 90,
+            "available": 88,
             "image": "images/TS-247BK.png"
         },
         {
@@ -5939,7 +5969,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "17.00",
-            "available": 159,
+            "available": 153,
             "image": "images/WGR1-1011-WHT.png"
         },
         {
@@ -5969,7 +5999,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "30.00",
-            "available": 178,
+            "available": 176,
             "image": "images/14289F.png"
         },
         {
@@ -5989,7 +6019,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "14.00",
-            "available": 466,
+            "available": 462,
             "image": "images/CE-IR941.png"
         },
         {
@@ -6021,6 +6051,16 @@
             "price": "29.00",
             "available": 2,
             "image": "images/MPI-42BK.png"
+        },
+        {
+            "id": "MPI-69BKRG",
+            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "25.00",
+            "available": 1,
+            "image": "images/MPI-69BKRG.png"
         },
         {
             "id": "ED-675G",
@@ -6289,7 +6329,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "360.00",
-            "available": 88,
+            "available": 93,
             "image": "images/FW100-1388AS.png"
         },
         {
@@ -6309,7 +6349,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "330.00",
-            "available": 10,
+            "available": 13,
             "image": "images/FW70-1558L.png"
         },
         {
@@ -6439,7 +6479,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Massagers",
             "price": "14.00",
-            "available": 98,
+            "available": 96,
             "image": "images/MG-1-BLK.png"
         },
         {
@@ -6449,7 +6489,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Massagers",
             "price": "14.00",
-            "available": 85,
+            "available": 83,
             "image": "images/MG-1-BLU.png"
         },
         {
@@ -6459,7 +6499,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Massagers",
             "price": "14.00",
-            "available": 19,
+            "available": 17,
             "image": "images/MG-1-RED.png"
         },
         {
@@ -6699,7 +6739,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "85.00",
-            "available": 15,
+            "available": 12,
             "image": "images/CC-MW7000-BK.png"
         },
         {
@@ -6809,8 +6849,18 @@
             "parent_category": "Refurbished",
             "sub_category": "Microwaves",
             "price": "100.00",
-            "available": 12,
+            "available": 9,
             "image": "images/NNSC64MWC-RBO.png"
+        },
+        {
+            "id": "NNSU64LBC/RBO",
+            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "100.00",
+            "available": 1,
+            "image": "images/NNSU64LBC-RBO.png"
         },
         {
             "id": "NNSU64LWC/RBO",
@@ -7013,6 +7063,16 @@
             "image": "images/NDS-8502.png"
         },
         {
+            "id": "PBX-1203",
+            "name": "QFX 12\" Lighted Party SPEAKER",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "80.00",
+            "available": 1,
+            "image": "images/PBX-1203.png"
+        },
+        {
             "id": "PBX-1206",
             "name": "QFX 12\" Lighted Party SPEAKER",
             "category": "Party Speakers",
@@ -7109,7 +7169,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "95.00",
-            "available": 33,
+            "available": 32,
             "image": "images/SP-1217RBT.png"
         },
         {
@@ -7333,6 +7393,16 @@
             "image": "images/PX0612CWRU-ROA.png"
         },
         {
+            "id": "PX0811CWRU/ROA",
+            "name": "Toshiba 8,000/12,000 BTU 115-VOLT Smart Portable AC, White, RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "240.00",
+            "available": 3,
+            "image": "images/PX0811CWRU-ROA.png"
+        },
+        {
             "id": "PX0812CWRU/ROA",
             "name": "Toshiba 8,000 (DOE) BTU Portable Air Conditioner, Cools 350 sq. ft., RB",
             "category": "Portable AC",
@@ -7409,7 +7479,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Portable AC",
             "price": "160.00",
-            "available": 2,
+            "available": 7,
             "image": "images/VPFD05YCLW-ROA.png"
         },
         {
@@ -7449,7 +7519,7 @@
             "parent_category": "Electronics",
             "sub_category": "Power Banks",
             "price": "17.00",
-            "available": 58,
+            "available": 54,
             "image": "images/FPB2225K.png"
         },
         {
@@ -7501,16 +7571,6 @@
             "price": "9.00",
             "available": 77,
             "image": "images/PTB-150-WHT.png"
-        },
-        {
-            "id": "PTB-1520",
-            "name": "Techbro 20,000 mAh Solar Powerbank",
-            "category": "Power Banks",
-            "parent_category": "Electronics",
-            "sub_category": "Power Banks",
-            "price": "17.00",
-            "available": 3,
-            "image": "images/PTB-1520.png"
         },
         {
             "id": "VPUR1011-WHT-ST",
@@ -8169,7 +8229,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Shavers",
             "price": "7.50",
-            "available": 54,
+            "available": 51,
             "image": "images/CXE1-1006-WM1.png"
         },
         {
@@ -8179,7 +8239,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Shavers",
             "price": "7.50",
-            "available": 223,
+            "available": 220,
             "image": "images/CXE1-1008-WM1.png"
         },
         {
@@ -8259,7 +8319,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Slow Cookers",
             "price": "38.00",
-            "available": 20,
+            "available": 19,
             "image": "images/SC-140BL.png"
         },
         {
@@ -8269,7 +8329,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Slow Cookers",
             "price": "38.00",
-            "available": 9,
+            "available": 8,
             "image": "images/SC-157S.png"
         },
         {
@@ -8549,7 +8609,7 @@
             "parent_category": "Home & Office",
             "sub_category": "TV Wall Mounts",
             "price": "10.00",
-            "available": 1,
+            "available": 2,
             "image": "images/SM-720-3063.png"
         },
         {
@@ -8859,7 +8919,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toasters",
             "price": "14.00",
-            "available": 107,
+            "available": 101,
             "image": "images/WTO1-1022-BLK.png"
         },
         {
@@ -8869,7 +8929,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toasters",
             "price": "14.00",
-            "available": 157,
+            "available": 151,
             "image": "images/WTO1-1022-WHT.png"
         },
         {
@@ -8879,7 +8939,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "28.00",
-            "available": 11,
+            "available": 9,
             "image": "images/79424-200.png"
         },
         {
@@ -8889,7 +8949,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "23.00",
-            "available": 21,
+            "available": 19,
             "image": "images/79449.png"
         },
         {
@@ -8899,7 +8959,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "35.00",
-            "available": 46,
+            "available": 44,
             "image": "images/9243-4501.png"
         },
         {
@@ -8909,7 +8969,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "30.00",
-            "available": 31,
+            "available": 29,
             "image": "images/9243-6901.png"
         },
         {
@@ -8929,7 +8989,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "40.00",
-            "available": 32,
+            "available": 30,
             "image": "images/9670-1301.png"
         },
         {
@@ -8939,7 +8999,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "27.00",
-            "available": 6,
+            "available": 4,
             "image": "images/9916-817.png"
         },
         {
@@ -8949,7 +9009,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "12.00",
-            "available": 59,
+            "available": 56,
             "image": "images/CBH1-4002-SLV.png"
         },
         {
@@ -8959,7 +9019,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "20.00",
-            "available": 140,
+            "available": 137,
             "image": "images/CBK1-6001-TIN.png"
         },
         {
@@ -8969,7 +9029,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "5.50",
-            "available": 255,
+            "available": 250,
             "image": "images/CXT1-3500-WM1.png"
         },
         {
@@ -8979,7 +9039,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "15.00",
-            "available": 714,
+            "available": 711,
             "image": "images/HC244NGB.png"
         },
         {
@@ -8989,7 +9049,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "6.50",
-            "available": 242,
+            "available": 240,
             "image": "images/LPG1R.png"
         },
         {
@@ -9019,8 +9079,18 @@
             "parent_category": "Home & Office",
             "sub_category": "Vacuums",
             "price": "45.00",
-            "available": 34,
+            "available": 31,
             "image": "images/BDSV53-BLK.png"
+        },
+        {
+            "id": "NEU102/RBO",
+            "name": "Eureka Upright AirSpeed Vacuum Clnr",
+            "category": "Vacuums",
+            "parent_category": "Refurbished",
+            "sub_category": "Vacuums",
+            "price": "65.00",
+            "available": 3,
+            "image": "images/NEU102-RBO.png"
         },
         {
             "id": "NEU180",
@@ -9049,7 +9119,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Vacuums",
             "price": "10.00",
-            "available": 484,
+            "available": 478,
             "image": "images/NV-08601.png"
         },
         {
@@ -9059,7 +9129,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Vacuums",
             "price": "10.00",
-            "available": 373,
+            "available": 391,
             "image": "images/NV-09163.png"
         },
         {
@@ -9089,7 +9159,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Vacuums",
             "price": "40.00",
-            "available": 23,
+            "available": 27,
             "image": "images/VC-450-GRN.png"
         },
         {
@@ -9229,7 +9299,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
             "price": "210.00",
-            "available": 20,
+            "available": 23,
             "image": "images/LW5024.png"
         },
         {
