@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 27, 2026 - 5:20 PM EST",
+    "last_updated": "October 28, 2026 - 2:10 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -13,16 +13,6 @@
             "image": "images/BAB-2438-ROA.png"
         },
         {
-            "id": "TSB-2438/ROA",
-            "name": "Black & Decker AC Window Bracket",
-            "category": "Accessories",
-            "parent_category": "Refurbished",
-            "sub_category": "Accessories",
-            "price": "40.00",
-            "available": 1,
-            "image": "images/TSB-2438-ROA.png"
-        },
-        {
             "id": "AF-202BKC",
             "name": "BRENTWOOD 2.0 AIR Fryer, Copper",
             "category": "Air Fryers",
@@ -33,44 +23,24 @@
             "image": "images/AF-202BKC.png"
         },
         {
-            "id": "AF-202W",
-            "name": "BRENTWOOD 2.0 AIR Fryer, White",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "50.00",
-            "available": 2,
-            "image": "images/AF-202W.png"
-        },
-        {
             "id": "AF-2400SI",
             "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
             "category": "Air Fryers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Air Fryers",
             "price": "100.00",
-            "available": 33,
+            "available": 31,
             "image": "images/AF-2400SI.png"
         },
         {
-            "id": "AFWB7QWG13",
-            "name": "West Bend 7 Qt Electric Air Fryer Oven",
+            "id": "AF-800DBK",
+            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
             "category": "Air Fryers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Air Fryers",
-            "price": "80.00",
-            "available": 1,
-            "image": "images/AFWB7QWG13.png"
-        },
-        {
-            "id": "DF-701",
-            "name": "BRENTWOOD 1.0 Liter Deep Fryer; Stainless Steel",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "32.00",
-            "available": 2,
-            "image": "images/DF-701.png"
+            "price": "72.00",
+            "available": 4,
+            "image": "images/AF-800DBK.png"
         },
         {
             "id": "DF-715BK",
@@ -83,26 +53,6 @@
             "image": "images/DF-715BK.png"
         },
         {
-            "id": "FT50931AMZ",
-            "name": "Kalorik 6 Qt Touchscreen Air Fryer",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "60.00",
-            "available": 1,
-            "image": "images/FT50931AMZ.png"
-        },
-        {
-            "id": "IM-436S",
-            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "60.00",
-            "available": 1,
-            "image": "images/IM-436S.png"
-        },
-        {
             "id": "SM-AIR-1899/RBO",
             "name": "Emerald 25L Air Fryer - Digital - RB",
             "category": "Air Fryers",
@@ -111,16 +61,6 @@
             "price": "105.00",
             "available": 4,
             "image": "images/SM-AIR-1899-RBO.png"
-        },
-        {
-            "id": "BAPT01",
-            "name": "Black & Decker Tabletop 3-Stage Air Purifier",
-            "category": "Air Purifiers",
-            "parent_category": "Climate Control",
-            "sub_category": "Air Purifiers",
-            "price": "49.00",
-            "available": 1,
-            "image": "images/BAPT01.png"
         },
         {
             "id": "HAP9435B",
@@ -163,16 +103,6 @@
             "image": "images/HPXSPBT14.png"
         },
         {
-            "id": "HPXSPBT18",
-            "name": "Sentry BT Clock Speaker",
-            "category": "Alarm Clocks",
-            "parent_category": "Home & Office",
-            "sub_category": "Alarm Clocks",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/HPXSPBT18.png"
-        },
-        {
             "id": "WAC5-1002-BLK",
             "name": "AIWA RGB Clock with USB Output",
             "category": "Alarm Clocks",
@@ -183,23 +113,13 @@
             "image": "images/WAC5-1002-BLK.png"
         },
         {
-            "id": "40527",
-            "name": "GE Conceal HD Passive Antenna",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "10.00",
-            "available": 1,
-            "image": "images/40527.png"
-        },
-        {
             "id": "ANT-100",
             "name": "AudioBox Digital TV & HD Antenna",
             "category": "Antennas",
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "5.00",
-            "available": 256,
+            "available": 251,
             "image": "images/ANT-100.png"
         },
         {
@@ -209,7 +129,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "12.00",
-            "available": 283,
+            "available": 279,
             "image": "images/ANT-101.png"
         },
         {
@@ -219,18 +139,8 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "5.00",
-            "available": 188,
+            "available": 185,
             "image": "images/ANT-22.png"
-        },
-        {
-            "id": "ANT-4",
-            "name": "QFX Indoor 90\u00b0 Rotating Antenna",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "5.00",
-            "available": 2,
-            "image": "images/ANT-4.png"
         },
         {
             "id": "ANT1080E",
@@ -269,18 +179,8 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "25.00",
-            "available": 14,
+            "available": 11,
             "image": "images/ANT1560E.png"
-        },
-        {
-            "id": "ANT30MILE",
-            "name": "Slim Digital HDTV 30 Mile TV Antenna",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "4.00",
-            "available": 2,
-            "image": "images/ANT30MILE.png"
         },
         {
             "id": "ANT751Z",
@@ -311,16 +211,6 @@
             "price": "6.00",
             "available": 90,
             "image": "images/AZONJN9.png"
-        },
-        {
-            "id": "58148G",
-            "name": "Hamilton Beach 700W Glass Jar Blender",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "40.00",
-            "available": 2,
-            "image": "images/58148G.png"
         },
         {
             "id": "62683G",
@@ -373,26 +263,6 @@
             "image": "images/BLSTJJ-GPB-000.png"
         },
         {
-            "id": "BLSTMEGG0",
-            "name": "Oster Classic 8-Speed Glass Jar Blender",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "60.00",
-            "available": 1,
-            "image": "images/BLSTMEGG0.png"
-        },
-        {
-            "id": "BLSTTS-GTO-000",
-            "name": "Oster 9-Speed Blender Glass Jar - Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "95.00",
-            "available": 1,
-            "image": "images/BLSTTS-GTO-000.png"
-        },
-        {
             "id": "CE-BL029",
             "name": "Continental Hand Blender SS Blades 150W - Black",
             "category": "Blenders & Mixers",
@@ -423,16 +293,6 @@
             "image": "images/CE-MX119.png"
         },
         {
-            "id": "CH-1569",
-            "name": "Commercial Chef Mixer Bottle 9 Oz",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "15.00",
-            "available": 1,
-            "image": "images/CH-1569.png"
-        },
-        {
             "id": "ED-160W",
             "name": "COOKINEX 12 Speed Glass Blender - White",
             "category": "Blenders & Mixers",
@@ -451,16 +311,6 @@
             "price": "11.00",
             "available": 9,
             "image": "images/ED-435-B.png"
-        },
-        {
-            "id": "ED-435/R",
-            "name": "Cookinex 5 Speed - Hand Mixer - Red",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "11.00",
-            "available": 1,
-            "image": "images/ED-435-R.png"
         },
         {
             "id": "ED-770",
@@ -513,16 +363,6 @@
             "image": "images/HB-33R.png"
         },
         {
-            "id": "HM-44",
-            "name": "BRENTWOOD 5 SPD HAND MIXER 150W",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "15.00",
-            "available": 2,
-            "image": "images/HM-44.png"
-        },
-        {
             "id": "HM-48B",
             "name": "BRENTWOOD 5 SPD HAND MIXER 150W - Black",
             "category": "Blenders & Mixers",
@@ -553,26 +393,6 @@
             "image": "images/HM-48W.png"
         },
         {
-            "id": "JB-191BK",
-            "name": "BRENTWOOD Personal Blender - Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "22.00",
-            "available": 2,
-            "image": "images/JB-191BK.png"
-        },
-        {
-            "id": "JB-220B",
-            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "30.00",
-            "available": 2,
-            "image": "images/JB-220B.png"
-        },
-        {
             "id": "JB-220R",
             "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Red",
             "category": "Blenders & Mixers",
@@ -581,16 +401,6 @@
             "price": "30.00",
             "available": 32,
             "image": "images/JB-220R.png"
-        },
-        {
-            "id": "JB-220W",
-            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - White",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "30.00",
-            "available": 2,
-            "image": "images/JB-220W.png"
         },
         {
             "id": "JB-920B",
@@ -743,16 +553,6 @@
             "image": "images/WBL1-1010-WHT.png"
         },
         {
-            "id": "XJ14409",
-            "name": "OVENTE Professional Stand Mixer- 300W",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "89.00",
-            "available": 1,
-            "image": "images/XJ14409.png"
-        },
-        {
             "id": "250BX210K",
             "name": "Fisher Wireless Portable Speaker / FM Radio",
             "category": "Bluetooth Speakers",
@@ -769,8 +569,18 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "125.00",
-            "available": 3,
+            "available": 17,
             "image": "images/A6CLUB-BLK.png"
+        },
+        {
+            "id": "A6CLUB-BLU",
+            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Blue",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "125.00",
+            "available": 19,
+            "image": "images/A6CLUB-BLU.png"
         },
         {
             "id": "ABX-1220R",
@@ -873,16 +683,6 @@
             "image": "images/BT-1010-RED.png"
         },
         {
-            "id": "BT-111-BLK",
-            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "11.00",
-            "available": 1,
-            "image": "images/BT-111-BLK.png"
-        },
-        {
             "id": "BT-111-RED",
             "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Red",
             "category": "Bluetooth Speakers",
@@ -953,16 +753,6 @@
             "image": "images/BT-1934-BLK.png"
         },
         {
-            "id": "BT-1934-GRN",
-            "name": "QFX Retro Car Dual 2\u201d BT Speaker with Bass Radiator and LED Lights, Green",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "22.00",
-            "available": 2,
-            "image": "images/BT-1934-GRN.png"
-        },
-        {
             "id": "BT-1934-IVY",
             "name": "QFX Retro Car Dual 2\u201d BT Speaker with Bass Radiator and LED Lights, Ivory",
             "category": "Bluetooth Speakers",
@@ -971,16 +761,6 @@
             "price": "22.00",
             "available": 33,
             "image": "images/BT-1934-IVY.png"
-        },
-        {
-            "id": "BT-1953-BLK",
-            "name": "QFX Retro Truck 2\" BT Speaker - Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "17.00",
-            "available": 2,
-            "image": "images/BT-1953-BLK.png"
         },
         {
             "id": "BT-1956-BLU",
@@ -1073,16 +853,6 @@
             "image": "images/BT-23.png"
         },
         {
-            "id": "BT-24-BLK",
-            "name": "QFX DUAL 4\" BT RECHARGEABLE W/LED Light",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "22.00",
-            "available": 2,
-            "image": "images/BT-24-BLK.png"
-        },
-        {
             "id": "BT-27",
             "name": "QFX Portable Cylinder Rechargeable BT Speaker with LED Party Lights",
             "category": "Bluetooth Speakers",
@@ -1131,16 +901,6 @@
             "price": "35.00",
             "available": 8,
             "image": "images/BT-35.png"
-        },
-        {
-            "id": "BT-402-Blk",
-            "name": "QFX Portable Rechargeable Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/BT-402-Blk.png"
         },
         {
             "id": "BT-47-BLU",
@@ -1199,28 +959,8 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "37.00",
-            "available": 43,
+            "available": 41,
             "image": "images/BT-8.png"
-        },
-        {
-            "id": "BT-84-BLK",
-            "name": "QFX 8\" PORTABLE PARTY SPEAKER Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "22.00",
-            "available": 2,
-            "image": "images/BT-84-BLK.png"
-        },
-        {
-            "id": "BT-87",
-            "name": "QFX 8\" RECHARGE LED LIGHT PARTY SPEAKER",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "30.00",
-            "available": 1,
-            "image": "images/BT-87.png"
         },
         {
             "id": "BT-9",
@@ -1293,16 +1033,6 @@
             "image": "images/BTSPK184.png"
         },
         {
-            "id": "BTSPK30B",
-            "name": "Borne High Fidelity BT Waterproof Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "37.00",
-            "available": 1,
-            "image": "images/BTSPK30B.png"
-        },
-        {
             "id": "BTSPK62",
             "name": "Borne Portable High Performance Speaker",
             "category": "Bluetooth Speakers",
@@ -1351,16 +1081,6 @@
             "price": "12.00",
             "available": 153,
             "image": "images/BX550KM.png"
-        },
-        {
-            "id": "BX604R",
-            "name": "2BOOM 6.5\" Radial Portable Speaker - Red",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/BX604R.png"
         },
         {
             "id": "BX627K",
@@ -1473,16 +1193,6 @@
             "image": "images/FBX390K.png"
         },
         {
-            "id": "FBX643K",
-            "name": "Fisher Dual 6.5 LED Fusion Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "26.00",
-            "available": 1,
-            "image": "images/FBX643K.png"
-        },
-        {
             "id": "FBX816SM",
             "name": "Fisher Power Jam Sound 8\" Speaker",
             "category": "Bluetooth Speakers",
@@ -1529,7 +1239,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
-            "available": 70,
+            "available": 66,
             "image": "images/HPXBT701.png"
         },
         {
@@ -1539,7 +1249,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
-            "available": 70,
+            "available": 66,
             "image": "images/HPXBT702.png"
         },
         {
@@ -1549,7 +1259,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
-            "available": 70,
+            "available": 66,
             "image": "images/HPXBT705.png"
         },
         {
@@ -1603,16 +1313,6 @@
             "image": "images/KP-500.png"
         },
         {
-            "id": "LCS-150",
-            "name": "QFX 15\" Portable Speaker Liquid Crystal Lights",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "120.00",
-            "available": 1,
-            "image": "images/LCS-150.png"
-        },
-        {
             "id": "LX-30-BLK",
             "name": "Dolphin Portable Boombox BT Speaker, Black",
             "category": "Bluetooth Speakers",
@@ -1631,16 +1331,6 @@
             "price": "32.00",
             "available": 21,
             "image": "images/LX-30-CAMO.png"
-        },
-        {
-            "id": "M-6500-MKII",
-            "name": "Dual 15\" BT Professional High-Powered Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "280.00",
-            "available": 1,
-            "image": "images/M-6500-MKII.png"
         },
         {
             "id": "MD565-BLK",
@@ -1679,28 +1369,8 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "55.00",
-            "available": 37,
+            "available": 36,
             "image": "images/MPX-12.png"
-        },
-        {
-            "id": "MPX-1504",
-            "name": "QFX 15\" Rechargeable Speaker with LED",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "75.00",
-            "available": 1,
-            "image": "images/MPX-1504.png"
-        },
-        {
-            "id": "MPX-1505",
-            "name": "QFX 15\" BT Rechargeable Speaker with LED Party Lights + Wired Mic",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "70.00",
-            "available": 1,
-            "image": "images/MPX-1505.png"
         },
         {
             "id": "MPX-65",
@@ -1743,26 +1413,6 @@
             "image": "images/MPX-803.png"
         },
         {
-            "id": "NAS-3082",
-            "name": "NAXA VIBE 3 Bluetooth Speaker and MP3 Player",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "19.17",
-            "available": 1,
-            "image": "images/NAS-3082.png"
-        },
-        {
-            "id": "NDS-8006D",
-            "name": "NAXA Dual 8\" BT True Wireless w/Disco Lt",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "65.00",
-            "available": 2,
-            "image": "images/NDS-8006D.png"
-        },
-        {
             "id": "P54-BLK",
             "name": "WORRYFREE 40W Wireless BT Speaker RGB Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1799,28 +1449,8 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "100.00",
-            "available": 22,
+            "available": 21,
             "image": "images/PBX-1020.png"
-        },
-        {
-            "id": "PBX-14-COS",
-            "name": "QFX 4\" Bazooka BT Speaker - Cosmic",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/PBX-14-COS.png"
-        },
-        {
-            "id": "PBX-1501",
-            "name": "QFX 15\" Rechargeable BT Speaker with LED Party Lights",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "190.00",
-            "available": 2,
-            "image": "images/PBX-1501.png"
         },
         {
             "id": "PBX-1503SM",
@@ -1883,34 +1513,14 @@
             "image": "images/PBX-2122.png"
         },
         {
-            "id": "PBX-220W",
-            "name": "QFX 2x10\" Karaoke 14 touch-screen",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "310.00",
-            "available": 1,
-            "image": "images/PBX-220W.png"
-        },
-        {
             "id": "PBX-288",
             "name": "QFX Dual 8\u201d Portable Rechargeable BT Speaker with LED Party Lights",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "40.00",
-            "available": 65,
+            "available": 64,
             "image": "images/PBX-288.png"
-        },
-        {
-            "id": "PBX-311BT",
-            "name": "QFX 2x10\" PORTABLE BLUETOOTH SPKR",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "140.00",
-            "available": 1,
-            "image": "images/PBX-311BT.png"
         },
         {
             "id": "PBX-5190",
@@ -1933,16 +1543,6 @@
             "image": "images/PBX-616SM.png"
         },
         {
-            "id": "PBX-68",
-            "name": "QFX 8\" BT Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "22.00",
-            "available": 1,
-            "image": "images/PBX-68.png"
-        },
-        {
             "id": "PBX-68SM",
             "name": "QFX 8\" BT Speaker w/ Stand & Mic",
             "category": "Bluetooth Speakers",
@@ -1951,26 +1551,6 @@
             "price": "30.00",
             "available": 105,
             "image": "images/PBX-68SM.png"
-        },
-        {
-            "id": "PBX-840",
-            "name": "QFX Quad 8\" Portable BT Rechargeable Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "180.00",
-            "available": 1,
-            "image": "images/PBX-840.png"
-        },
-        {
-            "id": "R-73",
-            "name": "QFX Portable Speaker+Cool+Humidifier+Fan",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "21.00",
-            "available": 2,
-            "image": "images/R-73.png"
         },
         {
             "id": "RC-1932-BLK",
@@ -2043,16 +1623,6 @@
             "image": "images/SBT294K.png"
         },
         {
-            "id": "SBT294NB",
-            "name": "Fisher ECO GO Waterproof Speaker, Navy Blue",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/SBT294NB.png"
-        },
-        {
             "id": "SBT354K",
             "name": "Fisher RIDGE PRO LED Wireless Waterproof Speaker, Black",
             "category": "Bluetooth Speakers",
@@ -2111,16 +1681,6 @@
             "price": "32.00",
             "available": 5,
             "image": "images/SC-2329BT.png"
-        },
-        {
-            "id": "SMPS-725",
-            "name": "Jensen BT Wireless Stereo Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "32.00",
-            "available": 1,
-            "image": "images/SMPS-725.png"
         },
         {
             "id": "SP-1500RBT",
@@ -2209,7 +1769,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "25.00",
-            "available": 20,
+            "available": 18,
             "image": "images/TMS-801-RED.png"
         },
         {
@@ -2223,24 +1783,24 @@
             "image": "images/WA65-BLK.png"
         },
         {
-            "id": "WA65-GRY",
-            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Gray",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "180.00",
-            "available": 1,
-            "image": "images/WA65-GRY.png"
-        },
-        {
-            "id": "WH58-GRN",
-            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Green",
+            "id": "WH58-BLK",
+            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "60.00",
-            "available": 1,
-            "image": "images/WH58-GRN.png"
+            "available": 103,
+            "image": "images/WH58-BLK.png"
+        },
+        {
+            "id": "WH59-BLK",
+            "name": "WORRYFREE Portable BT Speaker with Carry Handle, RGB Lights, Big Bass, 50W, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "50.00",
+            "available": 52,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "WH61-BLU",
@@ -2273,16 +1833,6 @@
             "image": "images/WP63-BLK.png"
         },
         {
-            "id": "WP64-GRY",
-            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Gray",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "35.00",
-            "available": 1,
-            "image": "images/WP64-GRY.png"
-        },
-        {
             "id": "WPB2-BLK",
             "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Black w/(TR1/HS-02)",
             "category": "Bluetooth Speakers",
@@ -2291,6 +1841,36 @@
             "price": "115.00",
             "available": 2,
             "image": "images/WPB2-BLK.png"
+        },
+        {
+            "id": "WPB220M-BLK",
+            "name": "WORRYFREE Party 220 Mini Wireless Colorful BT Speaker, Waterproof, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "30.00",
+            "available": 40,
+            "image": "images/WPB220M-BLK.png"
+        },
+        {
+            "id": "WPB220M-OWT",
+            "name": "WORRYFREE Party 220 Mini Wireless Colorful BT Speaker, Waterproof, Off White",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "30.00",
+            "available": 40,
+            "image": "images/WPB220M-OWT.png"
+        },
+        {
+            "id": "WPB500-BLK",
+            "name": "WORRYFREE 100W Portable BT Party Speaker with Two Microphones RGB Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "90.00",
+            "available": 26,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "WPBMINI-BLK",
@@ -2383,44 +1963,14 @@
             "image": "images/EPB-3002.png"
         },
         {
-            "id": "FBX396B",
-            "name": "Fisher  MAX Sound Wireless Boombox - Blue",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "20.00",
-            "available": 1,
-            "image": "images/FBX396B.png"
-        },
-        {
-            "id": "FBX396K",
-            "name": "Fisher  MAX Sound Wireless Boombox - Blk",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "20.00",
-            "available": 1,
-            "image": "images/FBX396K.png"
-        },
-        {
             "id": "J-200BT",
             "name": "QFX Portable BT CD Player & Cassette Rec.",
             "category": "Boombox",
             "parent_category": "Audio",
             "sub_category": "Boombox",
             "price": "25.00",
-            "available": 19,
+            "available": 17,
             "image": "images/J-200BT.png"
-        },
-        {
-            "id": "J-220BT",
-            "name": "QFX CASSETTE AM/FM/SW RADIO BT BOOMBOX W/USB",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "38.00",
-            "available": 1,
-            "image": "images/J-220BT.png"
         },
         {
             "id": "J-230BT-BLK",
@@ -2463,26 +2013,6 @@
             "image": "images/J-250BT-BLK.png"
         },
         {
-            "id": "J-250BT-SIL",
-            "name": "QFX Portable CD Player and Cassette Recorder BT + AM/FM Radio Boombox, Silver",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "85.00",
-            "available": 2,
-            "image": "images/J-250BT-SIL.png"
-        },
-        {
-            "id": "J-290BT-BLK",
-            "name": "QFX Portable CD Player and Cassette Recorder + BT Boombox, Black",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "60.00",
-            "available": 2,
-            "image": "images/J-290BT-BLK.png"
-        },
-        {
             "id": "J-290BT-SIL",
             "name": "QFX Portable CD Player and Cassette Recorder + BT Boombox, Silver",
             "category": "Boombox",
@@ -2493,16 +2023,6 @@
             "image": "images/J-290BT-SIL.png"
         },
         {
-            "id": "PRCD650A-SLV",
-            "name": "Borne PORTABLE AM/FM CD BOOMBOX - Silver",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "28.00",
-            "available": 1,
-            "image": "images/PRCD650A-SLV.png"
-        },
-        {
             "id": "PRCD667",
             "name": "Borne Portable CD Boombox w/ AM/FM Radio",
             "category": "Boombox",
@@ -2511,16 +2031,6 @@
             "price": "32.00",
             "available": 152,
             "image": "images/PRCD667.png"
-        },
-        {
-            "id": "PRCD685B",
-            "name": "Borne Portable CD Boombox w/ AM/FM Radio",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "38.00",
-            "available": 2,
-            "image": "images/PRCD685B.png"
         },
         {
             "id": "PRCDT588",
@@ -2573,16 +2083,6 @@
             "image": "images/DRC69707-RB.png"
         },
         {
-            "id": "NPB-251/BLK",
-            "name": "NAXA Portable CD Player with AM/FM Stereo Radio",
-            "category": "CD Players",
-            "parent_category": "Electronics",
-            "sub_category": "CD Players",
-            "price": "32.80",
-            "available": 2,
-            "image": "images/NPB-251-BLK.png"
-        },
-        {
             "id": "NPB-431",
             "name": "NAXA Portable MP3/CD Player with PLL FM",
             "category": "CD Players",
@@ -2591,86 +2091,6 @@
             "price": "70.00",
             "available": 14,
             "image": "images/NPB-431.png"
-        },
-        {
-            "id": "NPC-320",
-            "name": "NAXA Slim Compact Disc Player",
-            "category": "CD Players",
-            "parent_category": "Electronics",
-            "sub_category": "CD Players",
-            "price": "32.00",
-            "available": 1,
-            "image": "images/NPC-320.png"
-        },
-        {
-            "id": "NPC-321",
-            "name": "NAXA Slim Compact Disc Player",
-            "category": "CD Players",
-            "parent_category": "Electronics",
-            "sub_category": "CD Players",
-            "price": "16.00",
-            "available": 1,
-            "image": "images/NPC-321.png"
-        },
-        {
-            "id": "PCD25",
-            "name": "Borne Personal CD Player",
-            "category": "CD Players",
-            "parent_category": "Electronics",
-            "sub_category": "CD Players",
-            "price": "16.00",
-            "available": 2,
-            "image": "images/PCD25.png"
-        },
-        {
-            "id": "PCDBT01-BK",
-            "name": "Borne Portable Wireless CD Player",
-            "category": "CD Players",
-            "parent_category": "Electronics",
-            "sub_category": "CD Players",
-            "price": "25.00",
-            "available": 1,
-            "image": "images/PCDBT01-BK.png"
-        },
-        {
-            "id": "AH100R",
-            "name": "RCA 100-Ft Speaker Wire",
-            "category": "Cables",
-            "parent_category": "Electronics",
-            "sub_category": "Cables",
-            "price": "6.00",
-            "available": 1,
-            "image": "images/AH100R.png"
-        },
-        {
-            "id": "DV10R",
-            "name": "RCA 6-Ft Digital Audio Cable",
-            "category": "Cables",
-            "parent_category": "Electronics",
-            "sub_category": "Cables",
-            "price": "6.00",
-            "available": 1,
-            "image": "images/DV10R.png"
-        },
-        {
-            "id": "MHV1-1026-GRN",
-            "name": "Monster Cable 6ft LED Light - Green",
-            "category": "Cables",
-            "parent_category": "Electronics",
-            "sub_category": "Cables",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/MHV1-1026-GRN.png"
-        },
-        {
-            "id": "MHV1-1026-PUR",
-            "name": "Monster Cable 6ft LED Light - Purple",
-            "category": "Cables",
-            "parent_category": "Electronics",
-            "sub_category": "Cables",
-            "price": "5.00",
-            "available": 2,
-            "image": "images/MHV1-1026-PUR.png"
         },
         {
             "id": "VH25HHR",
@@ -2813,16 +2233,6 @@
             "image": "images/FX-911.png"
         },
         {
-            "id": "NA-3032",
-            "name": "NAXA FM transmitter Car Adapter W/MP3",
-            "category": "Car Audio",
-            "parent_category": "Electronics",
-            "sub_category": "Car Audio",
-            "price": "11.00",
-            "available": 2,
-            "image": "images/NA-3032.png"
-        },
-        {
             "id": "ADP-101",
             "name": "Audiobox Universal AC/DC Power Adapter",
             "category": "Chargers",
@@ -2871,16 +2281,6 @@
             "price": "15.00",
             "available": 38,
             "image": "images/179.png"
-        },
-        {
-            "id": "43680PS",
-            "name": "Proctor Silex 12-Cup Coffee Maker, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "22.00",
-            "available": 1,
-            "image": "images/43680PS.png"
         },
         {
             "id": "80300PS",
@@ -2963,26 +2363,6 @@
             "image": "images/CG-162S.png"
         },
         {
-            "id": "CH99671",
-            "name": "Homestyle Essentials 12 Cups coffee maker",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "22.00",
-            "available": 2,
-            "image": "images/CH99671.png"
-        },
-        {
-            "id": "CHCM12B",
-            "name": "Commecial Chef 12-cup Coffee Maker",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "25.00",
-            "available": 1,
-            "image": "images/CHCM12B.png"
-        },
-        {
             "id": "CTS-1000",
             "name": "BRENTWOOD 34oz Vacuum SS Coffee Carafe",
             "category": "Coffee & Tea",
@@ -3001,36 +2381,6 @@
             "price": "32.00",
             "available": 6,
             "image": "images/CTSA-3500.png"
-        },
-        {
-            "id": "HE-760",
-            "name": "Hercules 1.8L Stainless Steel Kettle",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/HE-760.png"
-        },
-        {
-            "id": "IM-170S",
-            "name": "Better Chef Stainless Steel Cordless Electric Kettle",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "20.00",
-            "available": 1,
-            "image": "images/IM-170S.png"
-        },
-        {
-            "id": "KT-1610W",
-            "name": "BRENTWOOD 1-liter Cordless Tea Kettle White",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "17.00",
-            "available": 1,
-            "image": "images/KT-1610W.png"
         },
         {
             "id": "KT-1618-B",
@@ -3061,26 +2411,6 @@
             "price": "30.00",
             "available": 46,
             "image": "images/KT-1962BK.png"
-        },
-        {
-            "id": "SM-KET-1333",
-            "name": "Emerald SS Tea Kettle",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "20.00",
-            "available": 1,
-            "image": "images/SM-KET-1333.png"
-        },
-        {
-            "id": "SM-KET-1358-B",
-            "name": "Emerald 1.8L Glass Electric Tea Kettle",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "22.00",
-            "available": 1,
-            "image": "images/SM-KET-1358-B.png"
         },
         {
             "id": "SM-KET-1368",
@@ -3151,16 +2481,6 @@
             "price": "20.00",
             "available": 18,
             "image": "images/TS-112B.png"
-        },
-        {
-            "id": "TS-119BK",
-            "name": "BRENTWOOD Moka Pot Espresso 6-servings",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "32.00",
-            "available": 2,
-            "image": "images/TS-119BK.png"
         },
         {
             "id": "TS-119R",
@@ -3279,7 +2599,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "18.00",
-            "available": 557,
+            "available": 551,
             "image": "images/WCF1-1007-BLK.png"
         },
         {
@@ -3353,26 +2673,6 @@
             "image": "images/889.png"
         },
         {
-            "id": "BDK400B",
-            "name": "Black & Decker Large Turkey Roasting Pan with Rack",
-            "category": "Cookware",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Cookware",
-            "price": "30.00",
-            "available": 1,
-            "image": "images/BDK400B.png"
-        },
-        {
-            "id": "BPS-309C",
-            "name": "BRENTWOOD 9-pcs Non-Stick Cookware, Copper",
-            "category": "Cookware",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Cookware",
-            "price": "33.00",
-            "available": 2,
-            "image": "images/BPS-309C.png"
-        },
-        {
             "id": "KF-9400",
             "name": "Cookinex Portable Induction Cooktop Countertop Burner",
             "category": "Cookware",
@@ -3429,28 +2729,8 @@
             "parent_category": "Electronics",
             "sub_category": "DVD Players",
             "price": "27.00",
-            "available": 37,
+            "available": 31,
             "image": "images/VP-110.png"
-        },
-        {
-            "id": "BD22MWSA",
-            "name": "Black & Decker 20 pt. Dehumidifier",
-            "category": "Dehumidifiers",
-            "parent_category": "Climate Control",
-            "sub_category": "Dehumidifiers",
-            "price": "75.00",
-            "available": 1,
-            "image": "images/BD22MWSA.png"
-        },
-        {
-            "id": "BDT50WTB",
-            "name": "Black & Decker 50 pt. Dehumidifier",
-            "category": "Dehumidifiers",
-            "parent_category": "Climate Control",
-            "sub_category": "Dehumidifiers",
-            "price": "100.00",
-            "available": 1,
-            "image": "images/BDT50WTB.png"
         },
         {
             "id": "MAD20S1QWT/ROA",
@@ -3523,53 +2803,13 @@
             "image": "images/CCD100W6-ROA.png"
         },
         {
-            "id": "50TWS597G",
-            "name": "Crush Air True Wireless Earphones - Gold",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/50TWS597G.png"
-        },
-        {
-            "id": "BLWBT980B",
-            "name": "Sentry Earbuds True Wireless DOT with Charging Case, Black",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "13.00",
-            "available": 2,
-            "image": "images/BLWBT980B.png"
-        },
-        {
-            "id": "BLWBT980W",
-            "name": "Sentry Earbuds True Wireless DOT with Charging Case, White",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/BLWBT980W.png"
-        },
-        {
-            "id": "BLWBT993",
-            "name": "Sentry Earbuds True Wireless Hook with Charge Case, Gray",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/BLWBT993.png"
-        },
-        {
             "id": "BT751",
             "name": "Sentry Talk BUDS True Wireless Buds, Black",
             "category": "Earphones",
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "9.00",
-            "available": 115,
+            "available": 109,
             "image": "images/BT751.png"
         },
         {
@@ -3579,7 +2819,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "9.00",
-            "available": 120,
+            "available": 114,
             "image": "images/BT752.png"
         },
         {
@@ -3623,16 +2863,6 @@
             "image": "images/BTH661-W.png"
         },
         {
-            "id": "BTWS300",
-            "name": "Borne True Wireless Earbuds w/ Charging Case",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "11.00",
-            "available": 1,
-            "image": "images/BTWS300.png"
-        },
-        {
             "id": "BTWSG20",
             "name": "Borne Gaming AirBuds TWS",
             "category": "Earphones",
@@ -3643,16 +2873,6 @@
             "image": "images/BTWSG20.png"
         },
         {
-            "id": "BUD200-ZB",
-            "name": "Borne Earbuds w/MIC - Zebra",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "3.00",
-            "available": 2,
-            "image": "images/BUD200-ZB.png"
-        },
-        {
             "id": "FEP910K",
             "name": "Fisher 8-PIN Wired Silicone Earbuds & Case, Blk",
             "category": "Earphones",
@@ -3661,26 +2881,6 @@
             "price": "4.50",
             "available": 185,
             "image": "images/FEP910K.png"
-        },
-        {
-            "id": "FTW388B",
-            "name": "Fisher Orbit Air True Wireless Earphones",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/FTW388B.png"
-        },
-        {
-            "id": "FTW400W",
-            "name": "Fisher Vital Sound Earphones - White",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/FTW400W.png"
         },
         {
             "id": "FTW626K",
@@ -3719,7 +2919,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "8.00",
-            "available": 109,
+            "available": 108,
             "image": "images/HP-E180-BLK.png"
         },
         {
@@ -3729,7 +2929,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "8.00",
-            "available": 120,
+            "available": 119,
             "image": "images/HP-E180-WHT.png"
         },
         {
@@ -3963,16 +3163,6 @@
             "image": "images/SBHP550AK.png"
         },
         {
-            "id": "TWS150-WHT",
-            "name": "2Boom ROOM AIR Earbuds - White",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "10.00",
-            "available": 1,
-            "image": "images/TWS150-WHT.png"
-        },
-        {
             "id": "TWS624NB",
             "name": "2Boom Vibez True Wireless Earphones - NB",
             "category": "Earphones",
@@ -3991,16 +3181,6 @@
             "price": "7.00",
             "available": 16,
             "image": "images/TWS624R.png"
-        },
-        {
-            "id": "TWS624W",
-            "name": "2Boom Vibez True Wireless Earphones - Wht",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "7.00",
-            "available": 1,
-            "image": "images/TWS624W.png"
         },
         {
             "id": "250F400W",
@@ -4023,26 +3203,6 @@
             "image": "images/BCF5201R.png"
         },
         {
-            "id": "BCF5211",
-            "name": "BLACK+DECKER 52\" Inch Ceiling Fan w/ Pull Chain",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "25.00",
-            "available": 2,
-            "image": "images/BCF5211.png"
-        },
-        {
-            "id": "BCF5252R",
-            "name": "BLACK+DECKER 52 inch Ceiling Fan with Light Kit",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "80.00",
-            "available": 1,
-            "image": "images/BCF5252R.png"
-        },
-        {
             "id": "BFB09W",
             "name": "BLACK+DECKER Mini Box Fan - Tabletop Quiet 9 Inch",
             "category": "Fans",
@@ -4051,56 +3211,6 @@
             "price": "40.00",
             "available": 4,
             "image": "images/BFB09W.png"
-        },
-        {
-            "id": "BFTU107",
-            "name": "BLACK+DECKER Turbo Desk Fan, Electric Port. 7 Inc",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "20.00",
-            "available": 1,
-            "image": "images/BFTU107.png"
-        },
-        {
-            "id": "BHD406W",
-            "name": "BLACK+DECKER Dual Function Desktop Heater & Fan",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "25.00",
-            "available": 1,
-            "image": "images/BHD406W.png"
-        },
-        {
-            "id": "CZ319WTWM",
-            "name": "Comfort Zone 0.9\" Fan Window Twin Portable",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "30.00",
-            "available": 2,
-            "image": "images/CZ319WTWM.png"
-        },
-        {
-            "id": "CZMC24",
-            "name": "Comfort Zone 24\" Industrial Drum Fan",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "49.50",
-            "available": 1,
-            "image": "images/CZMC24.png"
-        },
-        {
-            "id": "F-116-WHT",
-            "name": "QFX 16\u201d 3-Speed Adjustable Height Oscillating Stand Fan, White",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "26.00",
-            "available": 2,
-            "image": "images/F-116-WHT.png"
         },
         {
             "id": "F-16SMB",
@@ -4193,16 +3303,6 @@
             "image": "images/FAN-106-WHT.png"
         },
         {
-            "id": "FB-05-WHT",
-            "name": "QFX Portable Rechargeable Desktop Fan, White",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "7.00",
-            "available": 1,
-            "image": "images/FB-05-WHT.png"
-        },
-        {
             "id": "FB-06-BLK",
             "name": "QFX Portable Rechargeable Clip-On Fan, Black",
             "category": "Fans",
@@ -4273,16 +3373,6 @@
             "image": "images/FLA-21.png"
         },
         {
-            "id": "FS45-9L",
-            "name": "Pelonis 18\" Oscillating Misting Pedestal Fan - Blk",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "59.00",
-            "available": 2,
-            "image": "images/FS45-9L.png"
-        },
-        {
             "id": "MSWMT24JR/RBO",
             "name": "Mainstays 36\" Tall 3-Speed Oscillating Tower Fan, Black, RB",
             "category": "Fans",
@@ -4303,16 +3393,6 @@
             "image": "images/MSWMT24MW-RBO.png"
         },
         {
-            "id": "PFS40A4BBB",
-            "name": "Pelonis 16\" Oscillating W/Remote Pedestal Fan -Blk",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "49.00",
-            "available": 1,
-            "image": "images/PFS40A4BBB.png"
-        },
-        {
             "id": "V/2270",
             "name": "UniqueWare  18 \" 3 Speed Non-Oscillating floor fan",
             "category": "Fans",
@@ -4321,16 +3401,6 @@
             "price": "46.00",
             "available": 30,
             "image": "images/V-2270.png"
-        },
-        {
-            "id": "V/2271",
-            "name": "UniqueWare 20\" Industrial floor fan",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "50.00",
-            "available": 1,
-            "image": "images/V-2271.png"
         },
         {
             "id": "V/2274",
@@ -4413,16 +3483,6 @@
             "image": "images/70450.png"
         },
         {
-            "id": "CE-FP009",
-            "name": "Continental Mini Food Chopper, Black",
-            "category": "Food Processors",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Food Processors",
-            "price": "15.00",
-            "available": 1,
-            "image": "images/CE-FP009.png"
-        },
-        {
             "id": "CH-1502",
             "name": "Commercial Chef Chopper",
             "category": "Food Processors",
@@ -4489,7 +3549,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Food Processors",
             "price": "25.00",
-            "available": 8,
+            "available": 6,
             "image": "images/HB-38BK.png"
         },
         {
@@ -4499,7 +3559,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Food Processors",
             "price": "25.00",
-            "available": 12,
+            "available": 10,
             "image": "images/HB-38W.png"
         },
         {
@@ -4579,7 +3639,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "12.00",
-            "available": 148,
+            "available": 142,
             "image": "images/CBF1-2001-BLK.png"
         },
         {
@@ -4639,7 +3699,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "10.00",
-            "available": 154,
+            "available": 148,
             "image": "images/CBR1-1002-BLY.png"
         },
         {
@@ -4669,7 +3729,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "12.00",
-            "available": 16,
+            "available": 10,
             "image": "images/CBT1-6002-SLV.png"
         },
         {
@@ -4711,16 +3771,6 @@
             "price": "9.00",
             "available": 895,
             "image": "images/NV-09586.png"
-        },
-        {
-            "id": "CSX1-4000-KYO",
-            "name": "SAVAGE Kyoto Hair Dryer, Cherry Blossom",
-            "category": "Hair Dryers",
-            "parent_category": "Personal Care",
-            "sub_category": "Hair Dryers",
-            "price": "30.00",
-            "available": 1,
-            "image": "images/CSX1-4000-KYO.png"
         },
         {
             "id": "303DGNX",
@@ -4783,23 +3833,13 @@
             "image": "images/CXH1-6000-BLK.png"
         },
         {
-            "id": "50HPBT500G",
-            "name": "Fisher MIXX PRO Wireless Headphones, Gold",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "14.00",
-            "available": 1,
-            "image": "images/50HPBT500G.png"
-        },
-        {
             "id": "50HPBT500S",
             "name": "Fisher MIXX PRO Wireless Headphones, Silver",
             "category": "Headphones",
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "14.00",
-            "available": 66,
+            "available": 65,
             "image": "images/50HPBT500S.png"
         },
         {
@@ -4839,18 +3879,8 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "12.00",
-            "available": 84,
+            "available": 83,
             "image": "images/FBHP382K.png"
-        },
-        {
-            "id": "FBHP540W",
-            "name": "Fisher Boom Max Wireless Headphones -Wht",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "11.00",
-            "available": 1,
-            "image": "images/FBHP540W.png"
         },
         {
             "id": "FBHP546K",
@@ -4881,46 +3911,6 @@
             "price": "11.00",
             "available": 5,
             "image": "images/FBHP546W.png"
-        },
-        {
-            "id": "FGHP245B",
-            "name": "Fisher Gambit PRO Gaming Headset",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/FGHP245B.png"
-        },
-        {
-            "id": "GHP400B",
-            "name": "2BOOM Battle Crate 3in1 Combo Gaming - Blue",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "25.00",
-            "available": 2,
-            "image": "images/GHP400B.png"
-        },
-        {
-            "id": "GHP400R",
-            "name": "2BOOM Battle Crate 3in1 Combo Gaming - Red",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "25.00",
-            "available": 1,
-            "image": "images/GHP400R.png"
-        },
-        {
-            "id": "H-256BT-RED",
-            "name": "QFX BT Stereo Headphones - Red",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/H-256BT-RED.png"
         },
         {
             "id": "HP-10-BLU",
@@ -5009,58 +3999,8 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "7.50",
-            "available": 96,
+            "available": 95,
             "image": "images/HPBT195K.png"
-        },
-        {
-            "id": "HPBT290WHT",
-            "name": "2Boom PRIME Headset - White",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/HPBT290WHT.png"
-        },
-        {
-            "id": "HPBT700-BLU",
-            "name": "Armada Sport Wireless Headset - Blue",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/HPBT700-BLU.png"
-        },
-        {
-            "id": "HPM250-R",
-            "name": "Power Jam Hi-Def Stereo Headphone - Red",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/HPM250-R.png"
-        },
-        {
-            "id": "HPM250B",
-            "name": "2-BOOM CORE Stereo Headphone - Blue",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/HPM250B.png"
-        },
-        {
-            "id": "HPM250K",
-            "name": "Power Jam Hi-Def Stereo Headphone",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/HPM250K.png"
         },
         {
             "id": "HPXBT105",
@@ -5083,34 +4023,14 @@
             "image": "images/HPXBT180.png"
         },
         {
-            "id": "HPXBT200",
-            "name": "Sentry BT Headphone - Ass. colors",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/HPXBT200.png"
-        },
-        {
             "id": "HPXBT301/BLWBT301",
             "name": "Sentry Bluetooth Black Diamond Black/Gold",
             "category": "Headphones",
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "16.00",
-            "available": 123,
+            "available": 117,
             "image": "images/HPXBT301-BLWBT301.png"
-        },
-        {
-            "id": "HPXBT825",
-            "name": "Sentry Bluetooth Noise-Cancelling Over-Ear Headphones",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "13.00",
-            "available": 1,
-            "image": "images/HPXBT825.png"
         },
         {
             "id": "HPXBT910",
@@ -5139,7 +4059,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "14.00",
-            "available": 117,
+            "available": 111,
             "image": "images/HPXBTA010.png"
         },
         {
@@ -5263,16 +4183,6 @@
             "image": "images/HPXBTX100.png"
         },
         {
-            "id": "HPXDLX100BK",
-            "name": "Sentry Tempo Headphone - Black",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "6.00",
-            "available": 1,
-            "image": "images/HPXDLX100BK.png"
-        },
-        {
             "id": "HPXGX1000",
             "name": "Sentry Wireless Gaming Headset",
             "category": "Headphones",
@@ -5301,16 +4211,6 @@
             "price": "14.00",
             "available": 28,
             "image": "images/HPXGX275.png"
-        },
-        {
-            "id": "HPXGX85",
-            "name": "Sentry LIGHT UP Gaming Headset with Mic",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "6.00",
-            "available": 1,
-            "image": "images/HPXGX85.png"
         },
         {
             "id": "HPXGXTW1",
@@ -5353,16 +4253,6 @@
             "image": "images/HPXHMPRIN.png"
         },
         {
-            "id": "HPXHMUNI",
-            "name": "Sentry Unicorn Headphones",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "10.00",
-            "available": 2,
-            "image": "images/HPXHMUNI.png"
-        },
-        {
             "id": "HPXHO419",
             "name": "Sentry Folders Headphones",
             "category": "Headphones",
@@ -5371,26 +4261,6 @@
             "price": "2.50",
             "available": 192,
             "image": "images/HPXHO419.png"
-        },
-        {
-            "id": "HPXHO425",
-            "name": "Sentry Twist Headphone - Ass. colors",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/HPXHO425.png"
-        },
-        {
-            "id": "HPXHOKIDB",
-            "name": "Sentry Kids Headphones - Blk",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "6.00",
-            "available": 2,
-            "image": "images/HPXHOKIDB.png"
         },
         {
             "id": "HPXHS261",
@@ -5423,34 +4293,14 @@
             "image": "images/HPXICDLX.png"
         },
         {
-            "id": "IQ-460G-BLU",
-            "name": "IQsound Gaming Headset - Blue",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/IQ-460G-BLU.png"
-        },
-        {
             "id": "5165",
             "name": "Lasko 23\" Ceramic Oscillating Space Heater",
             "category": "Heaters",
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 805,
+            "available": 801,
             "image": "images/5165.png"
-        },
-        {
-            "id": "BHF136193153/RBO",
-            "name": "Pelonis 23\" Tower Heater RB",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "35.00",
-            "available": 2,
-            "image": "images/BHF136193153-RBO.png"
         },
         {
             "id": "HO-0250H",
@@ -5469,7 +4319,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "23.00",
-            "available": 735,
+            "available": 951,
             "image": "images/NT15-20A-G.png"
         },
         {
@@ -5479,7 +4329,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 18,
+            "available": 12,
             "image": "images/PHT23D7ABB-RBO.png"
         },
         {
@@ -5489,7 +4339,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "20.00",
-            "available": 7,
+            "available": 1,
             "image": "images/PSH08F1ABB-RBO.png"
         },
         {
@@ -5529,18 +4379,8 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "28.00",
-            "available": 219,
+            "available": 217,
             "image": "images/25440PSC.png"
-        },
-        {
-            "id": "BC-2958CR",
-            "name": "Betty Crocker Pizza Maker - Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "33.60",
-            "available": 2,
-            "image": "images/BC-2958CR.png"
         },
         {
             "id": "BDG-2200",
@@ -5573,26 +4413,6 @@
             "image": "images/CE23839.png"
         },
         {
-            "id": "CHPG12R",
-            "name": "Commercial Chef Pizza Maker and Indoor Grill",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "75.00",
-            "available": 1,
-            "image": "images/CHPG12R.png"
-        },
-        {
-            "id": "CHPM12R",
-            "name": "Commercial Chef 12 Inch Pizza + Meat Food Maker",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "29.00",
-            "available": 1,
-            "image": "images/CHPM12R.png"
-        },
-        {
             "id": "CP43279",
             "name": "Continental 5.0 Liter Deep Fryer & Multi Cooker",
             "category": "Heating & Cooking",
@@ -5609,7 +4429,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "50.00",
-            "available": 27,
+            "available": 25,
             "image": "images/DF-730S.png"
         },
         {
@@ -5633,16 +4453,6 @@
             "image": "images/ED-302-BUR.png"
         },
         {
-            "id": "ED-587BK",
-            "name": "Hercules Electric Double Burner, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "20.00",
-            "available": 1,
-            "image": "images/ED-587BK.png"
-        },
-        {
             "id": "ED-587W",
             "name": "Hercules Electric Double Burner, White",
             "category": "Heating & Cooking",
@@ -5653,46 +4463,6 @@
             "image": "images/ED-587W.png"
         },
         {
-            "id": "HP-3013BK",
-            "name": "BRENTWOOD 1.3Qt SS Hot Pot and Steam",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "26.00",
-            "available": 2,
-            "image": "images/HP-3013BK.png"
-        },
-        {
-            "id": "IM-285W",
-            "name": "Better Chef Sandwich Grill - White",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "15.00",
-            "available": 2,
-            "image": "images/IM-285W.png"
-        },
-        {
-            "id": "IM-286B",
-            "name": "Better Chef Sandwich Grill - Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "15.00",
-            "available": 1,
-            "image": "images/IM-286B.png"
-        },
-        {
-            "id": "IM-297R",
-            "name": "Better Chef Waffle Maker, Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "14.00",
-            "available": 1,
-            "image": "images/IM-297R.png"
-        },
-        {
             "id": "IM-306DB",
             "name": "Better Chef Double Burner - Wht",
             "category": "Heating & Cooking",
@@ -5701,16 +4471,6 @@
             "price": "19.00",
             "available": 91,
             "image": "images/IM-306DB.png"
-        },
-        {
-            "id": "KE-111",
-            "name": "Hercules Portable Gas Stove - Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "15.50",
-            "available": 2,
-            "image": "images/KE-111.png"
         },
         {
             "id": "SM-STV-2600",
@@ -5813,16 +4573,6 @@
             "image": "images/TS-127.png"
         },
         {
-            "id": "TS-240B",
-            "name": "BRENTWOOD Sandwich Maker - Black & SS",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "17.00",
-            "available": 2,
-            "image": "images/TS-240B.png"
-        },
-        {
             "id": "TS-241BK",
             "name": "BRENTWOOD Sandwich Maker Grill with Nonstick Plates, Compact & Easy to Store, Black",
             "category": "Heating & Cooking",
@@ -5831,16 +4581,6 @@
             "price": "16.00",
             "available": 64,
             "image": "images/TS-241BK.png"
-        },
-        {
-            "id": "TS-246",
-            "name": "BRENTWOOD PANINI MAKER - Blk",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "17.00",
-            "available": 2,
-            "image": "images/TS-246.png"
         },
         {
             "id": "TS-247BK",
@@ -5861,26 +4601,6 @@
             "price": "25.00",
             "available": 16,
             "image": "images/TS-337.png"
-        },
-        {
-            "id": "TS-361BK",
-            "name": "BRENTWOOD Electric Double Burner, Blk",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "25.00",
-            "available": 2,
-            "image": "images/TS-361BK.png"
-        },
-        {
-            "id": "TS-361W",
-            "name": "BRENTWOOD Electric Double Burner, Wht",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "25.00",
-            "available": 1,
-            "image": "images/TS-361W.png"
         },
         {
             "id": "TS-372",
@@ -5929,7 +4649,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "40.00",
-            "available": 8,
+            "available": 6,
             "image": "images/TS-643BK.png"
         },
         {
@@ -5969,18 +4689,8 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "17.00",
-            "available": 153,
+            "available": 149,
             "image": "images/WGR1-1011-WHT.png"
-        },
-        {
-            "id": "BUHW50",
-            "name": "Black+Decker 1.32 gal. Ultrasonic Humidifier",
-            "category": "Humidifiers",
-            "parent_category": "Climate Control",
-            "sub_category": "Humidifiers",
-            "price": "15.00",
-            "available": 1,
-            "image": "images/BUHW50.png"
         },
         {
             "id": "14210R",
@@ -5999,18 +4709,8 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "30.00",
-            "available": 176,
+            "available": 173,
             "image": "images/14289F.png"
-        },
-        {
-            "id": "76134",
-            "name": "Viasonic Elite Steam Iron 300ml. 120V, 1500W",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "14.00",
-            "available": 1,
-            "image": "images/76134.png"
         },
         {
             "id": "CE-IR941",
@@ -6019,18 +4719,8 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "14.00",
-            "available": 462,
+            "available": 461,
             "image": "images/CE-IR941.png"
-        },
-        {
-            "id": "IM-22B",
-            "name": "Impress Mid-Size Iron w/ Spray/Burst/Non-Stick",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "11.00",
-            "available": 1,
-            "image": "images/IM-22B.png"
         },
         {
             "id": "IM-36CR",
@@ -6041,26 +4731,6 @@
             "price": "16.00",
             "available": 60,
             "image": "images/IM-36CR.png"
-        },
-        {
-            "id": "MPI-42BK",
-            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "29.00",
-            "available": 2,
-            "image": "images/MPI-42BK.png"
-        },
-        {
-            "id": "MPI-69BKRG",
-            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "25.00",
-            "available": 1,
-            "image": "images/MPI-69BKRG.png"
         },
         {
             "id": "ED-675G",
@@ -6133,16 +4803,6 @@
             "image": "images/J-28BK.png"
         },
         {
-            "id": "JC-1000",
-            "name": "Brentwood Select 2-Speed 1000w Juice Extractor with 50-Oz Graduated Jar, SS",
-            "category": "Juicers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Juicers",
-            "price": "85.00",
-            "available": 1,
-            "image": "images/JC-1000.png"
-        },
-        {
             "id": "JC-452W",
             "name": "BRENTWOOD 2 Speed Juice Extractor, White",
             "category": "Juicers",
@@ -6201,96 +4861,6 @@
             "price": "12.00",
             "available": 46,
             "image": "images/LS-15.png"
-        },
-        {
-            "id": "LSL115",
-            "name": "Acellories 15 FT Sound Activated LED Lighting Strip",
-            "category": "LED Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "LED Lighting",
-            "price": "9.00",
-            "available": 1,
-            "image": "images/LSL115.png"
-        },
-        {
-            "id": "MHV1-1026-RED",
-            "name": "Monster Cable 6ft LED Light - Red",
-            "category": "LED Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "LED Lighting",
-            "price": "5.00",
-            "available": 2,
-            "image": "images/MHV1-1026-RED.png"
-        },
-        {
-            "id": "SC-1610SR",
-            "name": "SuperSonic PRO Live Stream 10\" LED Selfie Ring",
-            "category": "LED Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "LED Lighting",
-            "price": "30.00",
-            "available": 2,
-            "image": "images/SC-1610SR.png"
-        },
-        {
-            "id": "BCED26",
-            "name": "Black & Decker 2.6 Cu Ft 6Kg Portable Dryer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "349.00",
-            "available": 1,
-            "image": "images/BCED26.png"
-        },
-        {
-            "id": "BCED37",
-            "name": "Black & Decker 3.7 Cu Ft 6Kg Portable Dryer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "349.00",
-            "available": 2,
-            "image": "images/BCED37.png"
-        },
-        {
-            "id": "BFLW27MW",
-            "name": "BLACK+DECKER 2.7 Cu. Ft. Front Load Washer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "200.00",
-            "available": 1,
-            "image": "images/BFLW27MW.png"
-        },
-        {
-            "id": "BPWH84W",
-            "name": "Black+Decker 0.84 Cu. Ft. Portable Washer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "240.00",
-            "available": 1,
-            "image": "images/BPWH84W.png"
-        },
-        {
-            "id": "BPWM09W",
-            "name": "Black+Decker 0.9 Cu. Ft. Portable Washer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "240.00",
-            "available": 2,
-            "image": "images/BPWM09W.png"
-        },
-        {
-            "id": "BPWM16W",
-            "name": "Black+Decker 1.6 Cu. Ft. Portable Washer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "300.00",
-            "available": 2,
-            "image": "images/BPWM16W.png"
         },
         {
             "id": "BWDS",
@@ -6359,38 +4929,8 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "350.00",
-            "available": 61,
+            "available": 60,
             "image": "images/GYJ60-88F1.png"
-        },
-        {
-            "id": "HCD001",
-            "name": "Home Comfort 8.8 Lbs. Portable Dryer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "100.00",
-            "available": 1,
-            "image": "images/HCD001.png"
-        },
-        {
-            "id": "LSL110",
-            "name": "Acellories 10 FT Sound Activated LED Lighting Strip",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "7.00",
-            "available": 2,
-            "image": "images/LSL110.png"
-        },
-        {
-            "id": "SM-720-1610",
-            "name": "Emerald LED 10ft Sttrip Lights",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "7.00",
-            "available": 1,
-            "image": "images/SM-720-1610.png"
         },
         {
             "id": "SM-720-1638",
@@ -6443,16 +4983,6 @@
             "image": "images/SM-720-7500.png"
         },
         {
-            "id": "JL10003WL-KO",
-            "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Massage Chairs",
-            "price": "1299.00",
-            "available": 1,
-            "image": "images/JL10003WL-KO.png"
-        },
-        {
             "id": "JL10003WL-WU",
             "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
             "category": "Major Appliances",
@@ -6461,16 +4991,6 @@
             "price": "1299.00",
             "available": 4,
             "image": "images/JL10003WL-WU.png"
-        },
-        {
-            "id": "JL10003WL-YB",
-            "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Massage Chairs",
-            "price": "1299.00",
-            "available": 1,
-            "image": "images/JL10003WL-YB.png"
         },
         {
             "id": "MG-1-BLK",
@@ -6501,6 +5021,26 @@
             "price": "14.00",
             "available": 17,
             "image": "images/MG-1-RED.png"
+        },
+        {
+            "id": "A6CLUB-CMO",
+            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Camouflage",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "125.00",
+            "available": 9,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "A6CLUB-GRY",
+            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Gray",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "125.00",
+            "available": 12,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "M-106-BLK",
@@ -6581,16 +5121,6 @@
             "price": "10.00",
             "available": 12,
             "image": "images/MC101-BLK.png"
-        },
-        {
-            "id": "MC101-BLU",
-            "name": "Emerald Wireless Karaoke Microphone - Blu",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "10.00",
-            "available": 1,
-            "image": "images/MC101-BLU.png"
         },
         {
             "id": "MC101-RSG",
@@ -6693,44 +5223,14 @@
             "image": "images/MPH-20.png"
         },
         {
-            "id": "NAM-980/BLK",
-            "name": "NAXA Professional Microphone - Black",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/NAM-980-BLK.png"
-        },
-        {
-            "id": "NAM-984/BLK",
-            "name": "NAXA Professional Dual Wireless Microphone Kit",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "24.00",
-            "available": 2,
-            "image": "images/NAM-984-BLK.png"
-        },
-        {
             "id": "WPB2-GRY",
             "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Gray w/(TR1/HS-02)",
             "category": "Microphones",
             "parent_category": "Audio",
             "sub_category": "Microphones",
             "price": "115.00",
-            "available": 10,
+            "available": 33,
             "image": "images/WPB2-GRY.png"
-        },
-        {
-            "id": "B20PXP78-A70W",
-            "name": "GOLDEN 0.7 CF Microwave 700W - White",
-            "category": "Microwaves",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Microwaves",
-            "price": "55.00",
-            "available": 1,
-            "image": "images/B20PXP78-A70W.png"
         },
         {
             "id": "CC-MW7000-BK",
@@ -6739,48 +5239,8 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "85.00",
-            "available": 12,
+            "available": 10,
             "image": "images/CC-MW7000-BK.png"
-        },
-        {
-            "id": "EM131A5C-BS",
-            "name": "TOSHIBA 1100W Countertop Microwave Ovens 1.2 Cu Ft, Smart Humidity Sensor 12 Auto Menus Mute Function ECO Mode Easy Clean Interior, Black",
-            "category": "Microwaves",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Microwaves",
-            "price": "140.00",
-            "available": 2,
-            "image": "images/EM131A5C-BS.png"
-        },
-        {
-            "id": "GCST11N1WSS/ROA",
-            "name": "GE 1.1 Cu Ft CMO SS CL",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "70.00",
-            "available": 2,
-            "image": "images/GCST11N1WSS-ROA.png"
-        },
-        {
-            "id": "HB8436127995-3/RB",
-            "name": "Hamilton Beach 1.6 Cu Ft Microwave Oven, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "99.00",
-            "available": 1,
-            "image": "images/HB8436127995-3-RB.png"
-        },
-        {
-            "id": "MS8436193153-3/ROA",
-            "name": "Mainstays 1.1 Cu Ft Microwave Oven, Black, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "79.00",
-            "available": 1,
-            "image": "images/MS8436193153-3-ROA.png"
         },
         {
             "id": "MT09V1B",
@@ -6789,18 +5249,8 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "95.00",
-            "available": 122,
+            "available": 121,
             "image": "images/MT09V1B.png"
-        },
-        {
-            "id": "NN-SB65NS/ROA",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "85.00",
-            "available": 1,
-            "image": "images/NN-SB65NS-ROA.png"
         },
         {
             "id": "NN-SC678CC/RBO",
@@ -6823,16 +5273,6 @@
             "image": "images/NN-SN68QB-RB.png"
         },
         {
-            "id": "NN-SN95HS/ROA",
-            "name": "Panasonic 2.2 cu. ft. 1250-Watt Microwave with Cyclonic Wave Inverter - RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "125.00",
-            "available": 2,
-            "image": "images/NN-SN95HS-ROA.png"
-        },
-        {
             "id": "NN-SU64LW/RB",
             "name": "Panasonic Countertop Microwave Genius Sensor Cooking, 1.3-cu.ft., Matte White, RB",
             "category": "Microwaves",
@@ -6849,18 +5289,8 @@
             "parent_category": "Refurbished",
             "sub_category": "Microwaves",
             "price": "100.00",
-            "available": 9,
+            "available": 8,
             "image": "images/NNSC64MWC-RBO.png"
-        },
-        {
-            "id": "NNSU64LBC/RBO",
-            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "100.00",
-            "available": 1,
-            "image": "images/NNSU64LBC-RBO.png"
         },
         {
             "id": "NNSU64LWC/RBO",
@@ -6881,16 +5311,6 @@
             "price": "100.00",
             "available": 3,
             "image": "images/NNSU65NWC-RBO.png"
-        },
-        {
-            "id": "WSI-EM22AST/ROA",
-            "name": "Toshiba 2.2 cu. ft. Microwave, 1200 W Stainless St",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "135.00",
-            "available": 1,
-            "image": "images/WSI-EM22AST-ROA.png"
         },
         {
             "id": "MP-100",
@@ -7003,16 +5423,6 @@
             "image": "images/BT-30.png"
         },
         {
-            "id": "FBX1529ACSM",
-            "name": "Fisher 15\" Bass Blaster Party Speaker",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "85.00",
-            "available": 1,
-            "image": "images/FBX1529ACSM.png"
-        },
-        {
             "id": "LMS-1234",
             "name": "QFX Rechargeable BT Portable Party Speaker + Liquid Motion Party Lights",
             "category": "Party Speakers",
@@ -7043,16 +5453,6 @@
             "image": "images/LX-440.png"
         },
         {
-            "id": "MPD1089B-BLK",
-            "name": "MAX Power 10x2 DJ Woofer Speaker w/LED lite",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "185.00",
-            "available": 1,
-            "image": "images/MPD1089B-BLK.png"
-        },
-        {
             "id": "NDS-8502",
             "name": "NAXA 8\" Party Speaker w/ Disco Light",
             "category": "Party Speakers",
@@ -7061,16 +5461,6 @@
             "price": "38.00",
             "available": 4,
             "image": "images/NDS-8502.png"
-        },
-        {
-            "id": "PBX-1203",
-            "name": "QFX 12\" Lighted Party SPEAKER",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "80.00",
-            "available": 1,
-            "image": "images/PBX-1203.png"
         },
         {
             "id": "PBX-1206",
@@ -7109,38 +5499,8 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "150.00",
-            "available": 15,
+            "available": 14,
             "image": "images/PBX-1213.png"
-        },
-        {
-            "id": "PBX-1520",
-            "name": "QFX 15\" Dual BT Rechargeable Party Speaker",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "190.00",
-            "available": 1,
-            "image": "images/PBX-1520.png"
-        },
-        {
-            "id": "PBX-264",
-            "name": "QFX 2x6.5\" PARTY SPEAKER",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "37.00",
-            "available": 1,
-            "image": "images/PBX-264.png"
-        },
-        {
-            "id": "PBX-61089",
-            "name": "QFX 2X10 PORTABLE PARTY SPEAKER",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "200.00",
-            "available": 1,
-            "image": "images/PBX-61089.png"
         },
         {
             "id": "PBX-831",
@@ -7149,18 +5509,8 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "60.00",
-            "available": 28,
+            "available": 27,
             "image": "images/PBX-831.png"
-        },
-        {
-            "id": "PBX-BF12",
-            "name": "QFX PORTABLE PARTY SPEAKER",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "61.83",
-            "available": 2,
-            "image": "images/PBX-BF12.png"
         },
         {
             "id": "SP-1217RBT",
@@ -7243,26 +5593,6 @@
             "image": "images/SPKA04WHB2.png"
         },
         {
-            "id": "SPX-2115R",
-            "name": "Dolphin 15\" BT Elite Series Party Speaker",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "165.00",
-            "available": 1,
-            "image": "images/SPX-2115R.png"
-        },
-        {
-            "id": "WSC01-BLK",
-            "name": "WORRYFREE 60W Portable BT Party Speaker with RGB Lights, Waterproof with One Microphone, Black",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "120.00",
-            "available": 2,
-            "image": "images/WSC01-BLK.png"
-        },
-        {
             "id": "WSC01-BLU",
             "name": "WORRYFREE 60W Portable BT Party Speaker with RGB Lights, Waterproof with One Microphone, Blue",
             "category": "Party Speakers",
@@ -7279,7 +5609,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Personal Care",
             "price": "8.00",
-            "available": 276,
+            "available": 270,
             "image": "images/NV-06797.png"
         },
         {
@@ -7333,16 +5663,6 @@
             "image": "images/CS5129-2.png"
         },
         {
-            "id": "ARC-101CW",
-            "name": "Whynter 10,000 BTU (5,200 BTU SACC) Cool Size Compact Portable AC, Dehumidifier, & Fan with Activated Carbon Filter up to 300 sq ft",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "300.00",
-            "available": 1,
-            "image": "images/ARC-101CW.png"
-        },
-        {
             "id": "HAP0824TWD - No Accessories",
             "name": "Hisense 350 Sq. Ft. Inverter Dual-Hose 8000 BTU Portable Air Conditioner",
             "category": "Portable AC",
@@ -7361,16 +5681,6 @@
             "price": "245.00",
             "available": 56,
             "image": "images/MAP05S1AWT.png"
-        },
-        {
-            "id": "NS-AC08PWH1/ROA",
-            "name": "INSIGNIA 8,000 BTU PORTABLE AIR CONDITIONER",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "180.00",
-            "available": 2,
-            "image": "images/NS-AC08PWH1-ROA.png"
         },
         {
             "id": "PX0611CWRU/ROA",
@@ -7413,16 +5723,6 @@
             "image": "images/PX0812CWRU-ROA.png"
         },
         {
-            "id": "RAC-PD1213CWRU/ROA",
-            "name": "Toshiba 12K BTU (8,000 BTU DOE) Portable AC - Refurbished",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "179.00",
-            "available": 1,
-            "image": "images/RAC-PD1213CWRU-ROA.png"
-        },
-        {
             "id": "S-15051",
             "name": "Portable AC Box - 15x15x36",
             "category": "Portable AC",
@@ -7461,16 +5761,6 @@
             "price": "160.00",
             "available": 6,
             "image": "images/VAP09R1AWT-RB.png"
-        },
-        {
-            "id": "VAP09R1AWT/ROA",
-            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms, RB",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "160.00",
-            "available": 1,
-            "image": "images/VAP09R1AWT-ROA.png"
         },
         {
             "id": "VPFD05YCLW/ROA",
@@ -7583,23 +5873,13 @@
             "image": "images/VPUR1011-WHT-ST.png"
         },
         {
-            "id": "WPF4-1008-RED",
-            "name": "AIWA Power Bank Fan, Red",
-            "category": "Power Banks",
-            "parent_category": "Electronics",
-            "sub_category": "Power Banks",
-            "price": "10.00",
-            "available": 2,
-            "image": "images/WPF4-1008-RED.png"
-        },
-        {
             "id": "1945",
             "name": "Kitchen+Sense 5.5L Alu Pressure Cooker w/o Steamer",
             "category": "Pressure Cookers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "35.00",
-            "available": 66,
+            "available": 60,
             "image": "images/1945.png"
         },
         {
@@ -7609,7 +5889,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "40.00",
-            "available": 46,
+            "available": 42,
             "image": "images/1947.png"
         },
         {
@@ -7619,28 +5899,8 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "47.00",
-            "available": 13,
+            "available": 9,
             "image": "images/1949.png"
-        },
-        {
-            "id": "BPC-112",
-            "name": "BRENTWOOD 9.0L Pressure Cooker Aluminum",
-            "category": "Pressure Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Pressure Cookers",
-            "price": "52.00",
-            "available": 1,
-            "image": "images/BPC-112.png"
-        },
-        {
-            "id": "CJR720BLHD",
-            "name": "Core Innovations HD Portable Projector",
-            "category": "Projectors",
-            "parent_category": "Electronics",
-            "sub_category": "Projectors",
-            "price": "85.00",
-            "available": 1,
-            "image": "images/CJR720BLHD.png"
         },
         {
             "id": "HPNPRMN1",
@@ -7723,16 +5983,6 @@
             "image": "images/MPX-8080.png"
         },
         {
-            "id": "R-15BLK",
-            "name": "QFX Portable Rechargeable BT FM Radio + Digital Music Player and LED Light, Black",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "8.00",
-            "available": 1,
-            "image": "images/R-15BLK.png"
-        },
-        {
             "id": "R-16",
             "name": "QFX Portable Rechargeable BT AM/FM Radio + USB/TF Music Player, Black",
             "category": "Radios",
@@ -7759,7 +6009,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "15.00",
-            "available": 81,
+            "available": 79,
             "image": "images/R-3.png"
         },
         {
@@ -7833,16 +6083,6 @@
             "image": "images/R-34.png"
         },
         {
-            "id": "R-58-BLU",
-            "name": "QFX Portable Solar Rechargeable 3-Band Radio with BT + Music Player, Blue",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "23.00",
-            "available": 2,
-            "image": "images/R-58-BLU.png"
-        },
-        {
             "id": "RCD5",
             "name": "RCA digital Clock Radio",
             "category": "Radios",
@@ -7859,18 +6099,8 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "12.00",
-            "available": 31,
+            "available": 29,
             "image": "images/RETRO-10.png"
-        },
-        {
-            "id": "RETRO-12",
-            "name": "QFX 3 Band Solar Radio With Bluetooth/USB",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "12.00",
-            "available": 2,
-            "image": "images/RETRO-12.png"
         },
         {
             "id": "RETRO-15",
@@ -7893,16 +6123,6 @@
             "image": "images/RX-3.png"
         },
         {
-            "id": "SC-1091",
-            "name": "SuperSonic 4 Band AM/FM/SW1-2 PLL Radio",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "20.00",
-            "available": 2,
-            "image": "images/SC-1091.png"
-        },
-        {
             "id": "BC 40",
             "name": "A Energy Compact Refrigerator 1.4 CF, White",
             "category": "Major Appliances",
@@ -7913,36 +6133,6 @@
             "image": "images/BC 40.png"
         },
         {
-            "id": "BCRK17V",
-            "name": "Black+Decker 1.7 Cu. Ft. Compact Fridge Silver",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "105.00",
-            "available": 1,
-            "image": "images/BCRK17V.png"
-        },
-        {
-            "id": "CCRRD45HR/ROA",
-            "name": "Commercial Cool 4.5 Cu. Ft. Fridge",
-            "category": "Refrigerators",
-            "parent_category": "Refurbished",
-            "sub_category": "Refrigerators",
-            "price": "150.00",
-            "available": 2,
-            "image": "images/CCRRD45HR-ROA.png"
-        },
-        {
-            "id": "CCRRD45HW/ROA",
-            "name": "Commercial Cool 4.5 Cu. Ft. Fridge - White",
-            "category": "Refrigerators",
-            "parent_category": "Refurbished",
-            "sub_category": "Refrigerators",
-            "price": "150.00",
-            "available": 1,
-            "image": "images/CCRRD45HW-ROA.png"
-        },
-        {
             "id": "ERT74MES",
             "name": "Element 21.3 in. 7.5 cu. ft. Compact Top Freezer Refrigerator, Stainless Steel",
             "category": "Major Appliances",
@@ -7951,36 +6141,6 @@
             "price": "656.00",
             "available": 3,
             "image": "images/ERT74MES.png"
-        },
-        {
-            "id": "FGFR334/NB",
-            "name": "FRIGIDAIRE 3.2 CU FT REFRIGERATOR - Silver, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "165.00",
-            "available": 1,
-            "image": "images/FGFR334-NB.png"
-        },
-        {
-            "id": "NS-CF44BK3/NB",
-            "name": "INSIGNIA 4.4 Cu Ft Mini Fridge, Black, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "70.00",
-            "available": 1,
-            "image": "images/NS-CF44BK3-NB.png"
-        },
-        {
-            "id": "RM3316B",
-            "name": "AVANTI 3.3 CU FT REFRIGERATOR - Black",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "165.00",
-            "available": 1,
-            "image": "images/RM3316B.png"
         },
         {
             "id": "32934",
@@ -8013,26 +6173,6 @@
             "image": "images/RCR504BE.png"
         },
         {
-            "id": "RCU300TZ",
-            "name": "RCA Universal Remote 3",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "4.00",
-            "available": 2,
-            "image": "images/RCU300TZ.png"
-        },
-        {
-            "id": "REM-10",
-            "name": "QFX SMART UNIVERSAL REMOTE CONTROL",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "5.00",
-            "available": 2,
-            "image": "images/REM-10.png"
-        },
-        {
             "id": "REM-11",
             "name": "QFX 4 in 1 Smart Universal Remote Control",
             "category": "Remotes",
@@ -8059,18 +6199,8 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "5.00",
-            "available": 147,
+            "available": 141,
             "image": "images/REM-13-SIL.png"
-        },
-        {
-            "id": "REM-20",
-            "name": "QFX 4 in 1 UNIVERSAL REMOTE CONTROL",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "6.00",
-            "available": 2,
-            "image": "images/REM-20.png"
         },
         {
             "id": "REM-6",
@@ -8079,7 +6209,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "3.50",
-            "available": 274,
+            "available": 268,
             "image": "images/REM-6.png"
         },
         {
@@ -8091,16 +6221,6 @@
             "price": "7.00",
             "available": 346,
             "image": "images/SRP2024R-27.png"
-        },
-        {
-            "id": "SRP9232D/27",
-            "name": "Philips 3 function Universal RC",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "5.00",
-            "available": 2,
-            "image": "images/SRP9232D-27.png"
         },
         {
             "id": "TKTC6GB",
@@ -8153,26 +6273,6 @@
             "image": "images/IM-4110CR.png"
         },
         {
-            "id": "KF-6600",
-            "name": "Kung fu 1.8L Rice Cooker - SS",
-            "category": "Rice Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "19.82",
-            "available": 2,
-            "image": "images/KF-6600.png"
-        },
-        {
-            "id": "RC-3/W",
-            "name": "Cookinex 3 Cups Rice Cooker - White",
-            "category": "Rice Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "20.00",
-            "available": 1,
-            "image": "images/RC-3-W.png"
-        },
-        {
             "id": "RC-5110DS",
             "name": "BRENTWOOD10-Cups Cooked/5-Cups Uncooked 7-Function Smart Rice Multi-Cooker, SS",
             "category": "Rice Cookers",
@@ -8213,6 +6313,16 @@
             "image": "images/TS-480S.png"
         },
         {
+            "id": "TS-700S",
+            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
+            "category": "Rice Cookers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Rice Cookers",
+            "price": "25.00",
+            "available": 2,
+            "image": "images/TS-700S.png"
+        },
+        {
             "id": "3043",
             "name": "Propert 150Kg Body Analysis Scale",
             "category": "Scales",
@@ -8229,7 +6339,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Shavers",
             "price": "7.50",
-            "available": 51,
+            "available": 45,
             "image": "images/CXE1-1006-WM1.png"
         },
         {
@@ -8239,7 +6349,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Shavers",
             "price": "7.50",
-            "available": 220,
+            "available": 214,
             "image": "images/CXE1-1008-WM1.png"
         },
         {
@@ -8283,34 +6393,14 @@
             "image": "images/SK-65.png"
         },
         {
-            "id": "KF-6810",
-            "name": "Kung Fu 8.45 Qt / 8.0L Slow Cooker, SS",
-            "category": "Slow Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Slow Cookers",
-            "price": "40.00",
-            "available": 1,
-            "image": "images/KF-6810.png"
-        },
-        {
             "id": "SC-130S",
             "name": "BRENTWOOD 3 Qt Slow Cooker with S/S Body",
             "category": "Slow Cookers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Slow Cookers",
             "price": "23.00",
-            "available": 45,
+            "available": 41,
             "image": "images/SC-130S.png"
-        },
-        {
-            "id": "SC-135W",
-            "name": "BRENTWOOD 3 Qt Slow Cooker White Body",
-            "category": "Slow Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Slow Cookers",
-            "price": "22.00",
-            "available": 1,
-            "image": "images/SC-135W.png"
         },
         {
             "id": "SC-140BL",
@@ -8329,18 +6419,8 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Slow Cookers",
             "price": "38.00",
-            "available": 8,
+            "available": 7,
             "image": "images/SC-157S.png"
-        },
-        {
-            "id": "SC-3Q",
-            "name": "Cookinex 3 QT Round Slow Cooker",
-            "category": "Slow Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Slow Cookers",
-            "price": "16.17",
-            "available": 1,
-            "image": "images/SC-3Q.png"
         },
         {
             "id": "SM-SC-900",
@@ -8391,16 +6471,6 @@
             "price": "105.00",
             "available": 16,
             "image": "images/SNB-1100S.png"
-        },
-        {
-            "id": "SR-100",
-            "name": "Cookinex 16PC SS Glass Spice Rack",
-            "category": "Spice Racks",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Spice Racks",
-            "price": "13.36",
-            "available": 1,
-            "image": "images/SR-100.png"
         },
         {
             "id": "S-15",
@@ -8471,16 +6541,6 @@
             "price": "115.00",
             "available": 10,
             "image": "images/TV1000-RTA.png"
-        },
-        {
-            "id": "TV3BS-A",
-            "name": "Woodpeckers 3 shelf TV Stand glass",
-            "category": "TV Stands",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Stands",
-            "price": "122.00",
-            "available": 2,
-            "image": "images/TV3BS-A.png"
         },
         {
             "id": "TV700",
@@ -8603,26 +6663,6 @@
             "image": "images/SM-720-3026.png"
         },
         {
-            "id": "SM-720-3063",
-            "name": "Emerald Fixed Wall Mount 32\" to 90\"",
-            "category": "TV Wall Mounts",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Wall Mounts",
-            "price": "10.00",
-            "available": 2,
-            "image": "images/SM-720-3063.png"
-        },
-        {
-            "id": "SM-720-8079",
-            "name": "Emerald Full Motion Wall Mount 23\" to 55\"",
-            "category": "TV Wall Mounts",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Wall Mounts",
-            "price": "18.00",
-            "available": 1,
-            "image": "images/SM-720-8079.png"
-        },
-        {
             "id": "SM-720-8318A",
             "name": "Rocky Mounts Full-Motion TV Wall Mount for 17\"-65\" TVs",
             "category": "TV Wall Mounts",
@@ -8723,16 +6763,6 @@
             "image": "images/SA150.png"
         },
         {
-            "id": "SA205",
-            "name": "Outdoor Photo Cell Countdown Timer with 2 TIMED Ou",
-            "category": "Timers",
-            "parent_category": "Electronics",
-            "sub_category": "Timers",
-            "price": "12.00",
-            "available": 1,
-            "image": "images/SA205.png"
-        },
-        {
             "id": "SA215",
             "name": "Mechanical Outdoor Timer Stake with  6- Outlets",
             "category": "Timers",
@@ -8763,16 +6793,6 @@
             "image": "images/SA315.png"
         },
         {
-            "id": "CHTO40B",
-            "name": "Commercial Chef 4 Slice Toaster Oven, Black",
-            "category": "Toaster Ovens",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toaster Ovens",
-            "price": "39.00",
-            "available": 1,
-            "image": "images/CHTO40B.png"
-        },
-        {
             "id": "KE-OV-B101BK",
             "name": "Kitchen Elite 4 Slice Toaster Oven",
             "category": "Toaster Ovens",
@@ -8781,16 +6801,6 @@
             "price": "27.00",
             "available": 100,
             "image": "images/KE-OV-B101BK.png"
-        },
-        {
-            "id": "MS33018213889/ROA",
-            "name": "Mainstays XL Toaster Oven, 32L/ 6-Slice 1500W",
-            "category": "Toaster Ovens",
-            "parent_category": "Refurbished",
-            "sub_category": "Toaster Ovens",
-            "price": "50.00",
-            "available": 2,
-            "image": "images/MS33018213889-ROA.png"
         },
         {
             "id": "R22997/RB",
@@ -8833,36 +6843,6 @@
             "image": "images/WTO1-1001-BLK.png"
         },
         {
-            "id": "WTO1-1002-RED",
-            "name": "AIWA 4-Slice Toaster Oven/Broiler 750W - Red",
-            "category": "Toaster Ovens",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toaster Ovens",
-            "price": "39.00",
-            "available": 1,
-            "image": "images/WTO1-1002-RED.png"
-        },
-        {
-            "id": "CE-TT011",
-            "name": "Continental 2-slice Toaster, Cool Touch, White",
-            "category": "Toasters",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toasters",
-            "price": "15.00",
-            "available": 1,
-            "image": "images/CE-TT011.png"
-        },
-        {
-            "id": "CE-TT019",
-            "name": "Continental 2-Slice Electric Toaster, Black",
-            "category": "Toasters",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toasters",
-            "price": "15.00",
-            "available": 2,
-            "image": "images/CE-TT019.png"
-        },
-        {
             "id": "TS-260B",
             "name": "BRENTWOOD 2-Slice Toaster, Black",
             "category": "Toasters",
@@ -8891,16 +6871,6 @@
             "price": "17.00",
             "available": 50,
             "image": "images/TS-280S.png"
-        },
-        {
-            "id": "TS-284",
-            "name": "BRENTWOOD 4 Slice Toaster - Black/SS",
-            "category": "Toasters",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toasters",
-            "price": "26.00",
-            "available": 1,
-            "image": "images/TS-284.png"
         },
         {
             "id": "WTO1-1020-BLK",
@@ -9053,26 +7023,6 @@
             "image": "images/LPG1R.png"
         },
         {
-            "id": "CCUK12W/ROA",
-            "name": "Commercial Cool 1.2 cf ft Upright Freezer White RB",
-            "category": "Upright Freezers",
-            "parent_category": "Refurbished",
-            "sub_category": "Upright Freezers",
-            "price": "100.00",
-            "available": 1,
-            "image": "images/CCUK12W-ROA.png"
-        },
-        {
-            "id": "CCUN28WV/ROA",
-            "name": "Commercial Cool 2.8 cf ft Upright Freezer, RB",
-            "category": "Upright Freezers",
-            "parent_category": "Refurbished",
-            "sub_category": "Upright Freezers",
-            "price": "100.00",
-            "available": 2,
-            "image": "images/CCUN28WV-ROA.png"
-        },
-        {
             "id": "BDSV53-BLK",
             "name": "Black & Decker Power Series Flex 3-in-1 Stick Vacuum",
             "category": "Vacuums",
@@ -9091,26 +7041,6 @@
             "price": "65.00",
             "available": 3,
             "image": "images/NEU102-RBO.png"
-        },
-        {
-            "id": "NEU180",
-            "name": "Eureka PowerSpeed Lightweight Upright Vacuum",
-            "category": "Vacuums",
-            "parent_category": "Home & Office",
-            "sub_category": "Vacuums",
-            "price": "79.00",
-            "available": 1,
-            "image": "images/NEU180.png"
-        },
-        {
-            "id": "NEU203/RBO",
-            "name": "Eureka Power Speed Multi-Surface Vacuum Cleaner",
-            "category": "Vacuums",
-            "parent_category": "Refurbished",
-            "sub_category": "Vacuums",
-            "price": "79.00",
-            "available": 1,
-            "image": "images/NEU203-RBO.png"
         },
         {
             "id": "NV-08601",
@@ -9183,36 +7113,6 @@
             "image": "images/VC-459-WHT.png"
         },
         {
-            "id": "WWFB2",
-            "name": "Westinghouse Replacement Water Filter - 2pk",
-            "category": "Water Filters",
-            "parent_category": "Home & Office",
-            "sub_category": "Water Filters",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/WWFB2.png"
-        },
-        {
-            "id": "WWFB3",
-            "name": "Westinghouse Replacement Water Filter - 3pk",
-            "category": "Water Filters",
-            "parent_category": "Home & Office",
-            "sub_category": "Water Filters",
-            "price": "6.00",
-            "available": 1,
-            "image": "images/WWFB3.png"
-        },
-        {
-            "id": "AW0823CW1W",
-            "name": "Hisense Medium Room Window Air Conditioner with Remote (115-Volt, 8000-BTU)",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "180.00",
-            "available": 1,
-            "image": "images/AW0823CW1W.png"
-        },
-        {
             "id": "AW1823TW3W",
             "name": "Hisense 18000-BTU Window AC Inverter WIFI",
             "category": "Window AC",
@@ -9263,36 +7163,6 @@
             "image": "images/FFRA051WAE.png"
         },
         {
-            "id": "FFRE1533U10/ROA",
-            "name": "Frigidaire 15.000-BTU Remote Window AC - No Box / No Remote",
-            "category": "Window AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "350.00",
-            "available": 1,
-            "image": "images/FFRE1533U10-ROA.png"
-        },
-        {
-            "id": "LW1017ERSM1",
-            "name": "LG 10,000 BTU Smart Window / Wall Air Conditioner",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "289.00",
-            "available": 1,
-            "image": "images/LW1017ERSM1.png"
-        },
-        {
-            "id": "LW5016/ROA",
-            "name": "LG 5000 Btu Window AC",
-            "category": "Window AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "120.00",
-            "available": 1,
-            "image": "images/LW5016-ROA.png"
-        },
-        {
             "id": "LW5024",
             "name": "LG 5000 BTU Window AC Mechanical",
             "category": "Window AC",
@@ -9301,16 +7171,6 @@
             "price": "210.00",
             "available": 23,
             "image": "images/LW5024.png"
-        },
-        {
-            "id": "LW8024IVSM",
-            "name": "LG 8,500 BTU, 115V High Efficiency Dual Inverter Window AC with Wi-Fi & LCD Remote",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "375.00",
-            "available": 1,
-            "image": "images/LW8024IVSM.png"
         },
         {
             "id": "RMW12SQW-B/X",
@@ -9333,26 +7193,6 @@
             "image": "images/WAW0525CM1W.png"
         },
         {
-            "id": "WC05R25A",
-            "name": "Hisense 5,000 BTU Window Air Conditioner",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "150.00",
-            "available": 1,
-            "image": "images/WC05R25A.png"
-        },
-        {
-            "id": "WC06R25A",
-            "name": "Hisense 6,000 BTU Window Air Conditioner",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "180.00",
-            "available": 2,
-            "image": "images/WC06R25A.png"
-        },
-        {
             "id": "WC08W25A",
             "name": "Hisense 8,000 BTU Smart Window Air Conditioner",
             "category": "Window AC",
@@ -9363,26 +7203,6 @@
             "image": "images/WC08W25A.png"
         },
         {
-            "id": "WCH08R25A",
-            "name": "Hisense Window Air Conditioner 8,000 BTU Heat and Cool",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "240.00",
-            "available": 1,
-            "image": "images/WCH08R25A.png"
-        },
-        {
-            "id": "BC115SS9/NB",
-            "name": "INSIGNIA 115 CAN BEVERAGE COOLER, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Wine & Beverage Coolers",
-            "price": "70.00",
-            "available": 1,
-            "image": "images/BC115SS9-NB.png"
-        },
-        {
             "id": "BCC20W",
             "name": "Black & Decker Mobile Cooler Cart",
             "category": "Major Appliances",
@@ -9391,26 +7211,6 @@
             "price": "50.00",
             "available": 4,
             "image": "images/BCC20W.png"
-        },
-        {
-            "id": "BD60026",
-            "name": "Black & Decker 8 Bottle Wine Cellar",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Wine & Beverage Coolers",
-            "price": "50.00",
-            "available": 1,
-            "image": "images/BD60026.png"
-        },
-        {
-            "id": "BD60316",
-            "name": "Black & Decker 6 Bottle Wine Cellar",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Wine & Beverage Coolers",
-            "price": "50.00",
-            "available": 1,
-            "image": "images/BD60316.png"
         },
         {
             "id": "CK-CB14GRN",
@@ -9431,26 +7231,6 @@
             "price": "18.00",
             "available": 13,
             "image": "images/CK-CB26GR.png"
-        },
-        {
-            "id": "FRWW4543AS/NB",
-            "name": "Frigidaire Wine Cooler, 45 Wine Bottle Capacity, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Wine & Beverage Coolers",
-            "price": "70.00",
-            "available": 1,
-            "image": "images/FRWW4543AS-NB.png"
-        },
-        {
-            "id": "NS-BC1ZSS9/NB",
-            "name": "INSIGNIA 165 CAN Built-In Beverage Cooler, SS, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Wine & Beverage Coolers",
-            "price": "70.00",
-            "available": 2,
-            "image": "images/NS-BC1ZSS9-NB.png"
         }
     ]
 }
