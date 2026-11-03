@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 3, 2026 - 1:12 PM EST",
+    "last_updated": "November 3, 2026 - 3:07 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -19,7 +19,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Air Fryers",
             "price": "50.00",
-            "available": 5,
+            "available": 45,
             "image": "images/AF-202BKC.png"
         },
         {
@@ -33,13 +33,33 @@
             "image": "images/AF-2400SI.png"
         },
         {
+            "id": "AF-400DBK",
+            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "70.00",
+            "available": 54,
+            "image": "images/AF-400DBK.png"
+        },
+        {
+            "id": "AF-454BK",
+            "name": "Brentwood 4.5-Quart Air Fryer with Easy View Window, 60 Minute Timer & Temp. Control, Black",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "50.00",
+            "available": 100,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "AF-800DBK",
             "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
             "category": "Air Fryers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Air Fryers",
             "price": "72.00",
-            "available": 4,
+            "available": 122,
             "image": "images/AF-800DBK.png"
         },
         {
@@ -61,6 +81,16 @@
             "price": "105.00",
             "available": 4,
             "image": "images/SM-AIR-1899-RBO.png"
+        },
+        {
+            "id": "TS-1005",
+            "name": "BRENTWOOD 5 Quart Food Steamer",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "26.00",
+            "available": 20,
+            "image": "images/TS-1005.png"
         },
         {
             "id": "HAP9435B",
@@ -229,7 +259,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "50.00",
-            "available": 41,
+            "available": 35,
             "image": "images/6706-000.png"
         },
         {
@@ -339,7 +369,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "7.00",
-            "available": 70,
+            "available": 214,
             "image": "images/GA-103S.png"
         },
         {
@@ -379,7 +409,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "15.00",
-            "available": 21,
+            "available": 81,
             "image": "images/HM-48B.png"
         },
         {
@@ -399,8 +429,38 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "15.00",
-            "available": 22,
+            "available": 70,
             "image": "images/HM-48W.png"
+        },
+        {
+            "id": "JB-191BK",
+            "name": "BRENTWOOD Personal Blender - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "22.00",
+            "available": 120,
+            "image": "images/JB-191BK.png"
+        },
+        {
+            "id": "JB-191W",
+            "name": "BRENTWOOD Personal Blender - White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "22.00",
+            "available": 120,
+            "image": "images/JB-191W.png"
+        },
+        {
+            "id": "JB-220B",
+            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "30.00",
+            "available": 200,
+            "image": "images/JB-220B.png"
         },
         {
             "id": "JB-220R",
@@ -409,8 +469,18 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "30.00",
-            "available": 32,
+            "available": 92,
             "image": "images/JB-220R.png"
+        },
+        {
+            "id": "JB-220W",
+            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "30.00",
+            "available": 200,
+            "image": "images/JB-220W.png"
         },
         {
             "id": "JB-920B",
@@ -419,7 +489,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "35.00",
-            "available": 14,
+            "available": 214,
             "image": "images/JB-920B.png"
         },
         {
@@ -429,7 +499,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "35.00",
-            "available": 24,
+            "available": 124,
             "image": "images/JB-920R.png"
         },
         {
@@ -439,8 +509,18 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "35.00",
-            "available": 71,
+            "available": 191,
             "image": "images/JB-920W.png"
+        },
+        {
+            "id": "JBS-1000BK",
+            "name": "BRENTWOOD Select Professional Smart Blender w/ 1000w Ice Crushing Power, Large 8.5-Cup Plastic Jar, SS Blades, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "70.00",
+            "available": 56,
+            "image": "images/JBS-1000BK.png"
         },
         {
             "id": "JBS-500BK",
@@ -453,13 +533,23 @@
             "image": "images/JBS-500BK.png"
         },
         {
+            "id": "MC-102BK",
+            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "15.00",
+            "available": 112,
+            "image": "images/MC-102BK.png"
+        },
+        {
             "id": "MC-102W",
             "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, White",
             "category": "Blenders & Mixers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "15.00",
-            "available": 17,
+            "available": 97,
             "image": "images/MC-102W.png"
         },
         {
@@ -479,7 +569,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Blenders & Mixers",
             "price": "1.00",
-            "available": 78,
+            "available": 72,
             "image": "images/R56202-RBO.png"
         },
         {
@@ -501,16 +591,6 @@
             "price": "28.00",
             "available": 11,
             "image": "images/RJB-100W.png"
-        },
-        {
-            "id": "SJ479",
-            "name": " MoRollio 45RPM Cold Press Slow Juicer",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "50.00",
-            "available": 6,
-            "image": "images/SJ479.png"
         },
         {
             "id": "SM-1152",
@@ -1179,7 +1259,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "65.00",
-            "available": 137,
+            "available": 135,
             "image": "images/E-B9.png"
         },
         {
@@ -1439,7 +1519,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "150.00",
-            "available": 5,
+            "available": 55,
             "image": "images/PBX-100.png"
         },
         {
@@ -1489,7 +1569,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "80.00",
-            "available": 72,
+            "available": 122,
             "image": "images/PBX-151SM.png"
         },
         {
@@ -1559,7 +1639,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "30.00",
-            "available": 101,
+            "available": 201,
             "image": "images/PBX-68SM.png"
         },
         {
@@ -2023,6 +2103,16 @@
             "image": "images/J-250BT-BLK.png"
         },
         {
+            "id": "J-290BT-BLK",
+            "name": "QFX Portable CD Player and Cassette Recorder + BT Boombox, Black",
+            "category": "Boombox",
+            "parent_category": "Audio",
+            "sub_category": "Boombox",
+            "price": "60.00",
+            "available": 34,
+            "image": "images/J-290BT-BLK.png"
+        },
+        {
             "id": "J-290BT-SIL",
             "name": "QFX Portable CD Player and Cassette Recorder + BT Boombox, Silver",
             "category": "Boombox",
@@ -2339,7 +2429,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "17.00",
-            "available": 3,
+            "available": 87,
             "image": "images/CG-158B.png"
         },
         {
@@ -2359,7 +2449,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "17.00",
-            "available": 6,
+            "available": 90,
             "image": "images/CG-158W.png"
         },
         {
@@ -2393,6 +2483,16 @@
             "image": "images/CTSA-3500.png"
         },
         {
+            "id": "KT-1610BK",
+            "name": "BRENTWOOD 1-liter Cordless Tea Kettle Blk",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "17.00",
+            "available": 60,
+            "image": "images/KT-1610BK.png"
+        },
+        {
             "id": "KT-1618-B",
             "name": "BRENTWOOD 1.7-liter Electric Tea Kettle Blk",
             "category": "Coffee & Tea",
@@ -2411,6 +2511,26 @@
             "price": "30.00",
             "available": 59,
             "image": "images/KT-1780.png"
+        },
+        {
+            "id": "KT-1900R",
+            "name": "BRENTWOOD 1.7-liter Glass Electric Tea Kettle - RE",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "25.00",
+            "available": 60,
+            "image": "images/KT-1900R.png"
+        },
+        {
+            "id": "KT-1900W",
+            "name": "BRENTWOOD 1.7-liter Glass Electric Tea Kettle - White",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "25.00",
+            "available": 42,
+            "image": "images/KT-1900W.png"
         },
         {
             "id": "KT-1962BK",
@@ -2461,6 +2581,16 @@
             "price": "25.00",
             "available": 46,
             "image": "images/SM-KET-1404.png"
+        },
+        {
+            "id": "TS-1045BK",
+            "name": "BRENTWOOD 7 Egg Cooker/Steamer -Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "15.00",
+            "available": 24,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "TS-1101BK",
@@ -2529,7 +2659,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "21.00",
-            "available": 4,
+            "available": 52,
             "image": "images/TS-213BK.png"
         },
         {
@@ -2539,7 +2669,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "21.00",
-            "available": 11,
+            "available": 47,
             "image": "images/TS-213W.png"
         },
         {
@@ -2549,7 +2679,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "24.00",
-            "available": 19,
+            "available": 67,
             "image": "images/TS-215BK.png"
         },
         {
@@ -2559,7 +2689,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "24.00",
-            "available": 16,
+            "available": 76,
             "image": "images/TS-215W.png"
         },
         {
@@ -3559,7 +3689,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Food Processors",
             "price": "25.00",
-            "available": 2,
+            "available": 38,
             "image": "images/HB-38BK.png"
         },
         {
@@ -3569,7 +3699,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Food Processors",
             "price": "25.00",
-            "available": 10,
+            "available": 46,
             "image": "images/HB-38W.png"
         },
         {
@@ -4449,7 +4579,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "28.00",
-            "available": 213,
+            "available": 209,
             "image": "images/25440PSC.png"
         },
         {
@@ -4499,7 +4629,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "50.00",
-            "available": 23,
+            "available": 71,
             "image": "images/DF-730S.png"
         },
         {
@@ -4653,13 +4783,23 @@
             "image": "images/TS-241BK.png"
         },
         {
+            "id": "TS-244BK",
+            "name": "BRENTWOOD Electric Non-Stick 2-Slice Belgian Waffle Maker, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "16.00",
+            "available": 120,
+            "image": "images/TS-244BK.png"
+        },
+        {
             "id": "TS-247BK",
             "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
             "category": "Heating & Cooking",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "17.00",
-            "available": 88,
+            "available": 238,
             "image": "images/TS-247BK.png"
         },
         {
@@ -4709,7 +4849,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "29.00",
-            "available": 8,
+            "available": 38,
             "image": "images/TS-611SS.png"
         },
         {
@@ -4719,8 +4859,18 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "40.00",
-            "available": 4,
+            "available": 28,
             "image": "images/TS-643BK.png"
+        },
+        {
+            "id": "TS-651",
+            "name": "BRENTWOOD Panini Maker - SS",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "42.00",
+            "available": 44,
+            "image": "images/TS-651.png"
         },
         {
             "id": "TS-810",
@@ -4729,7 +4879,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "25.00",
-            "available": 6,
+            "available": 54,
             "image": "images/TS-810.png"
         },
         {
@@ -4803,6 +4953,56 @@
             "image": "images/IM-36CR.png"
         },
         {
+            "id": "MPI-51BK",
+            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "15.00",
+            "available": 500,
+            "image": "images/MPI-51BK.png"
+        },
+        {
+            "id": "MPI-59BK",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "25.00",
+            "available": 54,
+            "image": "images/MPI-59BK.png"
+        },
+        {
+            "id": "MPI-59W",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, White",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "25.00",
+            "available": 58,
+            "image": "images/MPI-59W.png"
+        },
+        {
+            "id": "MPI-69BKRG",
+            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "25.00",
+            "available": 60,
+            "image": "images/MPI-69BKRG.png"
+        },
+        {
+            "id": "MPI-70",
+            "name": "BRENTWOOD Classic Non-Stick Steam/Dry Iron -Black",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "28.00",
+            "available": 42,
+            "image": "images/MPI-70.png"
+        },
+        {
             "id": "ED-675G",
             "name": "Cookinex 1.0LT CITRUS JUICER 40W - Green",
             "category": "Juicers",
@@ -4859,7 +5059,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Juicers",
             "price": "25.00",
-            "available": 20,
+            "available": 50,
             "image": "images/J-26BK.png"
         },
         {
@@ -4873,13 +5073,23 @@
             "image": "images/J-28BK.png"
         },
         {
+            "id": "JC-452B",
+            "name": "BRENTWOOD 2 Speed Juice Extractor, Black",
+            "category": "Juicers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Juicers",
+            "price": "50.00",
+            "available": 36,
+            "image": "images/JC-452B.png"
+        },
+        {
             "id": "JC-452W",
             "name": "BRENTWOOD 2 Speed Juice Extractor, White",
             "category": "Juicers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Juicers",
             "price": "50.00",
-            "available": 11,
+            "available": 53,
             "image": "images/JC-452W.png"
         },
         {
@@ -4889,7 +5099,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Juicers",
             "price": "52.00",
-            "available": 51,
+            "available": 47,
             "image": "images/R67870-RBO.png"
         },
         {
@@ -4989,7 +5199,7 @@
             "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "330.00",
-            "available": 7,
+            "available": 4,
             "image": "images/FW70-1558L.png"
         },
         {
@@ -5299,7 +5509,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "60.00",
-            "available": 698,
+            "available": 488,
             "image": "images/B20PXP78-A70B.png"
         },
         {
@@ -5559,7 +5769,7 @@
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
             "price": "52.00",
-            "available": 73,
+            "available": 133,
             "image": "images/PBX-1206SM.png"
         },
         {
@@ -5959,7 +6169,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "35.00",
-            "available": 56,
+            "available": 52,
             "image": "images/1945.png"
         },
         {
@@ -5969,7 +6179,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "40.00",
-            "available": 40,
+            "available": 36,
             "image": "images/1947.png"
         },
         {
@@ -5979,7 +6189,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "47.00",
-            "available": 7,
+            "available": 3,
             "image": "images/1949.png"
         },
         {
@@ -6369,7 +6579,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "48.00",
-            "available": 4,
+            "available": 44,
             "image": "images/RC-5110DS.png"
         },
         {
@@ -6381,6 +6591,16 @@
             "price": "32.00",
             "available": 9,
             "image": "images/TS-15.png"
+        },
+        {
+            "id": "TS-180S",
+            "name": "BRENTWOOD 8 CUP - 1.5 L Rice Cooker with Steamer, White",
+            "category": "Rice Cookers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Rice Cookers",
+            "price": "32.00",
+            "available": 34,
+            "image": "images/TS-180S.png"
         },
         {
             "id": "TS-380S",
@@ -6399,7 +6619,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "43.00",
-            "available": 10,
+            "available": 50,
             "image": "images/TS-480S.png"
         },
         {
@@ -6409,7 +6629,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "25.00",
-            "available": 2,
+            "available": 42,
             "image": "images/TS-700S.png"
         },
         {
@@ -6479,7 +6699,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Skillets",
             "price": "35.00",
-            "available": 14,
+            "available": 34,
             "image": "images/SK-65.png"
         },
         {
@@ -6939,7 +7159,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toasters",
             "price": "15.00",
-            "available": 30,
+            "available": 90,
             "image": "images/TS-260B.png"
         },
         {
@@ -6949,8 +7169,18 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toasters",
             "price": "15.00",
-            "available": 46,
+            "available": 106,
             "image": "images/TS-260W.png"
+        },
+        {
+            "id": "TS-265",
+            "name": "BRENTWOOD 4-Slice Toaster, White",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "25.00",
+            "available": 36,
+            "image": "images/TS-265.png"
         },
         {
             "id": "TS-280S",
@@ -6961,6 +7191,16 @@
             "price": "17.00",
             "available": 50,
             "image": "images/TS-280S.png"
+        },
+        {
+            "id": "TS-284",
+            "name": "BRENTWOOD 4 Slice Toaster - Black/SS",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "26.00",
+            "available": 40,
+            "image": "images/TS-284.png"
         },
         {
             "id": "WTO1-1020-BLK",
