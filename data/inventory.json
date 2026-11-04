@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 3, 2026 - 3:07 PM EST",
+    "last_updated": "November 3, 2026 - 7:02 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -19,7 +19,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Air Fryers",
             "price": "50.00",
-            "available": 45,
+            "available": 41,
             "image": "images/AF-202BKC.png"
         },
         {
@@ -50,7 +50,7 @@
             "sub_category": "Air Fryers",
             "price": "50.00",
             "available": 100,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/AF-454BK.png"
         },
         {
             "id": "AF-800DBK",
@@ -579,7 +579,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "28.00",
-            "available": 13,
+            "available": 49,
             "image": "images/RJB-100BK.png"
         },
         {
@@ -589,7 +589,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "28.00",
-            "available": 11,
+            "available": 47,
             "image": "images/RJB-100W.png"
         },
         {
@@ -1259,7 +1259,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "65.00",
-            "available": 135,
+            "available": 129,
             "image": "images/E-B9.png"
         },
         {
@@ -1519,7 +1519,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "150.00",
-            "available": 55,
+            "available": 51,
             "image": "images/PBX-100.png"
         },
         {
@@ -1979,7 +1979,7 @@
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "22.00",
-            "available": 20,
+            "available": 14,
             "image": "images/WPBMINI-BLU.png"
         },
         {
@@ -2549,7 +2549,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "20.00",
-            "available": 157,
+            "available": 155,
             "image": "images/SM-KET-1368.png"
         },
         {
@@ -2559,7 +2559,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "20.00",
-            "available": 46,
+            "available": 44,
             "image": "images/SM-KET-1377-B.png"
         },
         {
@@ -2590,7 +2590,7 @@
             "sub_category": "Coffee & Tea",
             "price": "15.00",
             "available": 24,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-1045BK.png"
         },
         {
             "id": "TS-1101BK",
@@ -2759,7 +2759,7 @@
             "parent_category": "Electronics",
             "sub_category": "Computing",
             "price": "6.00",
-            "available": 277,
+            "available": 271,
             "image": "images/D-09-CA57BN.png"
         },
         {
@@ -2869,7 +2869,7 @@
             "parent_category": "Electronics",
             "sub_category": "DVD Players",
             "price": "27.00",
-            "available": 24,
+            "available": 19,
             "image": "images/VP-110.png"
         },
         {
@@ -4439,8 +4439,18 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 627,
+            "available": 624,
             "image": "images/5165.png"
+        },
+        {
+            "id": "H-3013",
+            "name": "Optimus Portable Utility Heater with Thermostat",
+            "category": "Heaters",
+            "parent_category": "Climate Control",
+            "sub_category": "Heaters",
+            "price": "28.00",
+            "available": 510,
+            "image": "images/H-3013.png"
         },
         {
             "id": "HO-0250H",
@@ -4459,7 +4469,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "30.00",
-            "available": 54,
+            "available": 52,
             "image": "images/MSH20Q3ABB-RBO.png"
         },
         {
@@ -4479,7 +4489,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 203,
+            "available": 199,
             "image": "images/MSHC23R6-RBO.png"
         },
         {
@@ -4489,7 +4499,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "23.00",
-            "available": 973,
+            "available": 967,
             "image": "images/NT15-20A-G.png"
         },
         {
@@ -4559,7 +4569,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 36,
+            "available": 34,
             "image": "images/WSH0702ABB-RBO.png"
         },
         {
@@ -4569,7 +4579,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 4,
+            "available": 2,
             "image": "images/WSH0702AWW-RBO.png"
         },
         {
@@ -4679,7 +4689,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "10.00",
-            "available": 218,
+            "available": 215,
             "image": "images/SM-STV-2600.png"
         },
         {
@@ -4699,7 +4709,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "14.00",
-            "available": 13,
+            "available": 10,
             "image": "images/SM-STV-2605.png"
         },
         {
@@ -4719,7 +4729,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "20.00",
-            "available": 256,
+            "available": 253,
             "image": "images/SM-STV-2681.png"
         },
         {
@@ -4729,7 +4739,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "25.00",
-            "available": 70,
+            "available": 68,
             "image": "images/SM-STV-2685.png"
         },
         {
@@ -5509,7 +5519,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "60.00",
-            "available": 488,
+            "available": 485,
             "image": "images/B20PXP78-A70B.png"
         },
         {
@@ -5519,7 +5529,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Microwaves",
             "price": "60.00",
-            "available": 722,
+            "available": 719,
             "image": "images/B20PXP78-A70W.png"
         },
         {
@@ -5569,7 +5579,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Microwaves",
             "price": "100.00",
-            "available": 9,
+            "available": 5,
             "image": "images/NN-SU64LW-RB.png"
         },
         {
@@ -5649,7 +5659,7 @@
             "parent_category": "Electronics",
             "sub_category": "Multimedia Players",
             "price": "90.00",
-            "available": 20,
+            "available": 16,
             "image": "images/PDT-307DTV.png"
         },
         {
@@ -5659,7 +5669,7 @@
             "parent_category": "Electronics",
             "sub_category": "Multimedia Players",
             "price": "100.00",
-            "available": 23,
+            "available": 19,
             "image": "images/PDT-309DTV.png"
         },
         {
@@ -5929,7 +5939,7 @@
             "parent_category": "Electronics",
             "sub_category": "Phones",
             "price": "25.00",
-            "available": 107,
+            "available": 103,
             "image": "images/CS5119.png"
         },
         {
@@ -5949,7 +5959,7 @@
             "parent_category": "Electronics",
             "sub_category": "Phones",
             "price": "55.00",
-            "available": 64,
+            "available": 62,
             "image": "images/CS5129-2.png"
         },
         {
@@ -6189,7 +6199,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "47.00",
-            "available": 3,
+            "available": 7,
             "image": "images/1949.png"
         },
         {
@@ -6289,7 +6299,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "13.00",
-            "available": 39,
+            "available": 35,
             "image": "images/R-24.png"
         },
         {
@@ -6299,7 +6309,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "15.00",
-            "available": 64,
+            "available": 59,
             "image": "images/R-3.png"
         },
         {
@@ -6329,7 +6339,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "25.00",
-            "available": 25,
+            "available": 23,
             "image": "images/R-333BT-RED.png"
         },
         {
@@ -6489,7 +6499,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "6.00",
-            "available": 325,
+            "available": 313,
             "image": "images/REM-11.png"
         },
         {
@@ -6539,7 +6549,7 @@
             "parent_category": "Electronics",
             "sub_category": "Remotes",
             "price": "9.00",
-            "available": 147,
+            "available": 135,
             "image": "images/TKTC6GB.png"
         },
         {
