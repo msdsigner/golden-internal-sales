@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 6, 2026 - 1:12 PM EST",
+    "last_updated": "November 9, 2026 - 11:01 AM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -209,7 +209,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "25.00",
-            "available": 1,
+            "available": 2,
             "image": "images/ANT1560E.png"
         },
         {
@@ -239,7 +239,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "6.00",
-            "available": 90,
+            "available": 102,
             "image": "images/AZONJN9.png"
         },
         {
@@ -2059,7 +2059,7 @@
             "parent_category": "Audio",
             "sub_category": "Boombox",
             "price": "25.00",
-            "available": 12,
+            "available": 9,
             "image": "images/J-200BT.png"
         },
         {
@@ -2169,7 +2169,7 @@
             "parent_category": "Electronics",
             "sub_category": "CD Players",
             "price": "26.00",
-            "available": 25,
+            "available": 21,
             "image": "images/CD-60R.png"
         },
         {
@@ -2189,7 +2189,7 @@
             "parent_category": "Electronics",
             "sub_category": "CD Players",
             "price": "70.00",
-            "available": 12,
+            "available": 11,
             "image": "images/NPB-431.png"
         },
         {
@@ -2339,7 +2339,7 @@
             "parent_category": "Electronics",
             "sub_category": "Chargers",
             "price": "6.00",
-            "available": 352,
+            "available": 346,
             "image": "images/ADP-101.png"
         },
         {
@@ -2839,7 +2839,7 @@
             "parent_category": "Electronics",
             "sub_category": "DVD Players",
             "price": "30.00",
-            "available": 104,
+            "available": 100,
             "image": "images/DVD350H.png"
         },
         {
@@ -3889,7 +3889,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Grooming",
             "price": "22.00",
-            "available": 70,
+            "available": 67,
             "image": "images/CBT1-9000-SIG.png"
         },
         {
@@ -3949,7 +3949,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Hair Styling",
             "price": "12.00",
-            "available": 457,
+            "available": 454,
             "image": "images/CXH1-5000-BOX.png"
         },
         {
@@ -4439,7 +4439,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 441,
+            "available": 439,
             "image": "images/5165.png"
         },
         {
@@ -4449,7 +4449,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "28.00",
-            "available": 448,
+            "available": 436,
             "image": "images/H-3013.png"
         },
         {
@@ -4469,7 +4469,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "30.00",
-            "available": 187,
+            "available": 181,
             "image": "images/MSH20Q3ABB-RBO.png"
         },
         {
@@ -4479,7 +4479,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "30.00",
-            "available": 89,
+            "available": 86,
             "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
@@ -4489,7 +4489,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 57,
+            "available": 54,
             "image": "images/MSHC23R6-RBO.png"
         },
         {
@@ -4499,7 +4499,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "23.00",
-            "available": 881,
+            "available": 869,
             "image": "images/NT15-20A-G.png"
         },
         {
@@ -4519,7 +4519,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "20.00",
-            "available": 7,
+            "available": 1,
             "image": "images/PSH08F1AWW-RBO.png"
         },
         {
@@ -4569,7 +4569,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 130,
+            "available": 127,
             "image": "images/WSH0702ABB-RBO.png"
         },
         {
@@ -4579,7 +4579,7 @@
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 54,
+            "available": 51,
             "image": "images/WSH0702AWW-RBO.png"
         },
         {
@@ -4679,7 +4679,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "19.00",
-            "available": 91,
+            "available": 85,
             "image": "images/IM-306DB.png"
         },
         {
@@ -4689,7 +4689,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "10.00",
-            "available": 215,
+            "available": 209,
             "image": "images/SM-STV-2600.png"
         },
         {
@@ -4829,7 +4829,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "36.00",
-            "available": 12,
+            "available": 8,
             "image": "images/TS-372.png"
         },
         {
@@ -5219,7 +5219,7 @@
             "parent_category": "Electronics",
             "sub_category": "Lighting",
             "price": "8.00",
-            "available": 400,
+            "available": 401,
             "image": "images/SM-720-1638.png"
         },
         {
@@ -6259,7 +6259,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "13.00",
-            "available": 35,
+            "available": 31,
             "image": "images/R-24.png"
         },
         {
@@ -6269,7 +6269,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "15.00",
-            "available": 59,
+            "available": 53,
             "image": "images/R-3.png"
         },
         {
@@ -6359,7 +6359,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "12.00",
-            "available": 29,
+            "available": 27,
             "image": "images/RETRO-10.png"
         },
         {
@@ -6379,7 +6379,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "8.00",
-            "available": 90,
+            "available": 88,
             "image": "images/RX-3.png"
         },
         {
@@ -7219,7 +7219,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "28.00",
-            "available": 5,
+            "available": 2,
             "image": "images/79424-200.png"
         },
         {
@@ -7229,7 +7229,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "23.00",
-            "available": 15,
+            "available": 12,
             "image": "images/79449.png"
         },
         {
@@ -7239,7 +7239,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "35.00",
-            "available": 38,
+            "available": 35,
             "image": "images/9243-4501.png"
         },
         {
@@ -7249,7 +7249,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "30.00",
-            "available": 23,
+            "available": 20,
             "image": "images/9243-6901.png"
         },
         {
@@ -7259,7 +7259,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "18.00",
-            "available": 123,
+            "available": 120,
             "image": "images/9314-300.png"
         },
         {
@@ -7269,18 +7269,8 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "40.00",
-            "available": 24,
+            "available": 21,
             "image": "images/9670-1301.png"
-        },
-        {
-            "id": "9916-817",
-            "name": "Wahl Beard with Self-Sharpening Carbon Steel Blades",
-            "category": "Trimmers",
-            "parent_category": "Personal Care",
-            "sub_category": "Trimmers",
-            "price": "27.00",
-            "available": 1,
-            "image": "images/9916-817.png"
         },
         {
             "id": "CBH1-4002-SLV",
@@ -7309,7 +7299,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "5.50",
-            "available": 232,
+            "available": 229,
             "image": "images/CXT1-3500-WM1.png"
         },
         {
