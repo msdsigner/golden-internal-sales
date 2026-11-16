@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 16, 2026 - 11:04 AM EST",
+    "last_updated": "November 16, 2026 - 1:12 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -2913,16 +2913,6 @@
             "image": "images/CCD100W6-ROA.png"
         },
         {
-            "id": "BT751",
-            "name": "Sentry Talk BUDS True Wireless Buds, Black",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "9.00",
-            "available": 30,
-            "image": "images/BT751.png"
-        },
-        {
             "id": "BT752",
             "name": "Sentry Talk BUDS True Wireless Buds, White",
             "category": "Earphones",
@@ -3101,6 +3091,16 @@
             "price": "3.00",
             "available": 198,
             "image": "images/HPSHO228.png"
+        },
+        {
+            "id": "HPXBT751",
+            "name": "Sentry Talk BUDS True Wireless Buds, Black",
+            "category": "Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Earphones",
+            "price": "9.00",
+            "available": 30,
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "HPXBT957C",
