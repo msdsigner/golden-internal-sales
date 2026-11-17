@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 17, 2026 - 11:22 AM EST",
+    "last_updated": "November 17, 2026 - 11:47 AM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -3070,7 +3070,7 @@
             "sub_category": "Earphones",
             "price": "9.00",
             "available": 30,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBT751.png"
         },
         {
             "id": "HPXBT957C",
@@ -5420,7 +5420,7 @@
             "sub_category": "Microwaves",
             "price": "100.00",
             "available": 2,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-64MBC-RB.png"
         },
         {
             "id": "NN-SC64MBC/RBO",
@@ -5440,7 +5440,7 @@
             "sub_category": "Microwaves",
             "price": "100.00",
             "available": 2,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SU65QB-RB.png"
         },
         {
             "id": "NN-SU65QB/RBO",
@@ -5460,7 +5460,7 @@
             "sub_category": "Microwaves",
             "price": "100.00",
             "available": 2,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SU65QW-RB.png"
         },
         {
             "id": "NN-SU65QW/RBO",
@@ -5470,7 +5470,7 @@
             "sub_category": "Microwaves",
             "price": "100.00",
             "available": 6,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SU65QW-RBO.png"
         },
         {
             "id": "NNSC64MW/RB",
@@ -5530,7 +5530,7 @@
             "sub_category": "Microwaves",
             "price": "100.00",
             "available": 1,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NNSU65NW-RBO.png"
         },
         {
             "id": "NNSU65NWC/RBO",
