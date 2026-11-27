@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 26, 2026 - 1:13 PM EST",
+    "last_updated": "November 27, 2026 - 1:13 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -113,6 +113,16 @@
             "image": "images/HPXSPBT14.png"
         },
         {
+            "id": "RC551",
+            "name": "RCA Digital Radio Alarm Clock",
+            "category": "Alarm Clocks",
+            "parent_category": "Home & Office",
+            "sub_category": "Alarm Clocks",
+            "price": "17.00",
+            "available": 8,
+            "image": "images/RC551.png"
+        },
+        {
             "id": "WAC5-1002-BLK",
             "name": "AIWA RGB Clock with USB Output",
             "category": "Alarm Clocks",
@@ -179,7 +189,7 @@
             "parent_category": "Electronics",
             "sub_category": "Antennas",
             "price": "25.00",
-            "available": 2,
+            "available": 1,
             "image": "images/ANT1560E.png"
         },
         {
@@ -429,7 +439,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "30.00",
-            "available": 45,
+            "available": 29,
             "image": "images/JB-220R.png"
         },
         {
@@ -2569,7 +2579,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
             "price": "40.00",
-            "available": 18,
+            "available": 17,
             "image": "images/TS-1101BK.png"
         },
         {
@@ -2819,7 +2829,7 @@
             "parent_category": "Electronics",
             "sub_category": "DVD Players",
             "price": "27.00",
-            "available": 3,
+            "available": 8,
             "image": "images/VP-110.png"
         },
         {
@@ -2999,7 +3009,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "8.00",
-            "available": 50,
+            "available": 74,
             "image": "images/HP-E180-BLK.png"
         },
         {
@@ -3009,7 +3019,7 @@
             "parent_category": "Audio",
             "sub_category": "Earphones",
             "price": "8.00",
-            "available": 64,
+            "available": 88,
             "image": "images/HP-E180-WHT.png"
         },
         {
@@ -3803,6 +3813,16 @@
             "image": "images/CBT1-3007-BLY.png"
         },
         {
+            "id": "CBT1-6002-SLV",
+            "name": "Barbasol T-Blade Trimmer",
+            "category": "Grooming",
+            "parent_category": "Personal Care",
+            "sub_category": "Grooming",
+            "price": "12.00",
+            "available": 24,
+            "image": "images/CBT1-6002-SLV.png"
+        },
+        {
             "id": "CBT1-7001-SIG",
             "name": "Barbasol Vacuum lcd Beard Trimmer, Rechargeable, Adjustable Settings, Blk",
             "category": "Grooming",
@@ -3831,6 +3851,16 @@
             "price": "7.00",
             "available": 3,
             "image": "images/CXT1-3500-HYP.png"
+        },
+        {
+            "id": "CXT1-6002-HYP",
+            "name": "Xtreme Cutting Edge Rechargeable Hypoallergenic T-Blade Zero Gapped Trimmer",
+            "category": "Grooming",
+            "parent_category": "Personal Care",
+            "sub_category": "Grooming",
+            "price": "12.00",
+            "available": 18,
+            "image": "images/CXT1-6002-HYP.png"
         },
         {
             "id": "NV-09586",
@@ -4009,7 +4039,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "12.00",
-            "available": 63,
+            "available": 87,
             "image": "images/HP-E60-BLK.png"
         },
         {
@@ -4019,7 +4049,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "12.00",
-            "available": 38,
+            "available": 62,
             "image": "images/HP-E60-DBL.png"
         },
         {
@@ -4029,7 +4059,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "12.00",
-            "available": 45,
+            "available": 46,
             "image": "images/HP-E60-RED.png"
         },
         {
@@ -4039,7 +4069,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "12.00",
-            "available": 33,
+            "available": 57,
             "image": "images/HP-E60-WHT.png"
         },
         {
@@ -4239,7 +4269,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "27.00",
-            "available": 56,
+            "available": 74,
             "image": "images/HPXGX1000.png"
         },
         {
@@ -4309,7 +4339,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "2.50",
-            "available": 180,
+            "available": 276,
             "image": "images/HPXHO419.png"
         },
         {
@@ -4319,7 +4349,7 @@
             "parent_category": "Audio",
             "sub_category": "Headphones",
             "price": "5.00",
-            "available": 253,
+            "available": 254,
             "image": "images/HPXHS261.png"
         },
         {
@@ -4349,7 +4379,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "42.00",
-            "available": 141,
+            "available": 153,
             "image": "images/5165.png"
         },
         {
@@ -4359,7 +4389,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "28.00",
-            "available": 166,
+            "available": 190,
             "image": "images/H-3013.png"
         },
         {
@@ -4383,13 +4413,23 @@
             "image": "images/MSH20Q3ABB-RBO.png"
         },
         {
+            "id": "MSH20Q3AWW/RBO",
+            "name": "Midea Radiant Quartz Space Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "30.00",
+            "available": 12,
+            "image": "images/MSH20Q3AWW-RBO.png"
+        },
+        {
             "id": "MSHC23R6/RBO",
             "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
             "category": "Heaters",
             "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "35.00",
-            "available": 228,
+            "available": 240,
             "image": "images/MSHC23R6-RBO.png"
         },
         {
@@ -4399,7 +4439,7 @@
             "parent_category": "Climate Control",
             "sub_category": "Heaters",
             "price": "23.00",
-            "available": 15,
+            "available": 33,
             "image": "images/NT15-20A-G.png"
         },
         {
@@ -4539,7 +4579,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "50.00",
-            "available": 20,
+            "available": 19,
             "image": "images/DF-730S.png"
         },
         {
@@ -4619,7 +4659,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "20.00",
-            "available": 271,
+            "available": 261,
             "image": "images/SM-STV-2681.png"
         },
         {
@@ -4739,7 +4779,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "65.00",
-            "available": 20,
+            "available": 19,
             "image": "images/TS-391.png"
         },
         {
@@ -4869,7 +4909,7 @@
             "parent_category": "Home & Office",
             "sub_category": "Irons",
             "price": "25.00",
-            "available": 29,
+            "available": 28,
             "image": "images/MPI-69BKRG.png"
         },
         {
@@ -6169,8 +6209,18 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "9.00",
-            "available": 38,
+            "available": 62,
             "image": "images/R-16.png"
+        },
+        {
+            "id": "R-24",
+            "name": "QFX AM/FM/SW Radio",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "13.00",
+            "available": 20,
+            "image": "images/R-24.png"
         },
         {
             "id": "R-3",
@@ -6219,7 +6269,7 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "28.00",
-            "available": 46,
+            "available": 66,
             "image": "images/R-334BT-BLK.png"
         },
         {
@@ -6239,8 +6289,18 @@
             "parent_category": "Audio",
             "sub_category": "Radios",
             "price": "28.00",
-            "available": 9,
+            "available": 29,
             "image": "images/R-334BT-RED.png"
+        },
+        {
+            "id": "R-34",
+            "name": "QFX Rechargeable Pocket Size AM/FM Radio with LED Flashlight + Earphone",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "7.50",
+            "available": 24,
+            "image": "images/R-34.png"
         },
         {
             "id": "RCD5",
@@ -6519,7 +6579,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Shavers",
             "price": "7.50",
-            "available": 163,
+            "available": 199,
             "image": "images/CXE1-1008-WM1.png"
         },
         {
@@ -6989,7 +7049,7 @@
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Toaster Ovens",
             "price": "27.00",
-            "available": 40,
+            "available": 39,
             "image": "images/KE-OV-B101BK.png"
         },
         {
@@ -7159,7 +7219,7 @@
             "parent_category": "Personal Care",
             "sub_category": "Trimmers",
             "price": "20.00",
-            "available": 109,
+            "available": 121,
             "image": "images/CBK1-6001-TIN.png"
         },
         {
